@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T19:11:59.113Z",
+  "scraped_at": "2026-08-22T20:39:04.056Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -690,6 +690,167 @@
       ]
     },
     {
+      "external_offer_id": "4Nkc6l8",
+      "official_url": "https://offers.greatclips.com/4Nkc6l8",
+      "source": "meta_ads",
+      "source_url": "https://coupons-haircut.com/7-99-coupon",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 at Great Clips Fairview at 7020 City Center Way in Fairview. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-09-12",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Fairview, Fairview, TN",
+      "eligible_cities": [
+        "Fairview"
+      ],
+      "eligible_states": [
+        "TN"
+      ],
+      "terms": "Valid at Great Clips Fairview at 7020 City Center Way in Fairview, TN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/12/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
+      "discovery_confidence": "medium"
+    },
+    {
+      "external_offer_id": "ApCByV7",
+      "official_url": "https://offers.greatclips.com/ApCByV7",
+      "source": "meta_ads",
+      "source_url": "https://coupons-haircut.com/7-99-coupon",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 at Great Clips Oak Grove Center at 244 Segler Drive in Oak Grove. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-09-12",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Oak Grove Center, Oak",
+      "eligible_cities": [
+        "Oak"
+      ],
+      "eligible_states": [],
+      "terms": "Valid at Great Clips Oak Grove Center at 244 Segler Drive in Oak Grove, KY. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/12/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2895"
+      ]
+    },
+    {
+      "external_offer_id": "FrPijks",
+      "official_url": "https://offers.greatclips.com/FrPijks",
+      "source": "meta_ads",
+      "source_url": "https://coupons-haircut.com/7-99-coupon",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 at Great Clips Winchester Commons at 2190 Winchester Rd NE in Huntsville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-09-12",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Winchester Commons, Huntsville, AL",
+      "eligible_cities": [
+        "Huntsville"
+      ],
+      "eligible_states": [
+        "AL"
+      ],
+      "terms": "Valid at Great Clips Winchester Commons at 2190 Winchester Rd NE in Huntsville, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/12/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "0246"
+      ]
+    },
+    {
+      "external_offer_id": "cZfpw3a",
+      "official_url": "https://offers.greatclips.com/cZfpw3a",
+      "source": "meta_ads",
+      "source_url": "https://coupons-haircut.com/7-99-coupon",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 at Great Clips Shops at Indian Creek at 4508 Hwy 42 S in Locust Grove. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-09-07",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Shops at Indian Creek, Locust",
+      "eligible_cities": [
+        "Locust"
+      ],
+      "eligible_states": [],
+      "terms": "Valid at Great Clips Shops at Indian Creek at 4508 Hwy 42 S in Locust Grove, GA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8457/50707-002-1200x600-7.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4180"
+      ]
+    },
+    {
+      "external_offer_id": "htEB2lX",
+      "official_url": "https://offers.greatclips.com/htEB2lX",
+      "source": "meta_ads",
+      "source_url": "https://coupons-haircut.com/7-99-coupon",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 at Great Clips All American Mall at 4154 Fort Campbell Blvd in Hopkinsville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-09-12",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips All American Mall, Hopkinsville, KY",
+      "eligible_cities": [
+        "Hopkinsville"
+      ],
+      "eligible_states": [
+        "KY"
+      ],
+      "terms": "Valid at Great Clips All American Mall at 4154 Fort Campbell Blvd in Hopkinsville, KY. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/12/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "8880"
+      ]
+    },
+    {
+      "external_offer_id": "oLmUdkJ",
+      "official_url": "https://offers.greatclips.com/oLmUdkJ",
+      "source": "meta_ads",
+      "source_url": "https://coupons-haircut.com/7-99-coupon",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 at Great Clips Lantana Town Center at 3501 FM 407 E in Bartonville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-09-11",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Lantana Town Center, Bartonville, TX",
+      "eligible_cities": [
+        "Bartonville"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Lantana Town Center at 3501 FM 407 E in Bartonville, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2659"
+      ]
+    },
+    {
+      "external_offer_id": "pT3icJJ",
+      "official_url": "https://offers.greatclips.com/pT3icJJ",
+      "source": "meta_ads",
+      "source_url": "https://coupons-haircut.com/7-99-coupon",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 at Great Clips Walmart Center-Lewisburg at 1364 N Ellington Pkwy in Lewisburg. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-09-12",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Walmart Center-Lewisburg, Lewisburg, TN",
+      "eligible_cities": [
+        "Lewisburg"
+      ],
+      "eligible_states": [
+        "TN"
+      ],
+      "terms": "Valid at Great Clips Walmart Center-Lewisburg at 1364 N Ellington Pkwy in Lewisburg, TN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/12/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "3396"
+      ]
+    },
+    {
       "external_offer_id": "0EauRlu",
       "official_url": "https://offers.greatclips.com/0EauRlu",
       "source": "meta_ads",
@@ -1078,30 +1239,6 @@
       "terms": "Valid only at participating Champaign, Springfield, & Jacksonville area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/28/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20241/50707-002-1200x600-9.99.jpg",
       "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "FrPijks",
-      "official_url": "https://offers.greatclips.com/FrPijks",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 at Great Clips Winchester Commons at 2190 Winchester Rd NE in Huntsville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-09-12",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Winchester Commons, Huntsville, AL",
-      "eligible_cities": [
-        "Huntsville"
-      ],
-      "eligible_states": [
-        "AL"
-      ],
-      "terms": "Valid at Great Clips Winchester Commons at 2190 Winchester Rd NE in Huntsville, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/12/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "0246"
-      ]
     },
     {
       "external_offer_id": "J23FE6g",
@@ -1905,143 +2042,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "3782"
-      ]
-    },
-    {
-      "external_offer_id": "4Nkc6l8",
-      "official_url": "https://offers.greatclips.com/4Nkc6l8",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$7-99",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 at Great Clips Fairview at 7020 City Center Way in Fairview. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-09-12",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Fairview, Fairview, TN",
-      "eligible_cities": [
-        "Fairview"
-      ],
-      "eligible_states": [
-        "TN"
-      ],
-      "terms": "Valid at Great Clips Fairview at 7020 City Center Way in Fairview, TN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/12/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "medium"
-    },
-    {
-      "external_offer_id": "ApCByV7",
-      "official_url": "https://offers.greatclips.com/ApCByV7",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$7-99",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 at Great Clips Oak Grove Center at 244 Segler Drive in Oak Grove. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-09-12",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Oak Grove Center, Oak",
-      "eligible_cities": [
-        "Oak"
-      ],
-      "eligible_states": [],
-      "terms": "Valid at Great Clips Oak Grove Center at 244 Segler Drive in Oak Grove, KY. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/12/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2895"
-      ]
-    },
-    {
-      "external_offer_id": "cZfpw3a",
-      "official_url": "https://offers.greatclips.com/cZfpw3a",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$7-99",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 at Great Clips Shops at Indian Creek at 4508 Hwy 42 S in Locust Grove. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-09-07",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Shops at Indian Creek, Locust",
-      "eligible_cities": [
-        "Locust"
-      ],
-      "eligible_states": [],
-      "terms": "Valid at Great Clips Shops at Indian Creek at 4508 Hwy 42 S in Locust Grove, GA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8457/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4180"
-      ]
-    },
-    {
-      "external_offer_id": "htEB2lX",
-      "official_url": "https://offers.greatclips.com/htEB2lX",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$7-99",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 at Great Clips All American Mall at 4154 Fort Campbell Blvd in Hopkinsville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-09-12",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips All American Mall, Hopkinsville, KY",
-      "eligible_cities": [
-        "Hopkinsville"
-      ],
-      "eligible_states": [
-        "KY"
-      ],
-      "terms": "Valid at Great Clips All American Mall at 4154 Fort Campbell Blvd in Hopkinsville, KY. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/12/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "8880"
-      ]
-    },
-    {
-      "external_offer_id": "oLmUdkJ",
-      "official_url": "https://offers.greatclips.com/oLmUdkJ",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$7-99",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 at Great Clips Lantana Town Center at 3501 FM 407 E in Bartonville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-09-11",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Lantana Town Center, Bartonville, TX",
-      "eligible_cities": [
-        "Bartonville"
-      ],
-      "eligible_states": [
-        "TX"
-      ],
-      "terms": "Valid at Great Clips Lantana Town Center at 3501 FM 407 E in Bartonville, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2659"
-      ]
-    },
-    {
-      "external_offer_id": "pT3icJJ",
-      "official_url": "https://offers.greatclips.com/pT3icJJ",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$7-99",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 at Great Clips Walmart Center-Lewisburg at 1364 N Ellington Pkwy in Lewisburg. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-09-12",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Walmart Center-Lewisburg, Lewisburg, TN",
-      "eligible_cities": [
-        "Lewisburg"
-      ],
-      "eligible_states": [
-        "TN"
-      ],
-      "terms": "Valid at Great Clips Walmart Center-Lewisburg at 1364 N Ellington Pkwy in Lewisburg, TN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/12/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "3396"
       ]
     },
     {
