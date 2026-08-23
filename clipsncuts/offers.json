@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T08:46:59.194Z",
+  "scraped_at": "2026-08-23T12:57:28.386Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -1245,6 +1245,52 @@
       "discovery_confidence": "high"
     },
     {
+      "external_offer_id": "HWfQdgx",
+      "official_url": "https://offers.greatclips.com/HWfQdgx",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Shoppes at Siloam at 2998 Hwy 412 E in Siloam Springs. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-09-11",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Shoppes at Siloam, Siloam",
+      "eligible_cities": [
+        "Siloam"
+      ],
+      "eligible_states": [],
+      "terms": "Valid at Great Clips Shoppes at Siloam at 2998 Hwy 412 E in Siloam Springs, AR. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/15026/50707-002-1200x600-US-Sparkfly-199-199913.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1439"
+      ]
+    },
+    {
+      "external_offer_id": "IQrrw8b",
+      "official_url": "https://offers.greatclips.com/IQrrw8b",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips University Square at 2630 W Martin Luther King Blvd in Fayetteville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-09-11",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips University Square, Fayetteville, AR",
+      "eligible_cities": [
+        "Fayetteville"
+      ],
+      "eligible_states": [
+        "AR"
+      ],
+      "terms": "Valid at Great Clips University Square at 2630 W Martin Luther King Blvd in Fayetteville, AR. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/15026/50707-002-1200x600-US-Sparkfly-199-199913.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1614"
+      ]
+    },
+    {
       "external_offer_id": "J23FE6g",
       "official_url": "https://offers.greatclips.com/J23FE6g",
       "source": "meta_ads",
@@ -1742,6 +1788,30 @@
       ]
     },
     {
+      "external_offer_id": "lJhva0o",
+      "official_url": "https://offers.greatclips.com/lJhva0o",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips In-Side Walmart Mall Ave at 3919 Mall Ave in Fayetteville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-09-11",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips In-Side Walmart Mall Ave, Fayetteville, AR",
+      "eligible_cities": [
+        "Fayetteville"
+      ],
+      "eligible_states": [
+        "AR"
+      ],
+      "terms": "Valid at Great Clips In-Side Walmart Mall Ave at 3919 Mall Ave in Fayetteville, AR. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/15026/50707-002-1200x600-US-Sparkfly-199-199913.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4199"
+      ]
+    },
+    {
       "external_offer_id": "lk0KVHL",
       "official_url": "https://offers.greatclips.com/lk0KVHL",
       "source": "meta_ads",
@@ -1845,52 +1915,6 @@
       "discovery_confidence": "high"
     },
     {
-      "external_offer_id": "or7gBoS",
-      "official_url": "https://offers.greatclips.com/or7gBoS",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$17.99 Haircut",
-      "description": "Get a great haircut for $17.99 at Great Clips Lawrence & Monroe at 3555 Monroe St in Santa Clara. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 17.99,
-      "expiration_date": "2026-08-30",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Lawrence & Monroe, Santa",
-      "eligible_cities": [
-        "Santa"
-      ],
-      "eligible_states": [],
-      "terms": "Valid at Great Clips Lawrence & Monroe at 3555 Monroe St in Santa Clara, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 08/30/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "0793"
-      ]
-    },
-    {
-      "external_offer_id": "pYtaTOu",
-      "official_url": "https://offers.greatclips.com/pYtaTOu",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$17.99 Haircut",
-      "description": "Get a great haircut for $17.99 at Great Clips Lowe's Livermore at 4227 1st St in Livermore. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 17.99,
-      "expiration_date": "2026-08-30",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Lowe's Livermore, Livermore, CA",
-      "eligible_cities": [
-        "Livermore"
-      ],
-      "eligible_states": [
-        "CA"
-      ],
-      "terms": "Valid at Great Clips Lowe's Livermore at 4227 1st St in Livermore, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 08/30/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "5261"
-      ]
-    },
-    {
       "external_offer_id": "pzW7253",
       "official_url": "https://offers.greatclips.com/pzW7253",
       "source": "meta_ads",
@@ -1952,30 +1976,6 @@
       "terms": "Valid only at participating Central OR area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/28/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20237/50707-002-1200x600-14.99.jpg",
       "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "srhPZEm",
-      "official_url": "https://offers.greatclips.com/srhPZEm",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$17.99 Haircut",
-      "description": "Get a great haircut for $17.99 at Great Clips Osgood Road at 44029 Osgood Rd in Fremont. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 17.99,
-      "expiration_date": "2026-08-30",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Osgood Road, Fremont, CA",
-      "eligible_cities": [
-        "Fremont"
-      ],
-      "eligible_states": [
-        "CA"
-      ],
-      "terms": "Valid at Great Clips Osgood Road at 44029 Osgood Rd in Fremont, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 08/30/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "0944"
-      ]
     },
     {
       "external_offer_id": "tdLqGN4",
@@ -3219,6 +3219,76 @@
       ]
     },
     {
+      "external_offer_id": "or7gBoS",
+      "official_url": "https://offers.greatclips.com/or7gBoS",
+      "source": "meta_ads",
+      "source_url": "https://offers.greatclips.com/or7gBoS",
+      "title": "$17.99 Haircut",
+      "description": "Get a great haircut for $17.99 at Great Clips Lawrence & Monroe at 3555 Monroe St in Santa Clara. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 17.99,
+      "expiration_date": "2026-08-30",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Lawrence & Monroe, Santa",
+      "eligible_cities": [
+        "Santa"
+      ],
+      "eligible_states": [],
+      "terms": "Valid at Great Clips Lawrence & Monroe at 3555 Monroe St in Santa Clara, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 08/30/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "0793"
+      ]
+    },
+    {
+      "external_offer_id": "pYtaTOu",
+      "official_url": "https://offers.greatclips.com/pYtaTOu",
+      "source": "meta_ads",
+      "source_url": "https://offers.greatclips.com/pYtaTOu",
+      "title": "$17.99 Haircut",
+      "description": "Get a great haircut for $17.99 at Great Clips Lowe's Livermore at 4227 1st St in Livermore. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 17.99,
+      "expiration_date": "2026-08-30",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Lowe's Livermore, Livermore, CA",
+      "eligible_cities": [
+        "Livermore"
+      ],
+      "eligible_states": [
+        "CA"
+      ],
+      "terms": "Valid at Great Clips Lowe's Livermore at 4227 1st St in Livermore, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 08/30/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "5261"
+      ]
+    },
+    {
+      "external_offer_id": "srhPZEm",
+      "official_url": "https://offers.greatclips.com/srhPZEm",
+      "source": "meta_ads",
+      "source_url": "https://offers.greatclips.com/srhPZEm",
+      "title": "$17.99 Haircut",
+      "description": "Get a great haircut for $17.99 at Great Clips Osgood Road at 44029 Osgood Rd in Fremont. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 17.99,
+      "expiration_date": "2026-08-30",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Osgood Road, Fremont, CA",
+      "eligible_cities": [
+        "Fremont"
+      ],
+      "eligible_states": [
+        "CA"
+      ],
+      "terms": "Valid at Great Clips Osgood Road at 44029 Osgood Rd in Fremont, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 08/30/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "0944"
+      ]
+    },
+    {
       "external_offer_id": "udfr0nU",
       "official_url": "https://offers.greatclips.com/udfr0nU",
       "source": "meta_ads",
@@ -3242,52 +3312,6 @@
       ]
     },
     {
-      "external_offer_id": "HWfQdgx",
-      "official_url": "https://offers.greatclips.com/HWfQdgx",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/HWfQdgx",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips Shoppes at Siloam at 2998 Hwy 412 E in Siloam Springs. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-09-11",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Shoppes at Siloam, Siloam",
-      "eligible_cities": [
-        "Siloam"
-      ],
-      "eligible_states": [],
-      "terms": "Valid at Great Clips Shoppes at Siloam at 2998 Hwy 412 E in Siloam Springs, AR. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/15026/50707-002-1200x600-US-Sparkfly-199-199913.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1439"
-      ]
-    },
-    {
-      "external_offer_id": "IQrrw8b",
-      "official_url": "https://offers.greatclips.com/IQrrw8b",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/IQrrw8b",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips University Square at 2630 W Martin Luther King Blvd in Fayetteville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-09-11",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips University Square, Fayetteville, AR",
-      "eligible_cities": [
-        "Fayetteville"
-      ],
-      "eligible_states": [
-        "AR"
-      ],
-      "terms": "Valid at Great Clips University Square at 2630 W Martin Luther King Blvd in Fayetteville, AR. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/15026/50707-002-1200x600-US-Sparkfly-199-199913.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1614"
-      ]
-    },
-    {
       "external_offer_id": "b79n8s7",
       "official_url": "https://offers.greatclips.com/b79n8s7",
       "source": "meta_ads",
@@ -3305,30 +3329,6 @@
       "terms": "Valid at Great Clips Cobblestone Plaza at 14948 Pines Blvd in Pembroke Pines, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
       "discovery_confidence": "medium"
-    },
-    {
-      "external_offer_id": "lJhva0o",
-      "official_url": "https://offers.greatclips.com/lJhva0o",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/lJhva0o",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips In-Side Walmart Mall Ave at 3919 Mall Ave in Fayetteville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-09-11",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips In-Side Walmart Mall Ave, Fayetteville, AR",
-      "eligible_cities": [
-        "Fayetteville"
-      ],
-      "eligible_states": [
-        "AR"
-      ],
-      "terms": "Valid at Great Clips In-Side Walmart Mall Ave at 3919 Mall Ave in Fayetteville, AR. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/15026/50707-002-1200x600-US-Sparkfly-199-199913.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4199"
-      ]
     },
     {
       "external_offer_id": "2R4gnvL",
