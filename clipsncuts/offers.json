@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T20:40:04.096Z",
+  "scraped_at": "2026-08-24T01:39:15.517Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -874,28 +874,6 @@
       "discovery_confidence": "high"
     },
     {
-      "external_offer_id": "14TWveF",
-      "official_url": "https://offers.greatclips.com/14TWveF",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$3.99 Haircut",
-      "description": "Get a great haircut for $3.99 at Great Clips Shops at Babcock at 15031 Babcock Rd in San Antonio. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 3.99,
-      "expiration_date": "2026-08-23",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Shops at Babcock, San",
-      "eligible_cities": [
-        "San"
-      ],
-      "eligible_states": [],
-      "terms": "Valid at Great Clips Shops at Babcock at 15031 Babcock Rd in San Antonio, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 08/23/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8447/50707-002-1200x600-3.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4451"
-      ]
-    },
-    {
       "external_offer_id": "4aqF0YR",
       "official_url": "https://offers.greatclips.com/4aqF0YR",
       "source": "meta_ads",
@@ -961,30 +939,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "8673"
-      ]
-    },
-    {
-      "external_offer_id": "5RuRdJ9",
-      "official_url": "https://offers.greatclips.com/5RuRdJ9",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$10.99 Haircut",
-      "description": "Get a great haircut for $10.99 at Great Clips High Point Crossing at 6411 E Northwest Hwy in Dallas. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 10.99,
-      "expiration_date": "2026-08-23",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips High Point Crossing, Dallas, TX",
-      "eligible_cities": [
-        "Dallas"
-      ],
-      "eligible_states": [
-        "TX"
-      ],
-      "terms": "Valid at Great Clips High Point Crossing at 6411 E Northwest Hwy in Dallas, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 08/23/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/14841/50707-002-1200x600-US-Sparkfly-199-199910.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2857"
       ]
     },
     {
@@ -1402,25 +1356,6 @@
       "eligible_salon_ids": [
         "1594"
       ]
-    },
-    {
-      "external_offer_id": "ODg8rWw",
-      "official_url": "https://offers.greatclips.com/ODg8rWw",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 only at participating Grand Junction area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-08-23",
-      "geographic_type": "city",
-      "geographic_description": "Grand Junction area",
-      "eligible_cities": [
-        "Grand Junction"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Grand Junction area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/23/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20551/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high"
     },
     {
       "external_offer_id": "PUFUeKV",
