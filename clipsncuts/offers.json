@@ -1,256 +1,7 @@
 {
-  "scraped_at": "2026-08-24T13:09:22.909Z",
-  "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+  "scraped_at": "2026-08-24T16:54:59.239Z",
+  "search_url": null,
   "offers": [
-    {
-      "external_offer_id": "EWNAalN",
-      "official_url": "https://offers.greatclips.com/EWNAalN",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$11.99 Haircut",
-      "description": "Get a great haircut for $11.99 only at participating Harrisburg, Lancaster & York area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 11.99,
-      "expiration_date": "2026-09-11",
-      "geographic_type": "city",
-      "geographic_description": "Harrisburg, Lancaster & York area",
-      "eligible_cities": [
-        "Harrisburg",
-        "Lancaster",
-        "York"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Harrisburg, Lancaster & York area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20668/50707-002-1200x600-11.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "EoCQb2p",
-      "official_url": "https://offers.greatclips.com/EoCQb2p",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 only at participating Hampton Roads & Peninsula area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "expiration_date": "2026-09-11",
-      "geographic_type": "city",
-      "geographic_description": "Hampton Roads & Peninsula area",
-      "eligible_cities": [
-        "Hampton Roads",
-        "Peninsula"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Hampton Roads & Peninsula area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20696/50707-002-1200x600-12.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "FEDhm2E",
-      "official_url": "https://offers.greatclips.com/FEDhm2E",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 only at participating Portland area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-09-11",
-      "geographic_type": "city",
-      "geographic_description": "Portland area",
-      "eligible_cities": [
-        "Portland"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Portland area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20697/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "GezkUdI",
-      "official_url": "https://offers.greatclips.com/GezkUdI",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 only at participating Hartford, North Haven & New London area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "expiration_date": "2026-09-04",
-      "geographic_type": "city",
-      "geographic_description": "Hartford, North Haven & New London area",
-      "eligible_cities": [
-        "Hartford",
-        "North Haven",
-        "New London"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Hartford, North Haven & New London area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20667/50707-002-1200x600-12.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "GfQEWJg",
-      "official_url": "https://offers.greatclips.com/GfQEWJg",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$5.00 Off Haircut",
-      "description": "Get a great haircut for $5.00 off only at participating Bay area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "geographic_type": "city",
-      "geographic_description": "Bay area",
-      "eligible_cities": [
-        "Bay"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Bay area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Code must be used within 6 weeks of initial code generation. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/19478/5%20Off%20Haircut%20Coupon.jpg",
-      "discovery_confidence": "medium"
-    },
-    {
-      "external_offer_id": "Lcmtkkh",
-      "official_url": "https://offers.greatclips.com/Lcmtkkh",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$11.99 Haircut",
-      "description": "Get a great haircut for $11.99 only at participating Pittsburgh area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 11.99,
-      "expiration_date": "2026-09-04",
-      "geographic_type": "city",
-      "geographic_description": "Pittsburgh area",
-      "eligible_cities": [
-        "Pittsburgh"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Pittsburgh area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20670/50707-002-1200x600-11.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "OK36Ser",
-      "official_url": "https://offers.greatclips.com/OK36Ser",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 only at participating NJ, PA & DE area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-09-11",
-      "geographic_type": "city",
-      "geographic_description": "NJ, PA & DE area",
-      "eligible_cities": [],
-      "eligible_states": [
-        "NJ",
-        "PA",
-        "DE"
-      ],
-      "terms": "Valid only at participating NJ, PA & DE area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20408/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "Qk0KKEJ",
-      "official_url": "https://offers.greatclips.com/Qk0KKEJ",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 only at participating Evansville & Owensboro area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-09-04",
-      "geographic_type": "city",
-      "geographic_description": "Evansville & Owensboro area",
-      "eligible_cities": [
-        "Evansville",
-        "Owensboro"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Evansville & Owensboro area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20662/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "QyPIaKx",
-      "official_url": "https://offers.greatclips.com/QyPIaKx",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 only at participating Wilmington area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-09-04",
-      "geographic_type": "city",
-      "geographic_description": "Wilmington area",
-      "eligible_cities": [
-        "Wilmington"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Wilmington area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20702/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "lM6ugQf",
-      "official_url": "https://offers.greatclips.com/lM6ugQf",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$11.99 Haircut",
-      "description": "Get a great haircut for $11.99 only at participating Baltimore area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 11.99,
-      "expiration_date": "2026-09-18",
-      "geographic_type": "city",
-      "geographic_description": "Baltimore area",
-      "eligible_cities": [
-        "Baltimore"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Baltimore area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20770/50707-002-1200x600-11.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "skteDvh",
-      "official_url": "https://offers.greatclips.com/skteDvh",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 only at participating Tulsa area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-09-04",
-      "geographic_type": "city",
-      "geographic_description": "Tulsa area",
-      "eligible_cities": [
-        "Tulsa"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Tulsa area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20671/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "yIfriPt",
-      "official_url": "https://offers.greatclips.com/yIfriPt",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$9.99 Haircut",
-      "description": "Get a great student haircut for $9.99 only at participating Lansing area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-09-04",
-      "geographic_type": "city",
-      "geographic_description": "Lansing area",
-      "eligible_cities": [
-        "Lansing"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Lansing area Great Clips salons . Not valid with any other offer. Valid for students. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20669/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "yMEcKko",
-      "official_url": "https://offers.greatclips.com/yMEcKko",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=%22great%20clips%22&search_type=keyword_exact_phrase&media_type=all",
-      "title": "$5.00 Off Haircut",
-      "description": "Get a great haircut for $5.00 off only at participating US area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "geographic_type": "nationwide",
-      "geographic_description": "Participating US salons",
-      "eligible_cities": [],
-      "eligible_states": [],
-      "terms": "Valid only at participating US Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Code must be used within 14 days of initial code generation. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/16207/50707-002-1200x600-US-Sparkfly-1off-10off5.jpg",
-      "discovery_confidence": "medium"
-    },
     {
       "external_offer_id": "3nguifU",
       "official_url": "https://offers.greatclips.com/3nguifU",
@@ -367,6 +118,47 @@
       ]
     },
     {
+      "external_offer_id": "EWNAalN",
+      "official_url": "https://offers.greatclips.com/EWNAalN",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips",
+      "title": "$11.99 Haircut",
+      "description": "Get a great haircut for $11.99 only at participating Harrisburg, Lancaster & York area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 11.99,
+      "expiration_date": "2026-09-11",
+      "geographic_type": "city",
+      "geographic_description": "Harrisburg, Lancaster & York area",
+      "eligible_cities": [
+        "Harrisburg",
+        "Lancaster",
+        "York"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Harrisburg, Lancaster & York area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20668/50707-002-1200x600-11.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
+      "external_offer_id": "EoCQb2p",
+      "official_url": "https://offers.greatclips.com/EoCQb2p",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips",
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 only at participating Hampton Roads & Peninsula area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
+      "expiration_date": "2026-09-11",
+      "geographic_type": "city",
+      "geographic_description": "Hampton Roads & Peninsula area",
+      "eligible_cities": [
+        "Hampton Roads",
+        "Peninsula"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Hampton Roads & Peninsula area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20696/50707-002-1200x600-12.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
       "external_offer_id": "F8ngbhn",
       "official_url": "https://offers.greatclips.com/F8ngbhn",
       "source": "meta_ads",
@@ -389,6 +181,25 @@
       "eligible_salon_ids": [
         "4233"
       ]
+    },
+    {
+      "external_offer_id": "FEDhm2E",
+      "official_url": "https://offers.greatclips.com/FEDhm2E",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 only at participating Portland area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-09-11",
+      "geographic_type": "city",
+      "geographic_description": "Portland area",
+      "eligible_cities": [
+        "Portland"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Portland area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20697/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high"
     },
     {
       "external_offer_id": "GYWQl7J",
@@ -432,6 +243,27 @@
       "eligible_salon_ids": [
         "5279"
       ]
+    },
+    {
+      "external_offer_id": "OK36Ser",
+      "official_url": "https://offers.greatclips.com/OK36Ser",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 only at participating NJ, PA & DE area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-09-11",
+      "geographic_type": "city",
+      "geographic_description": "NJ, PA & DE area",
+      "eligible_cities": [],
+      "eligible_states": [
+        "NJ",
+        "PA",
+        "DE"
+      ],
+      "terms": "Valid only at participating NJ, PA & DE area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20408/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high"
     },
     {
       "external_offer_id": "QnuB9hY",
@@ -627,6 +459,25 @@
       ]
     },
     {
+      "external_offer_id": "lM6ugQf",
+      "official_url": "https://offers.greatclips.com/lM6ugQf",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips",
+      "title": "$11.99 Haircut",
+      "description": "Get a great haircut for $11.99 only at participating Baltimore area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 11.99,
+      "expiration_date": "2026-09-18",
+      "geographic_type": "city",
+      "geographic_description": "Baltimore area",
+      "eligible_cities": [
+        "Baltimore"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Baltimore area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20770/50707-002-1200x600-11.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
       "external_offer_id": "qqfJujF",
       "official_url": "https://offers.greatclips.com/qqfJujF",
       "source": "meta_ads",
@@ -670,6 +521,25 @@
       "discovery_confidence": "high"
     },
     {
+      "external_offer_id": "skteDvh",
+      "official_url": "https://offers.greatclips.com/skteDvh",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 only at participating Tulsa area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-09-04",
+      "geographic_type": "city",
+      "geographic_description": "Tulsa area",
+      "eligible_cities": [
+        "Tulsa"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Tulsa area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20671/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
       "external_offer_id": "xqtcEsK",
       "official_url": "https://offers.greatclips.com/xqtcEsK",
       "source": "meta_ads",
@@ -692,6 +562,21 @@
       "eligible_salon_ids": [
         "0467"
       ]
+    },
+    {
+      "external_offer_id": "yMEcKko",
+      "official_url": "https://offers.greatclips.com/yMEcKko",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips",
+      "title": "$5.00 Off Haircut",
+      "description": "Get a great haircut for $5.00 off only at participating US area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "geographic_type": "nationwide",
+      "geographic_description": "Participating US salons",
+      "eligible_cities": [],
+      "eligible_states": [],
+      "terms": "Valid only at participating US Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Code must be used within 14 days of initial code generation. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/16207/50707-002-1200x600-US-Sparkfly-1off-10off5.jpg",
+      "discovery_confidence": "medium"
     },
     {
       "external_offer_id": "4Nkc6l8",
@@ -1179,6 +1064,23 @@
       "terms": "Valid only at participating Champaign, Springfield, & Jacksonville area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/28/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20241/50707-002-1200x600-9.99.jpg",
       "discovery_confidence": "high"
+    },
+    {
+      "external_offer_id": "GfQEWJg",
+      "official_url": "https://offers.greatclips.com/GfQEWJg",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$5.00 Off Haircut",
+      "description": "Get a great haircut for $5.00 off only at participating Bay area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "geographic_type": "city",
+      "geographic_description": "Bay area",
+      "eligible_cities": [
+        "Bay"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Bay area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Code must be used within 6 weeks of initial code generation. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/19478/5%20Off%20Haircut%20Coupon.jpg",
+      "discovery_confidence": "medium"
     },
     {
       "external_offer_id": "HWfQdgx",
@@ -2224,6 +2126,64 @@
       "discovery_confidence": "high"
     },
     {
+      "external_offer_id": "Qk0KKEJ",
+      "official_url": "https://offers.greatclips.com/Qk0KKEJ",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$9-99",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 only at participating Evansville & Owensboro area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-09-04",
+      "geographic_type": "city",
+      "geographic_description": "Evansville & Owensboro area",
+      "eligible_cities": [
+        "Evansville",
+        "Owensboro"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Evansville & Owensboro area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20662/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
+      "external_offer_id": "QyPIaKx",
+      "official_url": "https://offers.greatclips.com/QyPIaKx",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$9-99",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 only at participating Wilmington area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-09-04",
+      "geographic_type": "city",
+      "geographic_description": "Wilmington area",
+      "eligible_cities": [
+        "Wilmington"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Wilmington area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20702/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
+      "external_offer_id": "yIfriPt",
+      "official_url": "https://offers.greatclips.com/yIfriPt",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$9-99",
+      "title": "$9.99 Haircut",
+      "description": "Get a great student haircut for $9.99 only at participating Lansing area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-09-04",
+      "geographic_type": "city",
+      "geographic_description": "Lansing area",
+      "eligible_cities": [
+        "Lansing"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Lansing area Great Clips salons . Not valid with any other offer. Valid for students. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20669/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
       "external_offer_id": "OpQezI7",
       "official_url": "https://offers.greatclips.com/OpQezI7",
       "source": "meta_ads",
@@ -2575,6 +2535,25 @@
       "discovery_confidence": "high"
     },
     {
+      "external_offer_id": "Lcmtkkh",
+      "official_url": "https://offers.greatclips.com/Lcmtkkh",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$11-99",
+      "title": "$11.99 Haircut",
+      "description": "Get a great haircut for $11.99 only at participating Pittsburgh area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 11.99,
+      "expiration_date": "2026-09-04",
+      "geographic_type": "city",
+      "geographic_description": "Pittsburgh area",
+      "eligible_cities": [
+        "Pittsburgh"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Pittsburgh area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20670/50707-002-1200x600-11.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
       "external_offer_id": "ldN3Wwe",
       "official_url": "https://offers.greatclips.com/ldN3Wwe",
       "source": "meta_ads",
@@ -2678,6 +2657,27 @@
       "eligible_states": [],
       "terms": "Valid only at participating Detroit area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/28/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20063/50707-002-1200x600-12.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
+      "external_offer_id": "GezkUdI",
+      "official_url": "https://offers.greatclips.com/GezkUdI",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$12-99",
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 only at participating Hartford, North Haven & New London area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
+      "expiration_date": "2026-09-04",
+      "geographic_type": "city",
+      "geographic_description": "Hartford, North Haven & New London area",
+      "eligible_cities": [
+        "Hartford",
+        "North Haven",
+        "New London"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Hartford, North Haven & New London area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20667/50707-002-1200x600-12.99.jpg",
       "discovery_confidence": "high"
     },
     {
