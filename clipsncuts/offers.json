@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25T13:05:48.046Z",
+  "scraped_at": "2026-08-25T16:54:10.458Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -177,6 +177,27 @@
       "eligible_states": [],
       "terms": "Valid only at participating Wilmington area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20702/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
+      "external_offer_id": "isjblpZ",
+      "official_url": "https://offers.greatclips.com/isjblpZ",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 only at participating NE & Central PA area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
+      "expiration_date": "2026-09-11",
+      "geographic_type": "city",
+      "geographic_description": "NE & Central PA area",
+      "eligible_cities": [
+        "Central PA"
+      ],
+      "eligible_states": [
+        "NE"
+      ],
+      "terms": "Valid only at participating NE & Central PA area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20701/50707-002-1200x600-12.99.jpg",
       "discovery_confidence": "high"
     },
     {
@@ -554,27 +575,6 @@
       "eligible_states": [],
       "terms": "Valid only at participating Eugene, Springfield & Corvallis area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20693/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "isjblpZ",
-      "official_url": "https://offers.greatclips.com/isjblpZ",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 only at participating NE & Central PA area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "expiration_date": "2026-09-11",
-      "geographic_type": "city",
-      "geographic_description": "NE & Central PA area",
-      "eligible_cities": [
-        "Central PA"
-      ],
-      "eligible_states": [
-        "NE"
-      ],
-      "terms": "Valid only at participating NE & Central PA area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20701/50707-002-1200x600-12.99.jpg",
       "discovery_confidence": "high"
     },
     {
