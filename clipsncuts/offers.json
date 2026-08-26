@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-26T09:01:37.909Z",
+  "scraped_at": "2026-08-26T13:11:27.990Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -1935,6 +1935,30 @@
       ]
     },
     {
+      "external_offer_id": "7zV3mdR",
+      "official_url": "https://offers.greatclips.com/7zV3mdR",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$8-99",
+      "title": "$8.99 Haircut",
+      "description": "Get a great haircut for $8.99 at Great Clips Fredericksburg Town Center at 1455 E Main St in Fredericksburg. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 8.99,
+      "expiration_date": "2026-09-07",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Fredericksburg Town Center, Fredericksburg, TX",
+      "eligible_cities": [
+        "Fredericksburg"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Fredericksburg Town Center at 1455 E Main St in Fredericksburg, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4198"
+      ]
+    },
+    {
       "external_offer_id": "8NUmR2H",
       "official_url": "https://offers.greatclips.com/8NUmR2H",
       "source": "meta_ads",
@@ -1976,30 +2000,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "4451"
-      ]
-    },
-    {
-      "external_offer_id": "fG4P3eX",
-      "official_url": "https://offers.greatclips.com/fG4P3eX",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$8-99",
-      "title": "$8.99 Haircut",
-      "description": "Get a great haircut for $8.99 at Great Clips Russell Ridge at 1475 Georgia Hwy 20 in Lawrenceville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 8.99,
-      "expiration_date": "2026-09-03",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Russell Ridge, Lawrenceville, GA",
-      "eligible_cities": [
-        "Lawrenceville"
-      ],
-      "eligible_states": [
-        "GA"
-      ],
-      "terms": "Valid at Great Clips Russell Ridge at 1475 Georgia Hwy 20 in Lawrenceville, GA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/03/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "0854"
       ]
     },
     {
@@ -2659,75 +2659,27 @@
       "discovery_confidence": "high"
     },
     {
-      "external_offer_id": "WqfW98R",
-      "official_url": "https://offers.greatclips.com/WqfW98R",
+      "external_offer_id": "3GU2HAf",
+      "official_url": "https://offers.greatclips.com/3GU2HAf",
       "source": "meta_ads",
       "source_url": "https://coupons-2save.com/greatclips/$13-99",
       "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips Westyn Bay at 2222 Ocoee Apopka Rd in Ocoee. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "description": "Get a great haircut for $13.99 at Great Clips Tavares Crossroads at 2034 State Road 19 in Tavares. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "price": 13.99,
-      "expiration_date": "2026-10-02",
+      "expiration_date": "2026-10-04",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Westyn Bay, Ocoee, FL",
+      "geographic_description": "Great Clips Tavares Crossroads, Tavares, FL",
       "eligible_cities": [
-        "Ocoee"
+        "Tavares"
       ],
       "eligible_states": [
         "FL"
       ],
-      "terms": "Valid at Great Clips Westyn Bay at 2222 Ocoee Apopka Rd in Ocoee, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
+      "terms": "Valid at Great Clips Tavares Crossroads at 2034 State Road 19 in Tavares, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/04/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
       "discovery_confidence": "high",
       "eligible_salon_ids": [
-        "3337"
-      ]
-    },
-    {
-      "external_offer_id": "Y6O9QnB",
-      "official_url": "https://offers.greatclips.com/Y6O9QnB",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$13-99",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips Shoppes of Eagle Ridge at 7965 State Rd 50 in Groveland. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-10-02",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Shoppes of Eagle Ridge, Groveland, FL",
-      "eligible_cities": [
-        "Groveland"
-      ],
-      "eligible_states": [
-        "FL"
-      ],
-      "terms": "Valid at Great Clips Shoppes of Eagle Ridge at 7965 State Rd 50 in Groveland, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9330"
-      ]
-    },
-    {
-      "external_offer_id": "g7lA2f7",
-      "official_url": "https://offers.greatclips.com/g7lA2f7",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$13-99",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips Celebration Pointe at 1709 Future Way in Celebration. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-10-02",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Celebration Pointe, Celebration, FL",
-      "eligible_cities": [
-        "Celebration"
-      ],
-      "eligible_states": [
-        "FL"
-      ],
-      "terms": "Valid at Great Clips Celebration Pointe at 1709 Future Way in Celebration, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "3816"
+        "0654"
       ]
     },
     {
@@ -2752,6 +2704,54 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "0679"
+      ]
+    },
+    {
+      "external_offer_id": "lWjEFKQ",
+      "official_url": "https://offers.greatclips.com/lWjEFKQ",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$13-99",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Saxon Sterling Shops at 1573 Saxon Blvd in Deltona. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-10-04",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Saxon Sterling Shops, Deltona, FL",
+      "eligible_cities": [
+        "Deltona"
+      ],
+      "eligible_states": [
+        "FL"
+      ],
+      "terms": "Valid at Great Clips Saxon Sterling Shops at 1573 Saxon Blvd in Deltona, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/04/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "0395"
+      ]
+    },
+    {
+      "external_offer_id": "vFe5mAg",
+      "official_url": "https://offers.greatclips.com/vFe5mAg",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$13-99",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Plaza at Metro at 2615 S Hiawassee Rd in Orlando. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-10-04",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Plaza at Metro, Orlando, FL",
+      "eligible_cities": [
+        "Orlando"
+      ],
+      "eligible_states": [
+        "FL"
+      ],
+      "terms": "Valid at Great Clips Plaza at Metro at 2615 S Hiawassee Rd in Orlando, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/04/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1185"
       ]
     },
     {
@@ -3130,6 +3130,102 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "6240"
+      ]
+    },
+    {
+      "external_offer_id": "fG4P3eX",
+      "official_url": "https://offers.greatclips.com/fG4P3eX",
+      "source": "meta_ads",
+      "source_url": "https://offers.greatclips.com/fG4P3eX",
+      "title": "$8.99 Haircut",
+      "description": "Get a great haircut for $8.99 at Great Clips Russell Ridge at 1475 Georgia Hwy 20 in Lawrenceville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 8.99,
+      "expiration_date": "2026-09-03",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Russell Ridge, Lawrenceville, GA",
+      "eligible_cities": [
+        "Lawrenceville"
+      ],
+      "eligible_states": [
+        "GA"
+      ],
+      "terms": "Valid at Great Clips Russell Ridge at 1475 Georgia Hwy 20 in Lawrenceville, GA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/03/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "0854"
+      ]
+    },
+    {
+      "external_offer_id": "WqfW98R",
+      "official_url": "https://offers.greatclips.com/WqfW98R",
+      "source": "meta_ads",
+      "source_url": "https://offers.greatclips.com/WqfW98R",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Westyn Bay at 2222 Ocoee Apopka Rd in Ocoee. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-10-02",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Westyn Bay, Ocoee, FL",
+      "eligible_cities": [
+        "Ocoee"
+      ],
+      "eligible_states": [
+        "FL"
+      ],
+      "terms": "Valid at Great Clips Westyn Bay at 2222 Ocoee Apopka Rd in Ocoee, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "3337"
+      ]
+    },
+    {
+      "external_offer_id": "Y6O9QnB",
+      "official_url": "https://offers.greatclips.com/Y6O9QnB",
+      "source": "meta_ads",
+      "source_url": "https://offers.greatclips.com/Y6O9QnB",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Shoppes of Eagle Ridge at 7965 State Rd 50 in Groveland. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-10-02",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Shoppes of Eagle Ridge, Groveland, FL",
+      "eligible_cities": [
+        "Groveland"
+      ],
+      "eligible_states": [
+        "FL"
+      ],
+      "terms": "Valid at Great Clips Shoppes of Eagle Ridge at 7965 State Rd 50 in Groveland, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "9330"
+      ]
+    },
+    {
+      "external_offer_id": "g7lA2f7",
+      "official_url": "https://offers.greatclips.com/g7lA2f7",
+      "source": "meta_ads",
+      "source_url": "https://offers.greatclips.com/g7lA2f7",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Celebration Pointe at 1709 Future Way in Celebration. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-10-02",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Celebration Pointe, Celebration, FL",
+      "eligible_cities": [
+        "Celebration"
+      ],
+      "eligible_states": [
+        "FL"
+      ],
+      "terms": "Valid at Great Clips Celebration Pointe at 1709 Future Way in Celebration, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "3816"
       ]
     },
     {
