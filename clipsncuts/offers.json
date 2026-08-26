@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-26T04:56:03.519Z",
+  "scraped_at": "2026-08-26T09:01:37.909Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -1060,30 +1060,6 @@
       "discovery_confidence": "high"
     },
     {
-      "external_offer_id": "9rKs0Mq",
-      "official_url": "https://offers.greatclips.com/9rKs0Mq",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$11.99 Haircut",
-      "description": "Get a great haircut for $11.99 at Great Clips Pleasanton Gateway at 6766 Bernal Ave in Pleasanton. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 11.99,
-      "expiration_date": "2026-09-07",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Pleasanton Gateway, Pleasanton, CA",
-      "eligible_cities": [
-        "Pleasanton"
-      ],
-      "eligible_states": [
-        "CA"
-      ],
-      "terms": "Valid at Great Clips Pleasanton Gateway at 6766 Bernal Ave in Pleasanton, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/15025/50707-002-1200x600-US-Sparkfly-199-199911.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "8837"
-      ]
-    },
-    {
       "external_offer_id": "CCBQgsc",
       "official_url": "https://offers.greatclips.com/CCBQgsc",
       "source": "meta_ads",
@@ -1142,6 +1118,30 @@
       "terms": "Valid only at participating Champaign, Springfield, & Jacksonville area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/28/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20241/50707-002-1200x600-9.99.jpg",
       "discovery_confidence": "high"
+    },
+    {
+      "external_offer_id": "HFsESZ0",
+      "official_url": "https://offers.greatclips.com/HFsESZ0",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$8.99 Haircut",
+      "description": "Get a great haircut for $8.99 at Great Clips Colonial Promenade/Alabaster at 100 South Colonial Drive in Alabaster. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 8.99,
+      "expiration_date": "2026-09-04",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Colonial Promenade/Alabaster, Alabaster, AL",
+      "eligible_cities": [
+        "Alabaster"
+      ],
+      "eligible_states": [
+        "AL"
+      ],
+      "terms": "Valid at Great Clips Colonial Promenade/Alabaster at 100 South Colonial Drive in Alabaster, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "9629"
+      ]
     },
     {
       "external_offer_id": "HWfQdgx",
@@ -1254,28 +1254,6 @@
       "discovery_confidence": "high"
     },
     {
-      "external_offer_id": "NFh4ze2",
-      "official_url": "https://offers.greatclips.com/NFh4ze2",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$15.99 Haircut",
-      "description": "Get a great haircut for $15.99 at Great Clips Camden Park at 2075 Camden Ave in San Jose. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 15.99,
-      "expiration_date": "2026-09-07",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Camden Park, San",
-      "eligible_cities": [
-        "San"
-      ],
-      "eligible_states": [],
-      "terms": "Valid at Great Clips Camden Park at 2075 Camden Ave in San Jose, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "5283"
-      ]
-    },
-    {
       "external_offer_id": "NZiwyAq",
       "official_url": "https://offers.greatclips.com/NZiwyAq",
       "source": "meta_ads",
@@ -1297,6 +1275,28 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "1594"
+      ]
+    },
+    {
+      "external_offer_id": "OfrI2pe",
+      "official_url": "https://offers.greatclips.com/OfrI2pe",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$8.99 Haircut",
+      "description": "Get a great haircut for $8.99 at Great Clips Vestavia Hills City Center at 674 Montgomery Hwy in Vestavia Hills. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 8.99,
+      "expiration_date": "2026-09-04",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Vestavia Hills City Center, Vestavia",
+      "eligible_cities": [
+        "Vestavia"
+      ],
+      "eligible_states": [],
+      "terms": "Valid at Great Clips Vestavia Hills City Center at 674 Montgomery Hwy in Vestavia Hills, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "0561"
       ]
     },
     {
@@ -1588,6 +1588,27 @@
       ]
     },
     {
+      "external_offer_id": "i3vMWCQ",
+      "official_url": "https://offers.greatclips.com/i3vMWCQ",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$10.99 Haircut",
+      "description": "Get a great haircut for $10.99 only at participating Columbus, OH area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 10.99,
+      "expiration_date": "2026-08-28",
+      "geographic_type": "city",
+      "geographic_description": "Columbus, OH area",
+      "eligible_cities": [
+        "Columbus"
+      ],
+      "eligible_states": [
+        "OH"
+      ],
+      "terms": "Valid only at participating Columbus, OH area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/28/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20277/50707-002-1200x600-10.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
       "external_offer_id": "ifBqrxr",
       "official_url": "https://offers.greatclips.com/ifBqrxr",
       "source": "meta_ads",
@@ -1749,6 +1770,30 @@
       "discovery_confidence": "high"
     },
     {
+      "external_offer_id": "u5zMPbc",
+      "official_url": "https://offers.greatclips.com/u5zMPbc",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$8.99 Haircut",
+      "description": "Get a great haircut for $8.99 at Great Clips Leeds Village at 8525 Whitfield Ave in Leeds. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 8.99,
+      "expiration_date": "2026-09-04",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Leeds Village, Leeds, AL",
+      "eligible_cities": [
+        "Leeds"
+      ],
+      "eligible_states": [
+        "AL"
+      ],
+      "terms": "Valid at Great Clips Leeds Village at 8525 Whitfield Ave in Leeds, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "8802"
+      ]
+    },
+    {
       "external_offer_id": "vTZrFql",
       "official_url": "https://offers.greatclips.com/vTZrFql",
       "source": "meta_ads",
@@ -1843,6 +1888,27 @@
       "eligible_salon_ids": [
         "1545"
       ]
+    },
+    {
+      "external_offer_id": "y9sRBbN",
+      "official_url": "https://offers.greatclips.com/y9sRBbN",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 at Great Clips Novato Fair S.C. at 922 Diablo Ave in Novato. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
+      "expiration_date": "2026-09-04",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Novato Fair S.C., Novato, CA",
+      "eligible_cities": [
+        "Novato"
+      ],
+      "eligible_states": [
+        "CA"
+      ],
+      "terms": "Valid at Great Clips Novato Fair S.C. at 922 Diablo Ave in Novato, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8467/50707-002-1200x600-12.99.jpg",
+      "discovery_confidence": "medium"
     },
     {
       "external_offer_id": "PRHR4eU",
@@ -2156,27 +2222,6 @@
       ]
     },
     {
-      "external_offer_id": "i3vMWCQ",
-      "official_url": "https://offers.greatclips.com/i3vMWCQ",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$10-99",
-      "title": "$10.99 Haircut",
-      "description": "Get a great haircut for $10.99 only at participating Columbus, OH area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 10.99,
-      "expiration_date": "2026-08-28",
-      "geographic_type": "city",
-      "geographic_description": "Columbus, OH area",
-      "eligible_cities": [
-        "Columbus"
-      ],
-      "eligible_states": [
-        "OH"
-      ],
-      "terms": "Valid only at participating Columbus, OH area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/28/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20277/50707-002-1200x600-10.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
       "external_offer_id": "u94UpRl",
       "official_url": "https://offers.greatclips.com/u94UpRl",
       "source": "meta_ads",
@@ -2378,6 +2423,30 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "8663"
+      ]
+    },
+    {
+      "external_offer_id": "9rKs0Mq",
+      "official_url": "https://offers.greatclips.com/9rKs0Mq",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$11-99",
+      "title": "$11.99 Haircut",
+      "description": "Get a great haircut for $11.99 at Great Clips Pleasanton Gateway at 6766 Bernal Ave in Pleasanton. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 11.99,
+      "expiration_date": "2026-09-07",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Pleasanton Gateway, Pleasanton, CA",
+      "eligible_cities": [
+        "Pleasanton"
+      ],
+      "eligible_states": [
+        "CA"
+      ],
+      "terms": "Valid at Great Clips Pleasanton Gateway at 6766 Bernal Ave in Pleasanton, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/15025/50707-002-1200x600-US-Sparkfly-199-199911.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "8837"
       ]
     },
     {
@@ -2748,6 +2817,28 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "2586"
+      ]
+    },
+    {
+      "external_offer_id": "NFh4ze2",
+      "official_url": "https://offers.greatclips.com/NFh4ze2",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$15-99",
+      "title": "$15.99 Haircut",
+      "description": "Get a great haircut for $15.99 at Great Clips Camden Park at 2075 Camden Ave in San Jose. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 15.99,
+      "expiration_date": "2026-09-07",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Camden Park, San",
+      "eligible_cities": [
+        "San"
+      ],
+      "eligible_states": [],
+      "terms": "Valid at Great Clips Camden Park at 2075 Camden Ave in San Jose, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "5283"
       ]
     },
     {
