@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-27T22:12:30.486Z",
+  "scraped_at": "2026-08-28T10:28:32.986Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -778,6 +778,30 @@
       ]
     },
     {
+      "external_offer_id": "PRHR4eU",
+      "official_url": "https://offers.greatclips.com/PRHR4eU",
+      "source": "meta_ads",
+      "source_url": "https://coupons-haircut.com/7-99-coupon",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 at Great Clips Precinct Line Center at 1320 Precinct Line Rd in Hurst. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-10-02",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Precinct Line Center, Hurst, TX",
+      "eligible_cities": [
+        "Hurst"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Precinct Line Center at 1320 Precinct Line Rd in Hurst, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4964"
+      ]
+    },
+    {
       "external_offer_id": "XDcpSFp",
       "official_url": "https://offers.greatclips.com/XDcpSFp",
       "source": "meta_ads",
@@ -977,28 +1001,6 @@
       "terms": "Valid only at participating OKC area and N. Central & W OK area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/28/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20405/50707-002-1200x600-11.99.jpg",
       "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "4aqF0YR",
-      "official_url": "https://offers.greatclips.com/4aqF0YR",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips El Cerrito Plaza at 4030 El Cerrito Plaza in El Cerrito. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-08-27",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips El Cerrito Plaza, El",
-      "eligible_cities": [
-        "El"
-      ],
-      "eligible_states": [],
-      "terms": "Valid at Great Clips El Cerrito Plaza at 4030 El Cerrito Plaza in El Cerrito, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 08/27/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/14842/50707-002-1200x600-US-Sparkfly-199-199914.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4545"
-      ]
     },
     {
       "external_offer_id": "6CfMcHC",
@@ -1209,30 +1211,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "1614"
-      ]
-    },
-    {
-      "external_offer_id": "J23FE6g",
-      "official_url": "https://offers.greatclips.com/J23FE6g",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips The Crossings-Antioch at 3457 Deer Valley Rd in Antioch. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-08-27",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips The Crossings-Antioch, Antioch, CA",
-      "eligible_cities": [
-        "Antioch"
-      ],
-      "eligible_states": [
-        "CA"
-      ],
-      "terms": "Valid at Great Clips The Crossings-Antioch at 3457 Deer Valley Rd in Antioch, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 08/27/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/14842/50707-002-1200x600-US-Sparkfly-199-199914.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "5279"
       ]
     },
     {
@@ -1888,6 +1866,25 @@
       ]
     },
     {
+      "external_offer_id": "xAKCpMz",
+      "official_url": "https://offers.greatclips.com/xAKCpMz",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 only at participating Peoria area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-08-28",
+      "geographic_type": "city",
+      "geographic_description": "Peoria area",
+      "eligible_cities": [
+        "Peoria"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Peoria area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/28/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20226/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
       "external_offer_id": "xY3qasf",
       "official_url": "https://offers.greatclips.com/xY3qasf",
       "source": "meta_ads",
@@ -1931,30 +1928,6 @@
       "terms": "Valid at Great Clips Novato Fair S.C. at 922 Diablo Ave in Novato, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8467/50707-002-1200x600-12.99.jpg",
       "discovery_confidence": "medium"
-    },
-    {
-      "external_offer_id": "PRHR4eU",
-      "official_url": "https://offers.greatclips.com/PRHR4eU",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$7-99",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 at Great Clips Precinct Line Center at 1320 Precinct Line Rd in Hurst. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-10-02",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Precinct Line Center, Hurst, TX",
-      "eligible_cities": [
-        "Hurst"
-      ],
-      "eligible_states": [
-        "TX"
-      ],
-      "terms": "Valid at Great Clips Precinct Line Center at 1320 Precinct Line Rd in Hurst, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4964"
-      ]
     },
     {
       "external_offer_id": "7zV3mdR",
@@ -3887,25 +3860,6 @@
       "eligible_states": [],
       "terms": "Valid only at participating South Central WI area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/28/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20400/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "xAKCpMz",
-      "official_url": "https://offers.greatclips.com/xAKCpMz",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/xAKCpMz",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 only at participating Peoria area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-08-28",
-      "geographic_type": "city",
-      "geographic_description": "Peoria area",
-      "eligible_cities": [
-        "Peoria"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Peoria area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/28/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20226/50707-002-1200x600-9.99.jpg",
       "discovery_confidence": "high"
     },
     {
