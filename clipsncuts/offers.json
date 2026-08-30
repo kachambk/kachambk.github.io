@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-30T13:56:09.761Z",
+  "scraped_at": "2026-08-30T19:24:19.744Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -927,6 +927,28 @@
       ]
     },
     {
+      "external_offer_id": "5fUycUZ",
+      "official_url": "https://offers.greatclips.com/5fUycUZ",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 at Great Clips El Cerrito Plaza at 4030 El Cerrito Plaza in El Cerrito. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-09-11",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips El Cerrito Plaza, El",
+      "eligible_cities": [
+        "El"
+      ],
+      "eligible_states": [],
+      "terms": "Valid at Great Clips El Cerrito Plaza at 4030 El Cerrito Plaza in El Cerrito, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4545"
+      ]
+    },
+    {
       "external_offer_id": "8HVAfsU",
       "official_url": "https://offers.greatclips.com/8HVAfsU",
       "source": "meta_ads",
@@ -1241,28 +1263,6 @@
       "terms": "Valid only at participating Pittsburgh area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/04/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20670/50707-002-1200x600-11.99.jpg",
       "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "MaqOcbd",
-      "official_url": "https://offers.greatclips.com/MaqOcbd",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 at Great Clips 580 Marketplace at 4045 E Castro Valley Blvd in Castro Valley. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "expiration_date": "2026-10-07",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips 580 Marketplace, Castro",
-      "eligible_cities": [
-        "Castro"
-      ],
-      "eligible_states": [],
-      "terms": "Valid at Great Clips 580 Marketplace at 4045 E Castro Valley Blvd in Castro Valley, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/19979/12.99%20Haircut%20Coupon.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "5265"
-      ]
     },
     {
       "external_offer_id": "NZiwyAq",
@@ -2719,6 +2719,28 @@
       ]
     },
     {
+      "external_offer_id": "MaqOcbd",
+      "official_url": "https://offers.greatclips.com/MaqOcbd",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$12-99",
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 at Great Clips 580 Marketplace at 4045 E Castro Valley Blvd in Castro Valley. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
+      "expiration_date": "2026-10-07",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips 580 Marketplace, Castro",
+      "eligible_cities": [
+        "Castro"
+      ],
+      "eligible_states": [],
+      "terms": "Valid at Great Clips 580 Marketplace at 4045 E Castro Valley Blvd in Castro Valley, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/19979/12.99%20Haircut%20Coupon.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "5265"
+      ]
+    },
+    {
       "external_offer_id": "N2dTJDx",
       "official_url": "https://offers.greatclips.com/N2dTJDx",
       "source": "meta_ads",
@@ -2975,28 +2997,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "1185"
-      ]
-    },
-    {
-      "external_offer_id": "5fUycUZ",
-      "official_url": "https://offers.greatclips.com/5fUycUZ",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$14-99",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips El Cerrito Plaza at 4030 El Cerrito Plaza in El Cerrito. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-09-11",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips El Cerrito Plaza, El",
-      "eligible_cities": [
-        "El"
-      ],
-      "eligible_states": [],
-      "terms": "Valid at Great Clips El Cerrito Plaza at 4030 El Cerrito Plaza in El Cerrito, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4545"
       ]
     },
     {
