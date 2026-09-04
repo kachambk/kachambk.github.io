@@ -1,52 +1,12 @@
 {
-  "scraped_at": "2026-09-04T03:53:29.658Z",
-  "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+  "scraped_at": "2026-09-04T08:58:05.573Z",
+  "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=%22great%20clips%22&search_type=keyword_exact_phrase&media_type=all",
   "offers": [
-    {
-      "external_offer_id": "0EauRlu",
-      "official_url": "https://offers.greatclips.com/0EauRlu",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 only at participating Buffalo area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-09-11",
-      "geographic_type": "city",
-      "geographic_description": "Buffalo area",
-      "eligible_cities": [
-        "Buffalo"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Buffalo area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20773/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "46n5aD7",
-      "official_url": "https://offers.greatclips.com/46n5aD7",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 only at participating Rochester, NY area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-09-11",
-      "geographic_type": "city",
-      "geographic_description": "Rochester, NY area",
-      "eligible_cities": [
-        "Rochester"
-      ],
-      "eligible_states": [
-        "NY"
-      ],
-      "terms": "Valid only at participating Rochester, NY area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20698/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high"
-    },
     {
       "external_offer_id": "EWNAalN",
       "official_url": "https://offers.greatclips.com/EWNAalN",
       "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=%22great%20clips%22&search_type=keyword_exact_phrase&media_type=all",
       "title": "$11.99 Haircut",
       "description": "Get a great haircut for $11.99 only at participating Harrisburg, Lancaster & York area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "price": 11.99,
@@ -67,7 +27,7 @@
       "external_offer_id": "EoCQb2p",
       "official_url": "https://offers.greatclips.com/EoCQb2p",
       "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=%22great%20clips%22&search_type=keyword_exact_phrase&media_type=all",
       "title": "$12.99 Haircut",
       "description": "Get a great haircut for $12.99 only at participating Hampton Roads & Peninsula area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "price": 12.99,
@@ -87,7 +47,7 @@
       "external_offer_id": "FEDhm2E",
       "official_url": "https://offers.greatclips.com/FEDhm2E",
       "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=%22great%20clips%22&search_type=keyword_exact_phrase&media_type=all",
       "title": "$14.99 Haircut",
       "description": "Get a great haircut for $14.99 only at participating Portland area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "price": 14.99,
@@ -103,29 +63,10 @@
       "discovery_confidence": "high"
     },
     {
-      "external_offer_id": "G4nYVOB",
-      "official_url": "https://offers.greatclips.com/G4nYVOB",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$11.99 Haircut",
-      "description": "Get a great haircut for $11.99 only at participating Springfield-Holyoke area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 11.99,
-      "expiration_date": "2026-09-11",
-      "geographic_type": "city",
-      "geographic_description": "Springfield-Holyoke area",
-      "eligible_cities": [
-        "Springfield-Holyoke"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Springfield-Holyoke area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20699/50707-002-1200x600-11.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
       "external_offer_id": "GfQEWJg",
       "official_url": "https://offers.greatclips.com/GfQEWJg",
       "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=%22great%20clips%22&search_type=keyword_exact_phrase&media_type=all",
       "title": "$5.00 Off Haircut",
       "description": "Get a great haircut for $5.00 off only at participating Bay area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "geographic_type": "city",
@@ -142,7 +83,7 @@
       "external_offer_id": "OK36Ser",
       "official_url": "https://offers.greatclips.com/OK36Ser",
       "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=%22great%20clips%22&search_type=keyword_exact_phrase&media_type=all",
       "title": "$13.99 Haircut",
       "description": "Get a great haircut for $13.99 only at participating NJ, PA & DE area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "price": 13.99,
@@ -157,67 +98,6 @@
       ],
       "terms": "Valid only at participating NJ, PA & DE area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20408/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "i1axxnB",
-      "official_url": "https://offers.greatclips.com/i1axxnB",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 only at participating Eugene, Springfield & Corvallis area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-09-11",
-      "geographic_type": "city",
-      "geographic_description": "Eugene, Springfield & Corvallis area",
-      "eligible_cities": [
-        "Eugene",
-        "Springfield",
-        "Corvallis"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Eugene, Springfield & Corvallis area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20693/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "isjblpZ",
-      "official_url": "https://offers.greatclips.com/isjblpZ",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 only at participating NE & Central PA area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "expiration_date": "2026-09-11",
-      "geographic_type": "city",
-      "geographic_description": "NE & Central PA area",
-      "eligible_cities": [
-        "Central PA"
-      ],
-      "eligible_states": [
-        "NE"
-      ],
-      "terms": "Valid only at participating NE & Central PA area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20701/50707-002-1200x600-12.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "lM6ugQf",
-      "official_url": "https://offers.greatclips.com/lM6ugQf",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$11.99 Haircut",
-      "description": "Get a great haircut for $11.99 only at participating Baltimore area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 11.99,
-      "expiration_date": "2026-09-18",
-      "geographic_type": "city",
-      "geographic_description": "Baltimore area",
-      "eligible_cities": [
-        "Baltimore"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Baltimore area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20770/50707-002-1200x600-11.99.jpg",
       "discovery_confidence": "high"
     },
     {
@@ -243,6 +123,27 @@
       "eligible_salon_ids": [
         "5213"
       ]
+    },
+    {
+      "external_offer_id": "46n5aD7",
+      "official_url": "https://offers.greatclips.com/46n5aD7",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 only at participating Rochester, NY area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-09-11",
+      "geographic_type": "city",
+      "geographic_description": "Rochester, NY area",
+      "eligible_cities": [
+        "Rochester"
+      ],
+      "eligible_states": [
+        "NY"
+      ],
+      "terms": "Valid only at participating Rochester, NY area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20698/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high"
     },
     {
       "external_offer_id": "5KZAYwB",
@@ -614,6 +515,67 @@
       ]
     },
     {
+      "external_offer_id": "i1axxnB",
+      "official_url": "https://offers.greatclips.com/i1axxnB",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 only at participating Eugene, Springfield & Corvallis area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-09-11",
+      "geographic_type": "city",
+      "geographic_description": "Eugene, Springfield & Corvallis area",
+      "eligible_cities": [
+        "Eugene",
+        "Springfield",
+        "Corvallis"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Eugene, Springfield & Corvallis area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20693/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
+      "external_offer_id": "isjblpZ",
+      "official_url": "https://offers.greatclips.com/isjblpZ",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips",
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 only at participating NE & Central PA area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
+      "expiration_date": "2026-09-11",
+      "geographic_type": "city",
+      "geographic_description": "NE & Central PA area",
+      "eligible_cities": [
+        "Central PA"
+      ],
+      "eligible_states": [
+        "NE"
+      ],
+      "terms": "Valid only at participating NE & Central PA area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20701/50707-002-1200x600-12.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
+      "external_offer_id": "lM6ugQf",
+      "official_url": "https://offers.greatclips.com/lM6ugQf",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips",
+      "title": "$11.99 Haircut",
+      "description": "Get a great haircut for $11.99 only at participating Baltimore area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 11.99,
+      "expiration_date": "2026-09-18",
+      "geographic_type": "city",
+      "geographic_description": "Baltimore area",
+      "eligible_cities": [
+        "Baltimore"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Baltimore area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20770/50707-002-1200x600-11.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
       "external_offer_id": "skteDvh",
       "official_url": "https://offers.greatclips.com/skteDvh",
       "source": "meta_ads",
@@ -881,6 +843,25 @@
       ]
     },
     {
+      "external_offer_id": "0EauRlu",
+      "official_url": "https://offers.greatclips.com/0EauRlu",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 only at participating Buffalo area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-09-11",
+      "geographic_type": "city",
+      "geographic_description": "Buffalo area",
+      "eligible_cities": [
+        "Buffalo"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Buffalo area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20773/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
       "external_offer_id": "0T1Pyu4",
       "official_url": "https://offers.greatclips.com/0T1Pyu4",
       "source": "meta_ads",
@@ -924,6 +905,28 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "3170"
+      ]
+    },
+    {
+      "external_offer_id": "1rc5RXy",
+      "official_url": "https://offers.greatclips.com/1rc5RXy",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Shoppes of Boynton at 2260 N Congress Ave in Boynton Beach. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-10-06",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Shoppes of Boynton, Boynton",
+      "eligible_cities": [
+        "Boynton"
+      ],
+      "eligible_states": [],
+      "terms": "Valid at Great Clips Shoppes of Boynton at 2260 N Congress Ave in Boynton Beach, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/06/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "7190"
       ]
     },
     {
@@ -1320,6 +1323,30 @@
       ]
     },
     {
+      "external_offer_id": "6kH7DNg",
+      "official_url": "https://offers.greatclips.com/6kH7DNg",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 at Great Clips Sherwin Williams Center at 4420 Outer Loop Rd in Louisville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
+      "expiration_date": "2026-10-07",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Sherwin Williams Center, Louisville, KY",
+      "eligible_cities": [
+        "Louisville"
+      ],
+      "eligible_states": [
+        "KY"
+      ],
+      "terms": "Valid at Great Clips Sherwin Williams Center at 4420 Outer Loop Rd in Louisville, KY. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4804"
+      ]
+    },
+    {
       "external_offer_id": "7NWmqPv",
       "official_url": "https://offers.greatclips.com/7NWmqPv",
       "source": "meta_ads",
@@ -1657,6 +1684,28 @@
       "discovery_confidence": "medium"
     },
     {
+      "external_offer_id": "AmCb3Iy",
+      "official_url": "https://offers.greatclips.com/AmCb3Iy",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Marketplace at Wycliffe at 4095 South State Rd 7 in Lake Worth. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-10-06",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Marketplace at Wycliffe, Lake",
+      "eligible_cities": [
+        "Lake"
+      ],
+      "eligible_states": [],
+      "terms": "Valid at Great Clips Marketplace at Wycliffe at 4095 South State Rd 7 in Lake Worth, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/06/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2975"
+      ]
+    },
+    {
       "external_offer_id": "AnYCUwT",
       "official_url": "https://offers.greatclips.com/AnYCUwT",
       "source": "meta_ads",
@@ -1770,6 +1819,30 @@
       ]
     },
     {
+      "external_offer_id": "CRWejNv",
+      "official_url": "https://offers.greatclips.com/CRWejNv",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Shoppes at Hammock Cove at 4362 Thomasson Dr in Naples. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-10-07",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Shoppes at Hammock Cove, Naples, FL",
+      "eligible_cities": [
+        "Naples"
+      ],
+      "eligible_states": [
+        "FL"
+      ],
+      "terms": "Valid at Great Clips Shoppes at Hammock Cove at 4362 Thomasson Dr in Naples, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1382"
+      ]
+    },
+    {
       "external_offer_id": "Cg0q1GR",
       "official_url": "https://offers.greatclips.com/Cg0q1GR",
       "source": "meta_ads",
@@ -1859,6 +1932,28 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "3780"
+      ]
+    },
+    {
+      "external_offer_id": "ETWNN8K",
+      "official_url": "https://offers.greatclips.com/ETWNN8K",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Milton St. Plaza at 4823 Milton St in Cape Coral. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-10-07",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Milton St. Plaza, Cape",
+      "eligible_cities": [
+        "Cape"
+      ],
+      "eligible_states": [],
+      "terms": "Valid at Great Clips Milton St. Plaza at 4823 Milton St in Cape Coral, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1098"
       ]
     },
     {
@@ -2068,6 +2163,25 @@
       "eligible_salon_ids": [
         "7185"
       ]
+    },
+    {
+      "external_offer_id": "G4nYVOB",
+      "official_url": "https://offers.greatclips.com/G4nYVOB",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$11.99 Haircut",
+      "description": "Get a great haircut for $11.99 only at participating Springfield-Holyoke area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 11.99,
+      "expiration_date": "2026-09-11",
+      "geographic_type": "city",
+      "geographic_description": "Springfield-Holyoke area",
+      "eligible_cities": [
+        "Springfield-Holyoke"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Springfield-Holyoke area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20699/50707-002-1200x600-11.99.jpg",
+      "discovery_confidence": "high"
     },
     {
       "external_offer_id": "GQiBsZF",
@@ -2499,6 +2613,30 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "0674"
+      ]
+    },
+    {
+      "external_offer_id": "LRTYodH",
+      "official_url": "https://offers.greatclips.com/LRTYodH",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips River Bridge Centre at 6744 Forest Hill Blvd in Greenacres. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-10-06",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips River Bridge Centre, Greenacres, FL",
+      "eligible_cities": [
+        "Greenacres"
+      ],
+      "eligible_states": [
+        "FL"
+      ],
+      "terms": "Valid at Great Clips River Bridge Centre at 6744 Forest Hill Blvd in Greenacres, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/06/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "3287"
       ]
     },
     {
@@ -2971,6 +3109,30 @@
       "discovery_confidence": "medium"
     },
     {
+      "external_offer_id": "QtFnTby",
+      "official_url": "https://offers.greatclips.com/QtFnTby",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 at Great Clips West Jackson Crossing at 6055 Hwy 124 W in Hoschton. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
+      "expiration_date": "2026-10-07",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips West Jackson Crossing, Hoschton, GA",
+      "eligible_cities": [
+        "Hoschton"
+      ],
+      "eligible_states": [
+        "GA"
+      ],
+      "terms": "Valid at Great Clips West Jackson Crossing at 6055 Hwy 124 W in Hoschton, GA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "9322"
+      ]
+    },
+    {
       "external_offer_id": "QyPIaKx",
       "official_url": "https://offers.greatclips.com/QyPIaKx",
       "source": "meta_ads",
@@ -3034,6 +3196,19 @@
       "eligible_salon_ids": [
         "2362"
       ]
+    },
+    {
+      "external_offer_id": "SDzsm5M",
+      "official_url": "https://offers.greatclips.com/SDzsm5M",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Boynton Plaza at 143 1/2 North Congress Ave in Boynton Beach. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-10-06",
+      "terms": "Valid at Great Clips Boynton Plaza at 143 1/2 North Congress Ave in Boynton Beach, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/06/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "low"
     },
     {
       "external_offer_id": "Tlz1Gbg",
@@ -3509,6 +3684,28 @@
       ]
     },
     {
+      "external_offer_id": "cDbDFfi",
+      "official_url": "https://offers.greatclips.com/cDbDFfi",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Aberdeen Square at 4956-16 Le Chalet Blvd in Boynton Beach. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-10-06",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Aberdeen Square, Boynton",
+      "eligible_cities": [
+        "Boynton"
+      ],
+      "eligible_states": [],
+      "terms": "Valid at Great Clips Aberdeen Square at 4956-16 Le Chalet Blvd in Boynton Beach, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/06/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "5824"
+      ]
+    },
+    {
       "external_offer_id": "ctYVbTB",
       "official_url": "https://offers.greatclips.com/ctYVbTB",
       "source": "meta_ads",
@@ -3619,6 +3816,28 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "0717"
+      ]
+    },
+    {
+      "external_offer_id": "fJSXAci",
+      "official_url": "https://offers.greatclips.com/fJSXAci",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$10.99 Haircut",
+      "description": "Get a great haircut for $10.99 at Great Clips Whitestone Market at 2800 E Whitestone Blvd in Cedar Park. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 10.99,
+      "expiration_date": "2026-10-02",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Whitestone Market, Cedar",
+      "eligible_cities": [
+        "Cedar"
+      ],
+      "eligible_states": [],
+      "terms": "Valid at Great Clips Whitestone Market at 2800 E Whitestone Blvd in Cedar Park, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4132"
       ]
     },
     {
@@ -3759,6 +3978,30 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "6346"
+      ]
+    },
+    {
+      "external_offer_id": "ggqcSqC",
+      "official_url": "https://offers.greatclips.com/ggqcSqC",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 at Great Clips Lafayette Place at 3111 Mahan Dr in Tallahassee. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
+      "expiration_date": "2026-10-07",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Lafayette Place, Tallahassee, FL",
+      "eligible_cities": [
+        "Tallahassee"
+      ],
+      "eligible_states": [
+        "FL"
+      ],
+      "terms": "Valid at Great Clips Lafayette Place at 3111 Mahan Dr in Tallahassee, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "9542"
       ]
     },
     {
@@ -3921,6 +4164,50 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "2676"
+      ]
+    },
+    {
+      "external_offer_id": "k9cynE0",
+      "official_url": "https://offers.greatclips.com/k9cynE0",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$10.99 Haircut",
+      "description": "Get a great haircut for $10.99 at Great Clips Round Rock Crossing at 3021 S Interstate Hwy 35 in Round Rock. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 10.99,
+      "expiration_date": "2026-10-02",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Round Rock Crossing, Round",
+      "eligible_cities": [
+        "Round"
+      ],
+      "eligible_states": [],
+      "terms": "Valid at Great Clips Round Rock Crossing at 3021 S Interstate Hwy 35 in Round Rock, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "7318"
+      ]
+    },
+    {
+      "external_offer_id": "kD1OT9I",
+      "official_url": "https://offers.greatclips.com/kD1OT9I",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 at Great Clips Shops at West Falls Church at 7395 G Route 29 in Falls Church. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
+      "expiration_date": "2026-10-08",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Shops at West Falls Church, Falls",
+      "eligible_cities": [
+        "Falls"
+      ],
+      "eligible_states": [],
+      "terms": "Valid at Great Clips Shops at West Falls Church at 7395 G Route 29 in Falls Church, VA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/08/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4158"
       ]
     },
     {
@@ -4635,6 +4922,28 @@
       ]
     },
     {
+      "external_offer_id": "tK7Sv7r",
+      "official_url": "https://offers.greatclips.com/tK7Sv7r",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 at Great Clips Forum Centre at 3398 Forum Blvd in Fort Myers. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-10-07",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Forum Centre, Fort",
+      "eligible_cities": [
+        "Fort"
+      ],
+      "eligible_states": [],
+      "terms": "Valid at Great Clips Forum Centre at 3398 Forum Blvd in Fort Myers, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "8826"
+      ]
+    },
+    {
       "external_offer_id": "tOMDkLg",
       "official_url": "https://offers.greatclips.com/tOMDkLg",
       "source": "meta_ads",
@@ -4950,6 +5259,30 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "0437"
+      ]
+    },
+    {
+      "external_offer_id": "vvX95hn",
+      "official_url": "https://offers.greatclips.com/vvX95hn",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 at Great Clips Riverchase Plaza at 11208 Tamiami Trl N in Naples. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-10-07",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Riverchase Plaza, Naples, FL",
+      "eligible_cities": [
+        "Naples"
+      ],
+      "eligible_states": [
+        "FL"
+      ],
+      "terms": "Valid at Great Clips Riverchase Plaza at 11208 Tamiami Trl N in Naples, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "9067"
       ]
     },
     {
@@ -5321,50 +5654,6 @@
       ]
     },
     {
-      "external_offer_id": "fJSXAci",
-      "official_url": "https://offers.greatclips.com/fJSXAci",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$10-99",
-      "title": "$10.99 Haircut",
-      "description": "Get a great haircut for $10.99 at Great Clips Whitestone Market at 2800 E Whitestone Blvd in Cedar Park. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 10.99,
-      "expiration_date": "2026-10-02",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Whitestone Market, Cedar",
-      "eligible_cities": [
-        "Cedar"
-      ],
-      "eligible_states": [],
-      "terms": "Valid at Great Clips Whitestone Market at 2800 E Whitestone Blvd in Cedar Park, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4132"
-      ]
-    },
-    {
-      "external_offer_id": "k9cynE0",
-      "official_url": "https://offers.greatclips.com/k9cynE0",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$10-99",
-      "title": "$10.99 Haircut",
-      "description": "Get a great haircut for $10.99 at Great Clips Round Rock Crossing at 3021 S Interstate Hwy 35 in Round Rock. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 10.99,
-      "expiration_date": "2026-10-02",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Round Rock Crossing, Round",
-      "eligible_cities": [
-        "Round"
-      ],
-      "eligible_states": [],
-      "terms": "Valid at Great Clips Round Rock Crossing at 3021 S Interstate Hwy 35 in Round Rock, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "7318"
-      ]
-    },
-    {
       "external_offer_id": "9c1pTC7",
       "official_url": "https://offers.greatclips.com/9c1pTC7",
       "source": "meta_ads",
@@ -5503,54 +5792,6 @@
       ]
     },
     {
-      "external_offer_id": "6kH7DNg",
-      "official_url": "https://offers.greatclips.com/6kH7DNg",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$12-99",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 at Great Clips Sherwin Williams Center at 4420 Outer Loop Rd in Louisville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "expiration_date": "2026-10-07",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Sherwin Williams Center, Louisville, KY",
-      "eligible_cities": [
-        "Louisville"
-      ],
-      "eligible_states": [
-        "KY"
-      ],
-      "terms": "Valid at Great Clips Sherwin Williams Center at 4420 Outer Loop Rd in Louisville, KY. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4804"
-      ]
-    },
-    {
-      "external_offer_id": "QtFnTby",
-      "official_url": "https://offers.greatclips.com/QtFnTby",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$12-99",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 at Great Clips West Jackson Crossing at 6055 Hwy 124 W in Hoschton. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "expiration_date": "2026-10-07",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips West Jackson Crossing, Hoschton, GA",
-      "eligible_cities": [
-        "Hoschton"
-      ],
-      "eligible_states": [
-        "GA"
-      ],
-      "terms": "Valid at Great Clips West Jackson Crossing at 6055 Hwy 124 W in Hoschton, GA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9322"
-      ]
-    },
-    {
       "external_offer_id": "VRtBRHm",
       "official_url": "https://offers.greatclips.com/VRtBRHm",
       "source": "meta_ads",
@@ -5572,225 +5813,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "0653"
-      ]
-    },
-    {
-      "external_offer_id": "ggqcSqC",
-      "official_url": "https://offers.greatclips.com/ggqcSqC",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$12-99",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 at Great Clips Lafayette Place at 3111 Mahan Dr in Tallahassee. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "expiration_date": "2026-10-07",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Lafayette Place, Tallahassee, FL",
-      "eligible_cities": [
-        "Tallahassee"
-      ],
-      "eligible_states": [
-        "FL"
-      ],
-      "terms": "Valid at Great Clips Lafayette Place at 3111 Mahan Dr in Tallahassee, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9542"
-      ]
-    },
-    {
-      "external_offer_id": "1rc5RXy",
-      "official_url": "https://offers.greatclips.com/1rc5RXy",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$13-99",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips Shoppes of Boynton at 2260 N Congress Ave in Boynton Beach. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-10-06",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Shoppes of Boynton, Boynton",
-      "eligible_cities": [
-        "Boynton"
-      ],
-      "eligible_states": [],
-      "terms": "Valid at Great Clips Shoppes of Boynton at 2260 N Congress Ave in Boynton Beach, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/06/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "7190"
-      ]
-    },
-    {
-      "external_offer_id": "AmCb3Iy",
-      "official_url": "https://offers.greatclips.com/AmCb3Iy",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$13-99",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips Marketplace at Wycliffe at 4095 South State Rd 7 in Lake Worth. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-10-06",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Marketplace at Wycliffe, Lake",
-      "eligible_cities": [
-        "Lake"
-      ],
-      "eligible_states": [],
-      "terms": "Valid at Great Clips Marketplace at Wycliffe at 4095 South State Rd 7 in Lake Worth, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/06/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2975"
-      ]
-    },
-    {
-      "external_offer_id": "CRWejNv",
-      "official_url": "https://offers.greatclips.com/CRWejNv",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$13-99",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips Shoppes at Hammock Cove at 4362 Thomasson Dr in Naples. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-10-07",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Shoppes at Hammock Cove, Naples, FL",
-      "eligible_cities": [
-        "Naples"
-      ],
-      "eligible_states": [
-        "FL"
-      ],
-      "terms": "Valid at Great Clips Shoppes at Hammock Cove at 4362 Thomasson Dr in Naples, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1382"
-      ]
-    },
-    {
-      "external_offer_id": "ETWNN8K",
-      "official_url": "https://offers.greatclips.com/ETWNN8K",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$13-99",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips Milton St. Plaza at 4823 Milton St in Cape Coral. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-10-07",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Milton St. Plaza, Cape",
-      "eligible_cities": [
-        "Cape"
-      ],
-      "eligible_states": [],
-      "terms": "Valid at Great Clips Milton St. Plaza at 4823 Milton St in Cape Coral, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1098"
-      ]
-    },
-    {
-      "external_offer_id": "LRTYodH",
-      "official_url": "https://offers.greatclips.com/LRTYodH",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$13-99",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips River Bridge Centre at 6744 Forest Hill Blvd in Greenacres. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-10-06",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips River Bridge Centre, Greenacres, FL",
-      "eligible_cities": [
-        "Greenacres"
-      ],
-      "eligible_states": [
-        "FL"
-      ],
-      "terms": "Valid at Great Clips River Bridge Centre at 6744 Forest Hill Blvd in Greenacres, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/06/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "3287"
-      ]
-    },
-    {
-      "external_offer_id": "SDzsm5M",
-      "official_url": "https://offers.greatclips.com/SDzsm5M",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$13-99",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips Boynton Plaza at 143 1/2 North Congress Ave in Boynton Beach. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-10-06",
-      "terms": "Valid at Great Clips Boynton Plaza at 143 1/2 North Congress Ave in Boynton Beach, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/06/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "low"
-    },
-    {
-      "external_offer_id": "cDbDFfi",
-      "official_url": "https://offers.greatclips.com/cDbDFfi",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$13-99",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips Aberdeen Square at 4956-16 Le Chalet Blvd in Boynton Beach. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-10-06",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Aberdeen Square, Boynton",
-      "eligible_cities": [
-        "Boynton"
-      ],
-      "eligible_states": [],
-      "terms": "Valid at Great Clips Aberdeen Square at 4956-16 Le Chalet Blvd in Boynton Beach, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/06/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "5824"
-      ]
-    },
-    {
-      "external_offer_id": "tK7Sv7r",
-      "official_url": "https://offers.greatclips.com/tK7Sv7r",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$14-99",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips Forum Centre at 3398 Forum Blvd in Fort Myers. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-10-07",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Forum Centre, Fort",
-      "eligible_cities": [
-        "Fort"
-      ],
-      "eligible_states": [],
-      "terms": "Valid at Great Clips Forum Centre at 3398 Forum Blvd in Fort Myers, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "8826"
-      ]
-    },
-    {
-      "external_offer_id": "vvX95hn",
-      "official_url": "https://offers.greatclips.com/vvX95hn",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$14-99",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips Riverchase Plaza at 11208 Tamiami Trl N in Naples. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-10-07",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Riverchase Plaza, Naples, FL",
-      "eligible_cities": [
-        "Naples"
-      ],
-      "eligible_states": [
-        "FL"
-      ],
-      "terms": "Valid at Great Clips Riverchase Plaza at 11208 Tamiami Trl N in Naples, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9067"
       ]
     },
     {
