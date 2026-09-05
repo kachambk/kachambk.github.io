@@ -1,31 +1,7 @@
 {
-  "scraped_at": "2026-09-05T18:18:23.539Z",
+  "scraped_at": "2026-09-05T22:56:33.952Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
-    {
-      "external_offer_id": "2Z2tl2x",
-      "official_url": "https://offers.greatclips.com/2Z2tl2x",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 at Great Clips Bett Plex at 6924 Competition Court in Bettendorf. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "expiration_date": "2026-09-12",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Bett Plex, Bettendorf, IA",
-      "eligible_cities": [
-        "Bettendorf"
-      ],
-      "eligible_states": [
-        "IA"
-      ],
-      "terms": "Valid at Great Clips Bett Plex at 6924 Competition Court in Bettendorf, IA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/12/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/19979/12.99%20Haircut%20Coupon.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "3823"
-      ]
-    },
     {
       "external_offer_id": "8NUmR2H",
       "official_url": "https://offers.greatclips.com/8NUmR2H",
@@ -36,11 +12,13 @@
       "price": 8.99,
       "expiration_date": "2026-10-09",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips La Plaza Grande, The",
+      "geographic_description": "Great Clips La Plaza Grande, The Villages, FL",
       "eligible_cities": [
-        "The"
+        "The Villages"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "FL"
+      ],
       "terms": "Valid at Great Clips La Plaza Grande at 1126 Bichara Blvd in The Villages, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/09/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
       "discovery_confidence": "high",
@@ -109,6 +87,30 @@
       "discovery_confidence": "medium"
     },
     {
+      "external_offer_id": "MIjTE53",
+      "official_url": "https://offers.greatclips.com/MIjTE53",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 at Great Clips Crawfordsville Square Shopping Center at 1684 Crawfordsville Square Dr in Crawfordsville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-09-25",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Crawfordsville Square Shopping Center, Crawfordsville, IN",
+      "eligible_cities": [
+        "Crawfordsville"
+      ],
+      "eligible_states": [
+        "IN"
+      ],
+      "terms": "Valid at Great Clips Crawfordsville Square Shopping Center at 1684 Crawfordsville Square Dr in Crawfordsville, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1246"
+      ]
+    },
+    {
       "external_offer_id": "NG5m1zk",
       "official_url": "https://offers.greatclips.com/NG5m1zk",
       "source": "meta_ads",
@@ -118,14 +120,19 @@
       "price": 9.99,
       "expiration_date": "2026-09-25",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Kroger Plaza, Terre",
+      "geographic_description": "Great Clips Kroger Plaza, Terre Haute, IN",
       "eligible_cities": [
-        "Terre"
+        "Terre Haute"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "IN"
+      ],
       "terms": "Valid at Great Clips Kroger Plaza at 2670 Wabash Ave in Terre Haute, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "medium"
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "7758"
+      ]
     },
     {
       "external_offer_id": "QnuB9hY",
@@ -180,11 +187,13 @@
       "price": 19.99,
       "expiration_date": "2026-10-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Evergreen Village Square, San",
+      "geographic_description": "Great Clips Evergreen Village Square, San Jose, CA",
       "eligible_cities": [
-        "San"
+        "San Jose"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "CA"
+      ],
       "terms": "Valid at Great Clips Evergreen Village Square at 4055 Evergreen Village Sq in San Jose, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8482/50707-002-1200x600-19.99.jpg",
       "discovery_confidence": "high",
@@ -250,11 +259,13 @@
       "price": 9.99,
       "expiration_date": "2026-09-25",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Terre Haute Shoppes, Terre",
+      "geographic_description": "Great Clips Terre Haute Shoppes, Terre Haute, IN",
       "eligible_cities": [
-        "Terre"
+        "Terre Haute"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "IN"
+      ],
       "terms": "Valid at Great Clips Terre Haute Shoppes at 5504 E New Margaret Dr in Terre Haute, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
       "discovery_confidence": "high",
@@ -337,20 +348,9 @@
       "title": "$5.00 Off Haircut",
       "description": "Get a great haircut for $5.00 off at Great Clips Brentwood at 4431-D Balfour Rd in Brentwood. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "expiration_date": "2026-09-13",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Brentwood, Brentwood, CA",
-      "eligible_cities": [
-        "Brentwood"
-      ],
-      "eligible_states": [
-        "CA"
-      ],
       "terms": "Valid at Great Clips Brentwood at 4431-D Balfour Rd in Brentwood, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/13/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8432/50707-002-1200x600-US-Sparkfly-5off.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "5247"
-      ]
+      "discovery_confidence": "low"
     },
     {
       "external_offer_id": "ulb7SMW",
@@ -450,11 +450,13 @@
       "price": 4.99,
       "expiration_date": "2026-10-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips South Point, Vero",
+      "geographic_description": "Great Clips South Point, Vero Beach, FL",
       "eligible_cities": [
-        "Vero"
+        "Vero Beach"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "FL"
+      ],
       "terms": "Valid at Great Clips South Point at 4165 9th St SW in Vero Beach , FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8449/50707-002-1200x600-4.99.jpg",
       "discovery_confidence": "high",
@@ -516,11 +518,13 @@
       "price": 15.99,
       "expiration_date": "2026-11-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Camden Park, San",
+      "geographic_description": "Great Clips Camden Park, San Jose, CA",
       "eligible_cities": [
-        "San"
+        "San Jose"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "CA"
+      ],
       "terms": "Valid at Great Clips Camden Park at 2075 Camden Ave in San Jose, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
       "discovery_confidence": "high",
@@ -538,11 +542,13 @@
       "price": 17.99,
       "expiration_date": "2026-10-06",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Ygnacio Plaza, Walnut",
+      "geographic_description": "Great Clips Ygnacio Plaza, Walnut Creek, CA",
       "eligible_cities": [
-        "Walnut"
+        "Walnut Creek"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "CA"
+      ],
       "terms": "Valid at Great Clips Ygnacio Plaza at 1833 Ygnacio Valley Rd in Walnut Creek, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/06/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
       "discovery_confidence": "high",
@@ -935,7 +941,10 @@
       ],
       "terms": "Valid at Great Clips Fairview at 7020 City Center Way in Fairview, TN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/12/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "medium"
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "8933"
+      ]
     },
     {
       "external_offer_id": "ApCByV7",
@@ -947,11 +956,13 @@
       "price": 7.99,
       "expiration_date": "2026-09-12",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Oak Grove Center, Oak",
+      "geographic_description": "Great Clips Oak Grove Center, Oak Grove, KY",
       "eligible_cities": [
-        "Oak"
+        "Oak Grove"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "KY"
+      ],
       "terms": "Valid at Great Clips Oak Grove Center at 244 Segler Drive in Oak Grove, KY. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/12/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
       "discovery_confidence": "high",
@@ -1041,11 +1052,13 @@
       "price": 7.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Shops at Indian Creek, Locust",
+      "geographic_description": "Great Clips Shops at Indian Creek, Locust Grove, GA",
       "eligible_cities": [
-        "Locust"
+        "Locust Grove"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "GA"
+      ],
       "terms": "Valid at Great Clips Shops at Indian Creek at 4508 Hwy 42 S in Locust Grove, GA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8457/50707-002-1200x600-7.99.jpg",
       "discovery_confidence": "high",
@@ -1154,11 +1167,13 @@
       "price": 10.99,
       "expiration_date": "2026-09-13",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips The Colonnade Shopping Center, San",
+      "geographic_description": "Great Clips The Colonnade Shopping Center, San Antonio, TX",
       "eligible_cities": [
-        "San"
+        "San Antonio"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "TX"
+      ],
       "terms": "Valid at Great Clips The Colonnade Shopping Center at 9817 IH-10 W in San Antonio, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/13/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
       "discovery_confidence": "high",
@@ -1200,11 +1215,13 @@
       "price": 13.99,
       "expiration_date": "2026-10-06",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Shoppes of Boynton, Boynton",
+      "geographic_description": "Great Clips Shoppes of Boynton, Boynton Beach, FL",
       "eligible_cities": [
-        "Boynton"
+        "Boynton Beach"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "FL"
+      ],
       "terms": "Valid at Great Clips Shoppes of Boynton at 2260 N Congress Ave in Boynton Beach, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/06/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
       "discovery_confidence": "high",
@@ -1222,11 +1239,13 @@
       "price": 10.99,
       "expiration_date": "2026-09-11",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Park Central Plaza, North",
+      "geographic_description": "Great Clips Park Central Plaza, North Las Vegas, NV",
       "eligible_cities": [
-        "North"
+        "North Las Vegas"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "NV"
+      ],
       "terms": "Valid at Great Clips Park Central Plaza at 5960 Losee Rd in North Las Vegas, NV. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
       "discovery_confidence": "high",
@@ -1244,16 +1263,42 @@
       "price": 15.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Brickyard Plaza, Salt",
+      "geographic_description": "Great Clips Brickyard Plaza, Salt Lake City, UT",
       "eligible_cities": [
-        "Salt"
+        "Salt Lake City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Brickyard Plaza at 3292 S 1300 E in Salt Lake City, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "1942"
+      ]
+    },
+    {
+      "external_offer_id": "2Z2tl2x",
+      "official_url": "https://offers.greatclips.com/2Z2tl2x",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 at Great Clips Bett Plex at 6924 Competition Court in Bettendorf. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
+      "expiration_date": "2026-09-12",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Bett Plex, Bettendorf, IA",
+      "eligible_cities": [
+        "Bettendorf"
+      ],
+      "eligible_states": [
+        "IA"
+      ],
+      "terms": "Valid at Great Clips Bett Plex at 6924 Competition Court in Bettendorf, IA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/12/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/19979/12.99%20Haircut%20Coupon.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "3823"
       ]
     },
     {
@@ -1314,11 +1359,13 @@
       "price": 17.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Cedar City Town Center, Cedar",
+      "geographic_description": "Great Clips Cedar City Town Center, Cedar City, UT",
       "eligible_cities": [
-        "Cedar"
+        "Cedar City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Cedar City Town Center at 96 N Main St in Cedar City, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
       "discovery_confidence": "high",
@@ -1384,11 +1431,13 @@
       "price": 17.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Westfield Saratoga, Saratoga",
+      "geographic_description": "Great Clips Westfield Saratoga, Saratoga Springs, UT",
       "eligible_cities": [
-        "Saratoga"
+        "Saratoga Springs"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Westfield Saratoga at 153 W Crossroads Blvd in Saratoga Springs, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
       "discovery_confidence": "high",
@@ -1430,11 +1479,13 @@
       "price": 14.99,
       "expiration_date": "2026-09-11",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips El Cerrito Plaza, El",
+      "geographic_description": "Great Clips El Cerrito Plaza, El Cerrito, CA",
       "eligible_cities": [
-        "El"
+        "El Cerrito"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "CA"
+      ],
       "terms": "Valid at Great Clips El Cerrito Plaza at 4030 El Cerrito Plaza in El Cerrito, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
       "discovery_confidence": "high",
@@ -1524,11 +1575,13 @@
       "price": 10.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Mid Rivers Crossing, St",
+      "geographic_description": "Great Clips Mid Rivers Crossing, St. Peters, MO",
       "eligible_cities": [
-        "St"
+        "St. Peters"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "MO"
+      ],
       "terms": "Valid at Great Clips Mid Rivers Crossing at 6136 Mid Rivers Mall Dr in St. Peters, MO. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
       "discovery_confidence": "high",
@@ -1546,11 +1599,13 @@
       "price": 17.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Telegraph Square, Washington",
+      "geographic_description": "Great Clips Telegraph Square, Washington City, UT",
       "eligible_cities": [
-        "Washington"
+        "Washington City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Telegraph Square at 520 W Telegraph St in Washington City, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
       "discovery_confidence": "high",
@@ -1779,11 +1834,13 @@
       "price": 10.99,
       "expiration_date": "2026-09-11",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Fort Apache, Las",
+      "geographic_description": "Great Clips Fort Apache, Las Vegas, NV",
       "eligible_cities": [
-        "Las"
+        "Las Vegas"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "NV"
+      ],
       "terms": "Valid at Great Clips Fort Apache at 9440 W Russell Rd in Las Vegas, NV. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
       "discovery_confidence": "high",
@@ -1825,14 +1882,19 @@
       "price": 15.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Mill Creek Plaza, Salt",
+      "geographic_description": "Great Clips Mill Creek Plaza, Salt Lake City, UT",
       "eligible_cities": [
-        "Salt"
+        "Salt Lake City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Mill Creek Plaza at 863 E 4500 S in Salt Lake City, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
-      "discovery_confidence": "medium"
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1913"
+      ]
     },
     {
       "external_offer_id": "AmCb3Iy",
@@ -1844,11 +1906,13 @@
       "price": 13.99,
       "expiration_date": "2026-10-06",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Marketplace at Wycliffe, Lake",
+      "geographic_description": "Great Clips Marketplace at Wycliffe, Lake Worth, FL",
       "eligible_cities": [
-        "Lake"
+        "Lake Worth"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "FL"
+      ],
       "terms": "Valid at Great Clips Marketplace at Wycliffe at 4095 South State Rd 7 in Lake Worth, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/06/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
       "discovery_confidence": "high",
@@ -1889,11 +1953,13 @@
       "price": 12.99,
       "expiration_date": "2026-10-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Greenhouse Marketplace, San",
+      "geographic_description": "Great Clips Greenhouse Marketplace, San Leandro, CA",
       "eligible_cities": [
-        "San"
+        "San Leandro"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "CA"
+      ],
       "terms": "Valid at Great Clips Greenhouse Marketplace at 699 Lewelling Blvd in San Leandro, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/19979/12.99%20Haircut%20Coupon.jpg",
       "discovery_confidence": "high",
@@ -1935,11 +2001,13 @@
       "price": 15.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips The Family Center, Salt",
+      "geographic_description": "Great Clips The Family Center, Salt Lake City, UT",
       "eligible_cities": [
-        "Salt"
+        "Salt Lake City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips The Family Center at 532 E 400 S in Salt Lake City, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
       "discovery_confidence": "high",
@@ -1957,11 +2025,13 @@
       "price": 6.99,
       "expiration_date": "2026-09-14",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips The Shops at Rainbow Landing, Rainbow",
+      "geographic_description": "Great Clips The Shops at Rainbow Landing, Rainbow City, AL",
       "eligible_cities": [
-        "Rainbow"
+        "Rainbow City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "AL"
+      ],
       "terms": "Valid at Great Clips The Shops at Rainbow Landing at 124 W Grand Ave in Rainbow City, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/14/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8454/50707-002-1200x600-6.99.jpg",
       "discovery_confidence": "high",
@@ -1979,11 +2049,13 @@
       "price": 12.99,
       "expiration_date": "2026-10-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Village Marketplace, San",
+      "geographic_description": "Great Clips Village Marketplace, San Leandro, CA",
       "eligible_cities": [
-        "San"
+        "San Leandro"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "CA"
+      ],
       "terms": "Valid at Great Clips Village Marketplace at 1520 E 14th St in San Leandro, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/19979/12.99%20Haircut%20Coupon.jpg",
       "discovery_confidence": "high",
@@ -2073,11 +2145,13 @@
       "price": 17.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Harmons Santa Clara, Santa",
+      "geographic_description": "Great Clips Harmons Santa Clara, Santa Clara, UT",
       "eligible_cities": [
-        "Santa"
+        "Santa Clara"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Harmons Santa Clara at 3542 Pioneer Pkwy in Santa Clara, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
       "discovery_confidence": "high",
@@ -2095,11 +2169,13 @@
       "price": 13.99,
       "expiration_date": "2026-10-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Milton St. Plaza, Cape",
+      "geographic_description": "Great Clips Milton St. Plaza, Cape Coral, FL",
       "eligible_cities": [
-        "Cape"
+        "Cape Coral"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "FL"
+      ],
       "terms": "Valid at Great Clips Milton St. Plaza at 4823 Milton St in Cape Coral, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
       "discovery_confidence": "high",
@@ -2162,11 +2238,13 @@
       "price": 16.99,
       "expiration_date": "2026-10-04",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Highland's Walk, Highlands",
+      "geographic_description": "Great Clips Highland's Walk, Highlands Ranch, CO",
       "eligible_cities": [
-        "Highlands"
+        "Highlands Ranch"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "CO"
+      ],
       "terms": "Valid at Great Clips Highland's Walk at 4004 Red Cedar Dr in Highlands Ranch, CO. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/04/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8475/50707-002-1200x600-16.99.jpg",
       "discovery_confidence": "high",
@@ -2232,11 +2310,13 @@
       "price": 15.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Trail Crossing, South",
+      "geographic_description": "Great Clips Trail Crossing, South Jordan, UT",
       "eligible_cities": [
-        "South"
+        "South Jordan"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Trail Crossing at 5414 W Daybreak Pkwy in South Jordan, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
       "discovery_confidence": "high",
@@ -2254,11 +2334,13 @@
       "price": 17.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Rimrock Market Place, St",
+      "geographic_description": "Great Clips Rimrock Market Place, St. George, UT",
       "eligible_cities": [
-        "St"
+        "St. George"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Rimrock Market Place at 335 S River Rd in St. George, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
       "discovery_confidence": "high",
@@ -2343,11 +2425,13 @@
       "price": 14.99,
       "expiration_date": "2026-09-19",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Winterwood Pavilion, Las",
+      "geographic_description": "Great Clips Winterwood Pavilion, Las Vegas, NV",
       "eligible_cities": [
-        "Las"
+        "Las Vegas"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "NV"
+      ],
       "terms": "Valid at Great Clips Winterwood Pavilion at 2208 Nellis Blvd in Las Vegas, NV. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/19/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
       "discovery_confidence": "high",
@@ -2376,7 +2460,7 @@
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
       "discovery_confidence": "high",
       "eligible_salon_ids": [
-        "8140"
+        "9482"
       ]
     },
     {
@@ -2413,11 +2497,13 @@
       "price": 15.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Oquirrh View, West",
+      "geographic_description": "Great Clips Oquirrh View, West Valley, UT",
       "eligible_cities": [
-        "West"
+        "West Valley"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Oquirrh View at 5633 W 6200 S in West Valley, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
       "discovery_confidence": "high",
@@ -2435,11 +2521,13 @@
       "price": 13.99,
       "expiration_date": "2026-09-11",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Shoppes at Siloam, Siloam",
+      "geographic_description": "Great Clips Shoppes at Siloam, Siloam Springs, AR",
       "eligible_cities": [
-        "Siloam"
+        "Siloam Springs"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "AR"
+      ],
       "terms": "Valid at Great Clips Shoppes at Siloam at 2998 Hwy 412 E in Siloam Springs, AR. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/15026/50707-002-1200x600-US-Sparkfly-199-199913.jpg",
       "discovery_confidence": "high",
@@ -2505,11 +2593,13 @@
       "price": 12.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Beach Western Commons, Fort",
+      "geographic_description": "Great Clips Beach Western Commons, Fort Worth, TX",
       "eligible_cities": [
-        "Fort"
+        "Fort Worth"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "TX"
+      ],
       "terms": "Valid at Great Clips Beach Western Commons at 6650 N Beach St in Fort Worth, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/19979/12.99%20Haircut%20Coupon.jpg",
       "discovery_confidence": "high",
@@ -2549,11 +2639,13 @@
       "description": "Get a great haircut for $6.00 off at Great Clips Valley View Central at 13260 Josey Lane in Farmers Branch. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Valley View Central, Farmers",
+      "geographic_description": "Great Clips Valley View Central, Farmers Branch, TX",
       "eligible_cities": [
-        "Farmers"
+        "Farmers Branch"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "TX"
+      ],
       "terms": "Valid at Great Clips Valley View Central at 13260 Josey Lane in Farmers Branch, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8434/50707-002-1200x600-US-Sparkfly-6off.jpg",
       "discovery_confidence": "high",
@@ -2643,11 +2735,13 @@
       "price": 12.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Houston Square, Warner",
+      "geographic_description": "Great Clips Houston Square, Warner Robins, GA",
       "eligible_cities": [
-        "Warner"
+        "Warner Robins"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "GA"
+      ],
       "terms": "Valid at Great Clips Houston Square at 211 Russell Pkwy in Warner Robins, GA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/19979/12.99%20Haircut%20Coupon.jpg",
       "discovery_confidence": "high",
@@ -2665,11 +2759,13 @@
       "price": 6.99,
       "expiration_date": "2026-09-14",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips South Park Center, Pell",
+      "geographic_description": "Great Clips South Park Center, Pell City, AL",
       "eligible_cities": [
-        "Pell"
+        "Pell City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "AL"
+      ],
       "terms": "Valid at Great Clips South Park Center at 2042 Martin St S in Pell City, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/14/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8454/50707-002-1200x600-6.99.jpg",
       "discovery_confidence": "high",
@@ -2711,11 +2807,13 @@
       "price": 10.99,
       "expiration_date": "2026-09-11",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Rainbow Springs, Las",
+      "geographic_description": "Great Clips Rainbow Springs, Las Vegas, NV",
       "eligible_cities": [
-        "Las"
+        "Las Vegas"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "NV"
+      ],
       "terms": "Valid at Great Clips Rainbow Springs at 3675 S Rainbow Blvd in Las Vegas, NV. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
       "discovery_confidence": "high",
@@ -2826,11 +2924,13 @@
       "price": 12.99,
       "expiration_date": "2026-10-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips 580 Marketplace, Castro",
+      "geographic_description": "Great Clips 580 Marketplace, Castro Valley, CA",
       "eligible_cities": [
-        "Castro"
+        "Castro Valley"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "CA"
+      ],
       "terms": "Valid at Great Clips 580 Marketplace at 4045 E Castro Valley Blvd in Castro Valley, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/19979/12.99%20Haircut%20Coupon.jpg",
       "discovery_confidence": "high",
@@ -2896,11 +2996,13 @@
       "price": 15.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Camden Park, San",
+      "geographic_description": "Great Clips Camden Park, San Jose, CA",
       "eligible_cities": [
-        "San"
+        "San Jose"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "CA"
+      ],
       "terms": "Valid at Great Clips Camden Park at 2075 Camden Ave in San Jose, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
       "discovery_confidence": "high",
@@ -2918,11 +3020,13 @@
       "price": 10.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Fountainview Plaza, St",
+      "geographic_description": "Great Clips Fountainview Plaza, St Charles, MO",
       "eligible_cities": [
-        "St"
+        "St Charles"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "MO"
+      ],
       "terms": "Valid at Great Clips Fountainview Plaza at 2651 Muegge Rd in St Charles, MO. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
       "discovery_confidence": "high",
@@ -3127,14 +3231,19 @@
       "price": 6.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Riverside Landing, New",
+      "geographic_description": "Great Clips Riverside Landing, New Bedford, MA",
       "eligible_cities": [
-        "New"
+        "New Bedford"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "MA"
+      ],
       "terms": "Valid at Great Clips Riverside Landing at 81 Coggeshall St in New Bedford, MA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8454/50707-002-1200x600-6.99.jpg",
-      "discovery_confidence": "medium"
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2400"
+      ]
     },
     {
       "external_offer_id": "QYT2Cek",
@@ -3146,11 +3255,13 @@
       "price": 17.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Sunriver, St",
+      "geographic_description": "Great Clips Sunriver, St. George, UT",
       "eligible_cities": [
-        "St"
+        "St. George"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Sunriver at 4609 S Pioneer Road in St. George, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
       "discovery_confidence": "high",
@@ -3177,7 +3288,10 @@
       ],
       "terms": "Valid at Great Clips Duck Creek at 840 Middle Rd in Bettendorf, IA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/15025/50707-002-1200x600-US-Sparkfly-199-199911.jpg",
-      "discovery_confidence": "medium"
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "8796"
+      ]
     },
     {
       "external_offer_id": "QtFnTby",
@@ -3213,11 +3327,13 @@
       "price": 8.99,
       "expiration_date": "2026-09-28",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Southern Trace Plaza, The",
+      "geographic_description": "Great Clips Southern Trace Plaza, The Villages, FL",
       "eligible_cities": [
-        "The"
+        "The Villages"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "FL"
+      ],
       "terms": "Valid at Great Clips Southern Trace Plaza at 3519 Wedgewood Ln in The Villages, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/28/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
       "discovery_confidence": "high",
@@ -3258,9 +3374,17 @@
       "description": "Get a great haircut for $13.99 at Great Clips Boynton Plaza at 143 1/2 North Congress Ave in Boynton Beach. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "price": 13.99,
       "expiration_date": "2026-10-06",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Boynton Plaza, Boynton Beach, FL",
+      "eligible_cities": [
+        "Boynton Beach"
+      ],
+      "eligible_states": [
+        "FL"
+      ],
       "terms": "Valid at Great Clips Boynton Plaza at 143 1/2 North Congress Ave in Boynton Beach, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/06/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "low"
+      "discovery_confidence": "medium"
     },
     {
       "external_offer_id": "Tlz1Gbg",
@@ -3296,11 +3420,13 @@
       "price": 8.99,
       "expiration_date": "2026-09-25",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Palencia Commons, Saint",
+      "geographic_description": "Great Clips Palencia Commons, Saint Augustine, FL",
       "eligible_cities": [
-        "Saint"
+        "Saint Augustine"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "FL"
+      ],
       "terms": "Valid only at Great Clips Palencia Commons at 7458 US Hwy 1 North in Saint Augustine, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20885/8.99%20Haircut%20Coupon.jpg",
       "discovery_confidence": "high",
@@ -3342,11 +3468,13 @@
       "price": 17.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Providence Center, Cedar",
+      "geographic_description": "Great Clips Providence Center, Cedar City, UT",
       "eligible_cities": [
-        "Cedar"
+        "Cedar City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Providence Center at 1380 S Providence Center Dr in Cedar City, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
       "discovery_confidence": "high",
@@ -3364,11 +3492,13 @@
       "price": 17.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips West Valley Pavilion, West",
+      "geographic_description": "Great Clips West Valley Pavilion, West Valley City, UT",
       "eligible_cities": [
-        "West"
+        "West Valley City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips West Valley Pavilion at 2592 S 5600 W in West Valley City, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
       "discovery_confidence": "high",
@@ -3386,11 +3516,13 @@
       "price": 9.99,
       "expiration_date": "2026-09-11",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Scripps Ranch Village, San",
+      "geographic_description": "Great Clips Scripps Ranch Village, San Diego, CA",
       "eligible_cities": [
-        "San"
+        "San Diego"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "CA"
+      ],
       "terms": "Valid at Great Clips Scripps Ranch Village at 9980 Scripps Ranch Blvd in San Diego, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
       "discovery_confidence": "high",
@@ -3432,11 +3564,13 @@
       "price": 15.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Heber City Plaza, Heber",
+      "geographic_description": "Great Clips Heber City Plaza, Heber City, UT",
       "eligible_cities": [
-        "Heber"
+        "Heber City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Heber City Plaza at 520 N Main St in Heber City, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
       "discovery_confidence": "high",
@@ -3477,14 +3611,19 @@
       "price": 15.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Newpark Center, Park",
+      "geographic_description": "Great Clips Newpark Center, Park City, UT",
       "eligible_cities": [
-        "Park"
+        "Park City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Newpark Center at 1182 Center Dr in Park City, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
-      "discovery_confidence": "medium"
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "9181"
+      ]
     },
     {
       "external_offer_id": "WklgAgs",
@@ -3496,11 +3635,13 @@
       "price": 15.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips East Village SC, Salt",
+      "geographic_description": "Great Clips East Village SC, Salt Lake City, UT",
       "eligible_cities": [
-        "Salt"
+        "Salt Lake City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips East Village SC at 2065 S 2300 E in Salt Lake City, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
       "discovery_confidence": "high",
@@ -3542,11 +3683,13 @@
       "price": 15.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips 9th and 9th, Salt",
+      "geographic_description": "Great Clips 9th and 9th, Salt Lake City, UT",
       "eligible_cities": [
-        "Salt"
+        "Salt Lake City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips 9th and 9th at 906 E 900 S in Salt Lake City, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
       "discovery_confidence": "high",
@@ -3612,11 +3755,13 @@
       "price": 17.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Dinosaur Crossing, St",
+      "geographic_description": "Great Clips Dinosaur Crossing, St. George, UT",
       "eligible_cities": [
-        "St"
+        "St. George"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Dinosaur Crossing at 599 S Mall Dr in St. George, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
       "discovery_confidence": "high",
@@ -3634,11 +3779,13 @@
       "price": 6.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips RK Center - Fall River, Fall",
+      "geographic_description": "Great Clips RK Center - Fall River, Fall River, MA",
       "eligible_cities": [
-        "Fall"
+        "Fall River"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "MA"
+      ],
       "terms": "Valid at Great Clips RK Center - Fall River at 4171 North Main Street in Fall River, MA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8454/50707-002-1200x600-6.99.jpg",
       "discovery_confidence": "high",
@@ -3680,14 +3827,19 @@
       "price": 13.99,
       "expiration_date": "2026-09-11",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Cobblestone Plaza, Pembroke",
+      "geographic_description": "Great Clips Cobblestone Plaza, Pembroke Pines, FL",
       "eligible_cities": [
-        "Pembroke"
+        "Pembroke Pines"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "FL"
+      ],
       "terms": "Valid at Great Clips Cobblestone Plaza at 14948 Pines Blvd in Pembroke Pines, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "medium"
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "8694"
+      ]
     },
     {
       "external_offer_id": "bRxraPw",
@@ -3722,18 +3874,9 @@
       "description": "Get a great haircut for $13.99 at Great Clips Aberdeen Square at 4956-16 Le Chalet Blvd in Boynton Beach. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "price": 13.99,
       "expiration_date": "2026-10-06",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Aberdeen Square, Boynton",
-      "eligible_cities": [
-        "Boynton"
-      ],
-      "eligible_states": [],
       "terms": "Valid at Great Clips Aberdeen Square at 4956-16 Le Chalet Blvd in Boynton Beach, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/06/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "5824"
-      ]
+      "discovery_confidence": "low"
     },
     {
       "external_offer_id": "d5dsrVi",
@@ -3817,11 +3960,13 @@
       "price": 6.99,
       "expiration_date": "2026-09-14",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Pell City Station, Pell",
+      "geographic_description": "Great Clips Pell City Station, Pell City, AL",
       "eligible_cities": [
-        "Pell"
+        "Pell City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "AL"
+      ],
       "terms": "Valid at Great Clips Pell City Station at 73 Vaughan Ln in Pell City, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/14/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8454/50707-002-1200x600-6.99.jpg",
       "discovery_confidence": "high",
@@ -3863,11 +4008,13 @@
       "price": 10.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Butler Hill, St",
+      "geographic_description": "Great Clips Butler Hill, St. Louis, MO",
       "eligible_cities": [
-        "St"
+        "St. Louis"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "MO"
+      ],
       "terms": "Valid at Great Clips Butler Hill at 4337 D Butler Hill Rd in St. Louis, MO. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
       "discovery_confidence": "high",
@@ -3885,11 +4032,13 @@
       "price": 10.99,
       "expiration_date": "2026-10-02",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Whitestone Market, Cedar",
+      "geographic_description": "Great Clips Whitestone Market, Cedar Park, TX",
       "eligible_cities": [
-        "Cedar"
+        "Cedar Park"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "TX"
+      ],
       "terms": "Valid at Great Clips Whitestone Market at 2800 E Whitestone Blvd in Cedar Park, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
       "discovery_confidence": "high",
@@ -3907,11 +4056,13 @@
       "price": 15.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Country Hills, South",
+      "geographic_description": "Great Clips Country Hills, South Ogden, UT",
       "eligible_cities": [
-        "South"
+        "South Ogden"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Country Hills at 4281 Harrison Blvd in South Ogden, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
       "discovery_confidence": "high",
@@ -3953,11 +4104,13 @@
       "price": 17.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Jordan Landing, West",
+      "geographic_description": "Great Clips Jordan Landing, West Jordan, UT",
       "eligible_cities": [
-        "West"
+        "West Jordan"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Jordan Landing at 7211 Plaza Center Dr in West Jordan, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
       "discovery_confidence": "high",
@@ -4119,11 +4272,13 @@
       "price": 8.99,
       "expiration_date": "2026-09-18",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Bel Pointe Plaza, Bel",
+      "geographic_description": "Great Clips Bel Pointe Plaza, Bel Aire, KS",
       "eligible_cities": [
-        "Bel"
+        "Bel Aire"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "KS"
+      ],
       "terms": "Valid at Great Clips Bel Pointe Plaza at 6254 E 37th St N in Bel Aire, KS. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
       "discovery_confidence": "high",
@@ -4141,11 +4296,13 @@
       "price": 10.99,
       "expiration_date": "2026-09-25",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Shoppes at Mission Trace, Saint",
+      "geographic_description": "Great Clips Shoppes at Mission Trace, Saint Augustine, FL",
       "eligible_cities": [
-        "Saint"
+        "Saint Augustine"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "FL"
+      ],
       "terms": "Valid at Great Clips Shoppes at Mission Trace at 965 State Road 16 in Saint Augustine, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
       "discovery_confidence": "high",
@@ -4187,11 +4344,13 @@
       "price": 6.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Texas Motor Speedway, Fort",
+      "geographic_description": "Great Clips Texas Motor Speedway, Fort Worth, TX",
       "eligible_cities": [
-        "Fort"
+        "Fort Worth"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "TX"
+      ],
       "terms": "Valid at Great Clips Texas Motor Speedway at 3556 Highway 114 in Fort Worth, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8454/50707-002-1200x600-6.99.jpg",
       "discovery_confidence": "high",
@@ -4209,11 +4368,13 @@
       "price": 10.99,
       "expiration_date": "2026-10-02",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Round Rock Crossing, Round",
+      "geographic_description": "Great Clips Round Rock Crossing, Round Rock, TX",
       "eligible_cities": [
-        "Round"
+        "Round Rock"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "TX"
+      ],
       "terms": "Valid at Great Clips Round Rock Crossing at 3021 S Interstate Hwy 35 in Round Rock, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
       "discovery_confidence": "high",
@@ -4231,11 +4392,13 @@
       "price": 12.99,
       "expiration_date": "2026-10-08",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Shops at West Falls Church, Falls",
+      "geographic_description": "Great Clips Shops at West Falls Church, Falls Church, VA",
       "eligible_cities": [
-        "Falls"
+        "Falls Church"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "VA"
+      ],
       "terms": "Valid at Great Clips Shops at West Falls Church at 7395 G Route 29 in Falls Church, VA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/08/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
       "discovery_confidence": "high",
@@ -4253,11 +4416,13 @@
       "price": 17.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Hillside Plaza, Cottonwood",
+      "geographic_description": "Great Clips Hillside Plaza, Cottonwood Heights, UT",
       "eligible_cities": [
-        "Cottonwood"
+        "Cottonwood Heights"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Hillside Plaza at 2418 E Fort Union Blvd in Cottonwood Heights, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
       "discovery_confidence": "high",
@@ -4462,11 +4627,13 @@
       "price": 6.99,
       "expiration_date": "2026-09-11",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Shops at Babcock, San",
+      "geographic_description": "Great Clips Shops at Babcock, San Antonio, TX",
       "eligible_cities": [
-        "San"
+        "San Antonio"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "TX"
+      ],
       "terms": "Valid at Great Clips Shops at Babcock at 15031 Babcock Rd in San Antonio, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8455/50707-002-1200x600-6.99.jpg",
       "discovery_confidence": "high",
@@ -4484,11 +4651,13 @@
       "price": 14.99,
       "expiration_date": "2026-09-19",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Alamosa Plaza, Las",
+      "geographic_description": "Great Clips Alamosa Plaza, Las Vegas, NV",
       "eligible_cities": [
-        "Las"
+        "Las Vegas"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "NV"
+      ],
       "terms": "Valid at Great Clips Alamosa Plaza at 2833 E Desert Inn Rd in Las Vegas, NV. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/19/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
       "discovery_confidence": "high",
@@ -4577,11 +4746,13 @@
       "price": 15.99,
       "expiration_date": "2026-10-01",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Scripps Ranch Marketplace, San",
+      "geographic_description": "Great Clips Scripps Ranch Marketplace, San Diego, CA",
       "eligible_cities": [
-        "San"
+        "San Diego"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "CA"
+      ],
       "terms": "Valid at Great Clips Scripps Ranch Marketplace at 10625 Scripps Poway Pkwy in San Diego, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/01/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
       "discovery_confidence": "high",
@@ -4647,11 +4818,13 @@
       "price": 10.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips St. Peter's Square, St",
+      "geographic_description": "Great Clips St. Peter's Square, St. Peters, MO",
       "eligible_cities": [
-        "St"
+        "St. Peters"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "MO"
+      ],
       "terms": "Valid at Great Clips St. Peter's Square at 563 Mid Rivers Mall Drive in St. Peters, MO. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
       "discovery_confidence": "high",
@@ -4693,11 +4866,13 @@
       "price": 15.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Woods Cross Shopping Center, Woods",
+      "geographic_description": "Great Clips Woods Cross Shopping Center, Woods Cross, UT",
       "eligible_cities": [
-        "Woods"
+        "Woods Cross"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Woods Cross Shopping Center at 618 W 2600 S in Woods Cross, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
       "discovery_confidence": "high",
@@ -4715,14 +4890,19 @@
       "price": 9.99,
       "expiration_date": "2026-10-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Sunrise Plaza, Vero",
+      "geographic_description": "Great Clips Sunrise Plaza, Vero Beach, FL",
       "eligible_cities": [
-        "Vero"
+        "Vero Beach"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "FL"
+      ],
       "terms": "Valid at Great Clips Sunrise Plaza at 1820 58th Ave in Vero Beach, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "medium"
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "5848"
+      ]
     },
     {
       "external_offer_id": "qkSoHNP",
@@ -4806,11 +4986,13 @@
       "price": 15.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Foothill Village, Salt",
+      "geographic_description": "Great Clips Foothill Village, Salt Lake City, UT",
       "eligible_cities": [
-        "Salt"
+        "Salt Lake City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Foothill Village at 1400 S Foothill Blvd in Salt Lake City, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
       "discovery_confidence": "high",
@@ -4852,11 +5034,13 @@
       "price": 15.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Harvest Village, South",
+      "geographic_description": "Great Clips Harvest Village, South Jordan, UT",
       "eligible_cities": [
-        "South"
+        "South Jordan"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Harvest Village at 10384 S River Heights Dr in South Jordan, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
       "discovery_confidence": "high",
@@ -4874,11 +5058,13 @@
       "price": 10.99,
       "expiration_date": "2026-09-25",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Murabella at World Golf Village, Saint",
+      "geographic_description": "Great Clips Murabella at World Golf Village, Saint Augustine, FL",
       "eligible_cities": [
-        "Saint"
+        "Saint Augustine"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "FL"
+      ],
       "terms": "Valid at Great Clips Murabella at World Golf Village at 124 Capulet Dr in Saint Augustine, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
       "discovery_confidence": "high",
@@ -4896,11 +5082,13 @@
       "price": 8.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Northern Hills Shopping Center, San",
+      "geographic_description": "Great Clips Northern Hills Shopping Center, San Antonio, TX",
       "eligible_cities": [
-        "San"
+        "San Antonio"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "TX"
+      ],
       "terms": "Valid at Great Clips Northern Hills Shopping Center at 12311 Nacogdoches Rd in San Antonio, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
       "discovery_confidence": "high",
@@ -4918,11 +5106,13 @@
       "price": 10.99,
       "expiration_date": "2026-09-11",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Rainbow and Warm Springs, Las",
+      "geographic_description": "Great Clips Rainbow and Warm Springs, Las Vegas, NV",
       "eligible_cities": [
-        "Las"
+        "Las Vegas"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "NV"
+      ],
       "terms": "Valid at Great Clips Rainbow and Warm Springs at 7380 S Rainbow Blvd in Las Vegas, NV. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
       "discovery_confidence": "high",
@@ -4940,11 +5130,13 @@
       "price": 12.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Warner Robins Place, Warner",
+      "geographic_description": "Great Clips Warner Robins Place, Warner Robins, GA",
       "eligible_cities": [
-        "Warner"
+        "Warner Robins"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "GA"
+      ],
       "terms": "Valid at Great Clips Warner Robins Place at 2724 Watson Blvd in Warner Robins, GA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/19979/12.99%20Haircut%20Coupon.jpg",
       "discovery_confidence": "high",
@@ -4986,11 +5178,13 @@
       "price": 14.99,
       "expiration_date": "2026-10-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Forum Centre, Fort",
+      "geographic_description": "Great Clips Forum Centre, Fort Myers, FL",
       "eligible_cities": [
-        "Fort"
+        "Fort Myers"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "FL"
+      ],
       "terms": "Valid at Great Clips Forum Centre at 3398 Forum Blvd in Fort Myers, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
       "discovery_confidence": "high",
@@ -5095,11 +5289,13 @@
       "price": 12.99,
       "expiration_date": "2026-09-09",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Shops at West Falls Church, Falls",
+      "geographic_description": "Great Clips Shops at West Falls Church, Falls Church, VA",
       "eligible_cities": [
-        "Falls"
+        "Falls Church"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "VA"
+      ],
       "terms": "Valid at Great Clips Shops at West Falls Church at 7395 G Route 29 in Falls Church, VA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/09/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/19979/12.99%20Haircut%20Coupon.jpg",
       "discovery_confidence": "high",
@@ -5117,11 +5313,13 @@
       "price": 9.99,
       "expiration_date": "2026-09-25",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Churchill Estates Crossing, San",
+      "geographic_description": "Great Clips Churchill Estates Crossing, San Antonio, TX",
       "eligible_cities": [
-        "San"
+        "San Antonio"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "TX"
+      ],
       "terms": "Valid only at Great Clips Churchill Estates Crossing at 15502 Huebner Rd in San Antonio, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20895/9.99%20Haircut%20Coupon.jpg",
       "discovery_confidence": "high",
@@ -5187,11 +5385,13 @@
       "price": 15.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Olympus Hills, Salt",
+      "geographic_description": "Great Clips Olympus Hills, Salt Lake City, UT",
       "eligible_cities": [
-        "Salt"
+        "Salt Lake City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Olympus Hills at 3951 S Wasatch Blvd in Salt Lake City, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
       "discovery_confidence": "high",
@@ -5425,11 +5625,13 @@
       "price": 17.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Hunter Park Plaza, West",
+      "geographic_description": "Great Clips Hunter Park Plaza, West Valley City, UT",
       "eligible_cities": [
-        "West"
+        "West Valley City"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "UT"
+      ],
       "terms": "Valid at Great Clips Hunter Park Plaza at 3536 S 5600 W in West Valley City, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
       "discovery_confidence": "high",
@@ -5447,11 +5649,13 @@
       "price": 12.99,
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips La Grange Kroger Center, La",
+      "geographic_description": "Great Clips La Grange Kroger Center, La Grange, KY",
       "eligible_cities": [
-        "La"
+        "La Grange"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "KY"
+      ],
       "terms": "Valid at Great Clips La Grange Kroger Center at 2028 S Highway 53 in La Grange, KY. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/19979/12.99%20Haircut%20Coupon.jpg",
       "discovery_confidence": "high",
@@ -5517,11 +5721,13 @@
       "price": 9.99,
       "expiration_date": "2026-09-28",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Island Walk, Palm",
+      "geographic_description": "Great Clips Island Walk, Palm Coast, FL",
       "eligible_cities": [
-        "Palm"
+        "Palm Coast"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "FL"
+      ],
       "terms": "Valid at Great Clips Island Walk at 250 Palm Coast Pkwy NE in Palm Coast, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/28/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
       "discovery_confidence": "high",
@@ -5587,11 +5793,13 @@
       "price": 9.99,
       "expiration_date": "2026-10-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Publix Plaza on Miracle Mile, Vero",
+      "geographic_description": "Great Clips Publix Plaza on Miracle Mile, Vero Beach, FL",
       "eligible_cities": [
-        "Vero"
+        "Vero Beach"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "FL"
+      ],
       "terms": "Valid at Great Clips Publix Plaza on Miracle Mile at 475 21st St in Vero Beach, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
       "discovery_confidence": "high",
@@ -5631,11 +5839,13 @@
       "description": "Get a great haircut for $6.00 off at Great Clips Eastchase Market at 1550 Eastchase Pkwy in Fort Worth. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "expiration_date": "2026-09-15",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Eastchase Market, Fort",
+      "geographic_description": "Great Clips Eastchase Market, Fort Worth, TX",
       "eligible_cities": [
-        "Fort"
+        "Fort Worth"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "TX"
+      ],
       "terms": "Valid at Great Clips Eastchase Market at 1550 Eastchase Pkwy in Fort Worth, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/15/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8434/50707-002-1200x600-US-Sparkfly-6off.jpg",
       "discovery_confidence": "high",
@@ -5675,11 +5885,13 @@
       "description": "Get a great haircut for $6.00 off at Great Clips Valley View Central at 13260 Josey Lane in Farmers Branch. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "expiration_date": "2026-09-15",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Valley View Central, Farmers",
+      "geographic_description": "Great Clips Valley View Central, Farmers Branch, TX",
       "eligible_cities": [
-        "Farmers"
+        "Farmers Branch"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "TX"
+      ],
       "terms": "Valid at Great Clips Valley View Central at 13260 Josey Lane in Farmers Branch, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/15/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8434/50707-002-1200x600-US-Sparkfly-6off.jpg",
       "discovery_confidence": "high",
@@ -5742,11 +5954,13 @@
       "description": "Get a great haircut for $6.00 off at Great Clips Left Bank Market at 628 Harrold St in Fort Worth. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "expiration_date": "2026-09-15",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Left Bank Market, Fort",
+      "geographic_description": "Great Clips Left Bank Market, Fort Worth, TX",
       "eligible_cities": [
-        "Fort"
+        "Fort Worth"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "TX"
+      ],
       "terms": "Valid at Great Clips Left Bank Market at 628 Harrold St in Fort Worth, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/15/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8434/50707-002-1200x600-US-Sparkfly-6off.jpg",
       "discovery_confidence": "high",
@@ -5858,9 +6072,20 @@
       "description": "Get a great haircut for $16.99 at Great Clips Green Valley Crossing at 5055 Business Center Dr, Ste 109 in Fairfield. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "price": 16.99,
       "expiration_date": "2026-10-04",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Green Valley Crossing, Fairfield, CA",
+      "eligible_cities": [
+        "Fairfield"
+      ],
+      "eligible_states": [
+        "CA"
+      ],
       "terms": "Valid at Great Clips Green Valley Crossing at 5055 Business Center Dr, Ste 109 in Fairfield, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/04/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8475/50707-002-1200x600-16.99.jpg",
-      "discovery_confidence": "low"
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "3448"
+      ]
     },
     {
       "external_offer_id": "hF9bRvo",
@@ -5871,11 +6096,13 @@
       "description": "Get a great haircut for $6.00 off at Great Clips Left Bank Market at 628 Harrold St in Fort Worth. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "expiration_date": "2026-09-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Left Bank Market, Fort",
+      "geographic_description": "Great Clips Left Bank Market, Fort Worth, TX",
       "eligible_cities": [
-        "Fort"
+        "Fort Worth"
       ],
-      "eligible_states": [],
+      "eligible_states": [
+        "TX"
+      ],
       "terms": "Valid at Great Clips Left Bank Market at 628 Harrold St in Fort Worth, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8434/50707-002-1200x600-US-Sparkfly-6off.jpg",
       "discovery_confidence": "high",
