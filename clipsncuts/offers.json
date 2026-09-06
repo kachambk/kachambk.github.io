@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-06T10:04:39.740Z",
+  "scraped_at": "2026-09-06T14:18:05.273Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -751,6 +751,30 @@
       "discovery_confidence": "high"
     },
     {
+      "external_offer_id": "cshCyvW",
+      "official_url": "https://offers.greatclips.com/cshCyvW",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips",
+      "title": "$5.99 Haircut",
+      "description": "Get a great haircut for $5.99 at Great Clips Inman Food Lion at 11149 Asheville Hwy in Inman. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 5.99,
+      "expiration_date": "2026-09-20",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Inman Food Lion, Inman, SC",
+      "eligible_cities": [
+        "Inman"
+      ],
+      "eligible_states": [
+        "SC"
+      ],
+      "terms": "Valid at Great Clips Inman Food Lion at 11149 Asheville Hwy in Inman, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/20/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8451/50707-002-1200x600-5.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "0669"
+      ]
+    },
+    {
       "external_offer_id": "d21toZh",
       "official_url": "https://offers.greatclips.com/d21toZh",
       "source": "meta_ads",
@@ -857,6 +881,30 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "2020"
+      ]
+    },
+    {
+      "external_offer_id": "x5LKOIk",
+      "official_url": "https://offers.greatclips.com/x5LKOIk",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips",
+      "title": "$5.99 Haircut",
+      "description": "Get a great haircut for $5.99 at Great Clips Cherrydale Point at 3275 N Pleasantburg Dr in Greenville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 5.99,
+      "expiration_date": "2026-09-20",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Cherrydale Point, Greenville, SC",
+      "eligible_cities": [
+        "Greenville"
+      ],
+      "eligible_states": [
+        "SC"
+      ],
+      "terms": "Valid at Great Clips Cherrydale Point at 3275 N Pleasantburg Dr in Greenville, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/20/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8451/50707-002-1200x600-5.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "7011"
       ]
     },
     {
@@ -5904,6 +5952,102 @@
       ]
     },
     {
+      "external_offer_id": "3WARhFD",
+      "official_url": "https://offers.greatclips.com/3WARhFD",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$5-99",
+      "title": "$5.99 Haircut",
+      "description": "Get a great haircut for $5.99 at Great Clips River Falls Plaza at 2099 E Main St in Duncan. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 5.99,
+      "expiration_date": "2026-09-20",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips River Falls Plaza, Duncan, SC",
+      "eligible_cities": [
+        "Duncan"
+      ],
+      "eligible_states": [
+        "SC"
+      ],
+      "terms": "Valid at Great Clips River Falls Plaza at 2099 E Main St in Duncan, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/20/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8451/50707-002-1200x600-5.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "9062"
+      ]
+    },
+    {
+      "external_offer_id": "V2sqNqt",
+      "official_url": "https://offers.greatclips.com/V2sqNqt",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$5-99",
+      "title": "$5.99 Haircut",
+      "description": "Get a great haircut for $5.99 at Great Clips Shoppes at Travelers Rest at 2 Benton Rd in Travelers Rest. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 5.99,
+      "expiration_date": "2026-09-20",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Shoppes at Travelers Rest, Travelers Rest, SC",
+      "eligible_cities": [
+        "Travelers Rest"
+      ],
+      "eligible_states": [
+        "SC"
+      ],
+      "terms": "Valid at Great Clips Shoppes at Travelers Rest at 2 Benton Rd in Travelers Rest, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/20/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8451/50707-002-1200x600-5.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "7022"
+      ]
+    },
+    {
+      "external_offer_id": "fqcYPEM",
+      "official_url": "https://offers.greatclips.com/fqcYPEM",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$5-99",
+      "title": "$5.99 Haircut",
+      "description": "Get a great haircut for $5.99 at Great Clips Anderson Central at 633 Highway 28 Bypass in Anderson. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 5.99,
+      "expiration_date": "2026-09-20",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Anderson Central, Anderson, SC",
+      "eligible_cities": [
+        "Anderson"
+      ],
+      "eligible_states": [
+        "SC"
+      ],
+      "terms": "Valid at Great Clips Anderson Central at 633 Highway 28 Bypass in Anderson, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/20/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8451/50707-002-1200x600-5.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "8725"
+      ]
+    },
+    {
+      "external_offer_id": "ivEwBw1",
+      "official_url": "https://offers.greatclips.com/ivEwBw1",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$5-99",
+      "title": "$5.99 Haircut",
+      "description": "Get a great haircut for $5.99 at Great Clips Furman Publix at 5052 Old Buncombe Rd in Greenville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 5.99,
+      "expiration_date": "2026-09-20",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Furman Publix, Greenville, SC",
+      "eligible_cities": [
+        "Greenville"
+      ],
+      "eligible_states": [
+        "SC"
+      ],
+      "terms": "Valid at Great Clips Furman Publix at 5052 Old Buncombe Rd in Greenville, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/20/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8451/50707-002-1200x600-5.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "7122"
+      ]
+    },
+    {
       "external_offer_id": "1q7XFN0",
       "official_url": "https://offers.greatclips.com/1q7XFN0",
       "source": "meta_ads",
@@ -6085,6 +6229,30 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "4978"
+      ]
+    },
+    {
+      "external_offer_id": "SjV224x",
+      "official_url": "https://offers.greatclips.com/SjV224x",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$14-99",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 at Great Clips Cleves at 4350 State Route 128 in Cleves. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-09-19",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Cleves, Cleves, OH",
+      "eligible_cities": [
+        "Cleves"
+      ],
+      "eligible_states": [
+        "OH"
+      ],
+      "terms": "Valid at Great Clips Cleves at 4350 State Route 128 in Cleves, OH. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/19/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2273"
       ]
     },
     {
