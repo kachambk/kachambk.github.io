@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-10T10:54:44.047Z",
+  "scraped_at": "2026-09-10T15:10:56.254Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -550,6 +550,246 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "1974"
+      ]
+    },
+    {
+      "external_offer_id": "AMMx3xf",
+      "official_url": "https://offers.greatclips.com/AMMx3xf",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 at Great Clips Raceway Commons at 55 S Raceway Rd in Indianapolis. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-09-25",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Raceway Commons, Indianapolis, IN",
+      "eligible_cities": [
+        "Indianapolis"
+      ],
+      "eligible_states": [
+        "IN"
+      ],
+      "terms": "Valid at Great Clips Raceway Commons at 55 S Raceway Rd in Indianapolis, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "8765"
+      ]
+    },
+    {
+      "external_offer_id": "HJUzgJy",
+      "official_url": "https://offers.greatclips.com/HJUzgJy",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$10.99 Haircut",
+      "description": "Get a great haircut for $10.99 at Great Clips Biltmore Plaza at 3122 E Camelback Rd in Phoenix. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 10.99,
+      "expiration_date": "2026-09-18",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Biltmore Plaza, Phoenix, AZ",
+      "eligible_cities": [
+        "Phoenix"
+      ],
+      "eligible_states": [
+        "AZ"
+      ],
+      "terms": "Valid at Great Clips Biltmore Plaza at 3122 E Camelback Rd in Phoenix, AZ. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/14841/50707-002-1200x600-US-Sparkfly-199-199910.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1531"
+      ]
+    },
+    {
+      "external_offer_id": "LVxkNv9",
+      "official_url": "https://offers.greatclips.com/LVxkNv9",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$8.99 Haircut",
+      "description": "Get a great haircut for $8.99 at Great Clips Twin Lakes Redevelopment at 1981 W 21st St N in Wichita. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 8.99,
+      "expiration_date": "2026-09-18",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Twin Lakes Redevelopment, Wichita, KS",
+      "eligible_cities": [
+        "Wichita"
+      ],
+      "eligible_states": [
+        "KS"
+      ],
+      "terms": "Valid at Great Clips Twin Lakes Redevelopment at 1981 W 21st St N in Wichita, KS. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2089"
+      ]
+    },
+    {
+      "external_offer_id": "QBxZPsc",
+      "official_url": "https://offers.greatclips.com/QBxZPsc",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$10.99 Haircut",
+      "description": "Get a great haircut for $10.99 at Great Clips Village Center at 4312 E Cactus Rd in Phoenix. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 10.99,
+      "expiration_date": "2026-09-18",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Village Center, Phoenix, AZ",
+      "eligible_cities": [
+        "Phoenix"
+      ],
+      "eligible_states": [
+        "AZ"
+      ],
+      "terms": "Valid at Great Clips Village Center at 4312 E Cactus Rd in Phoenix, AZ. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/14841/50707-002-1200x600-US-Sparkfly-199-199910.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1525"
+      ]
+    },
+    {
+      "external_offer_id": "V8vsXXG",
+      "official_url": "https://offers.greatclips.com/V8vsXXG",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 at Great Clips Plainfield Meijer at 400 N Dan Jones Rd in Plainfield. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-09-25",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Plainfield Meijer, Plainfield, IN",
+      "eligible_cities": [
+        "Plainfield"
+      ],
+      "eligible_states": [
+        "IN"
+      ],
+      "terms": "Valid at Great Clips Plainfield Meijer at 400 N Dan Jones Rd in Plainfield, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2572"
+      ]
+    },
+    {
+      "external_offer_id": "bOfIkI2",
+      "official_url": "https://offers.greatclips.com/bOfIkI2",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 at Great Clips 25th St Center at 1762 25th Street in Columbus. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-09-25",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips 25th St Center, Columbus, IN",
+      "eligible_cities": [
+        "Columbus"
+      ],
+      "eligible_states": [
+        "IN"
+      ],
+      "terms": "Valid at Great Clips 25th St Center at 1762 25th Street in Columbus, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "3837"
+      ]
+    },
+    {
+      "external_offer_id": "kP1sxje",
+      "official_url": "https://offers.greatclips.com/kP1sxje",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 at Great Clips Saratoga Shops at 1070 W Main St in Plainfield. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-09-25",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Saratoga Shops, Plainfield, IN",
+      "eligible_cities": [
+        "Plainfield"
+      ],
+      "eligible_states": [
+        "IN"
+      ],
+      "terms": "Valid at Great Clips Saratoga Shops at 1070 W Main St in Plainfield, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "9792"
+      ]
+    },
+    {
+      "external_offer_id": "rNHAiAI",
+      "official_url": "https://offers.greatclips.com/rNHAiAI",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$8.99 Haircut",
+      "description": "Get a great haircut for $8.99 at Great Clips Hutchinson Trade Center at 1515 E 17th Ave in Hutchinson. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 8.99,
+      "expiration_date": "2026-09-18",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Hutchinson Trade Center, Hutchinson, KS",
+      "eligible_cities": [
+        "Hutchinson"
+      ],
+      "eligible_states": [
+        "KS"
+      ],
+      "terms": "Valid at Great Clips Hutchinson Trade Center at 1515 E 17th Ave in Hutchinson, KS. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "8762"
+      ]
+    },
+    {
+      "external_offer_id": "sREpWWZ",
+      "official_url": "https://offers.greatclips.com/sREpWWZ",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$8.99 Haircut",
+      "description": "Get a great haircut for $8.99 at Great Clips One Kellogg Place at 11661 E Kellogg Dr in Wichita. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 8.99,
+      "expiration_date": "2026-09-18",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips One Kellogg Place, Wichita, KS",
+      "eligible_cities": [
+        "Wichita"
+      ],
+      "eligible_states": [
+        "KS"
+      ],
+      "terms": "Valid at Great Clips One Kellogg Place at 11661 E Kellogg Dr in Wichita, KS. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1427"
+      ]
+    },
+    {
+      "external_offer_id": "uIWvh8Q",
+      "official_url": "https://offers.greatclips.com/uIWvh8Q",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Tierra del Este Center at 12244 Montana Ave in El Paso. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-09-20",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Tierra del Este Center, El Paso, TX",
+      "eligible_cities": [
+        "El Paso"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Tierra del Este Center at 12244 Montana Ave in El Paso, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/20/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "3842"
       ]
     },
     {
@@ -4840,6 +5080,30 @@
       ]
     },
     {
+      "external_offer_id": "mIGuOkQ",
+      "official_url": "https://offers.greatclips.com/mIGuOkQ",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$7-99",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 at Great Clips Highland Knolls at 2020 S Fry Rd in Katy. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-09-19",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Highland Knolls, Katy, TX",
+      "eligible_cities": [
+        "Katy"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Highland Knolls at 2020 S Fry Rd in Katy, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/19/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "5018"
+      ]
+    },
+    {
       "external_offer_id": "2cxYQ98",
       "official_url": "https://offers.greatclips.com/2cxYQ98",
       "source": "meta_ads",
@@ -5029,6 +5293,54 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "7011"
+      ]
+    },
+    {
+      "external_offer_id": "TvMRQk9",
+      "official_url": "https://offers.greatclips.com/TvMRQk9",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$9-99",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 at Great Clips Northcrest Publix at 1375 N Ferdon Blvd in Crestview. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-09-30",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Northcrest Publix, Crestview, FL",
+      "eligible_cities": [
+        "Crestview"
+      ],
+      "eligible_states": [
+        "FL"
+      ],
+      "terms": "Valid at Great Clips Northcrest Publix at 1375 N Ferdon Blvd in Crestview, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/30/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2292"
+      ]
+    },
+    {
+      "external_offer_id": "arWucon",
+      "official_url": "https://offers.greatclips.com/arWucon",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$9-99",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 at Great Clips Shoppes at Paradise Pointe at 255 Miracle Strip Pkwy SE in Fort Walton Beach. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-09-30",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Shoppes at Paradise Pointe, Fort Walton Beach, FL",
+      "eligible_cities": [
+        "Fort Walton Beach"
+      ],
+      "eligible_states": [
+        "FL"
+      ],
+      "terms": "Valid at Great Clips Shoppes at Paradise Pointe at 255 Miracle Strip Pkwy SE in Fort Walton Beach, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/30/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2878"
       ]
     },
     {
@@ -5503,78 +5815,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "3776"
-      ]
-    },
-    {
-      "external_offer_id": "AMMx3xf",
-      "official_url": "https://offers.greatclips.com/AMMx3xf",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/AMMx3xf",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 at Great Clips Raceway Commons at 55 S Raceway Rd in Indianapolis. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-09-25",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Raceway Commons, Indianapolis, IN",
-      "eligible_cities": [
-        "Indianapolis"
-      ],
-      "eligible_states": [
-        "IN"
-      ],
-      "terms": "Valid at Great Clips Raceway Commons at 55 S Raceway Rd in Indianapolis, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "8765"
-      ]
-    },
-    {
-      "external_offer_id": "V8vsXXG",
-      "official_url": "https://offers.greatclips.com/V8vsXXG",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/V8vsXXG",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 at Great Clips Plainfield Meijer at 400 N Dan Jones Rd in Plainfield. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-09-25",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Plainfield Meijer, Plainfield, IN",
-      "eligible_cities": [
-        "Plainfield"
-      ],
-      "eligible_states": [
-        "IN"
-      ],
-      "terms": "Valid at Great Clips Plainfield Meijer at 400 N Dan Jones Rd in Plainfield, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2572"
-      ]
-    },
-    {
-      "external_offer_id": "kP1sxje",
-      "official_url": "https://offers.greatclips.com/kP1sxje",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/kP1sxje",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 at Great Clips Saratoga Shops at 1070 W Main St in Plainfield. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-09-25",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Saratoga Shops, Plainfield, IN",
-      "eligible_cities": [
-        "Plainfield"
-      ],
-      "eligible_states": [
-        "IN"
-      ],
-      "terms": "Valid at Great Clips Saratoga Shops at 1070 W Main St in Plainfield, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9792"
       ]
     },
     {
