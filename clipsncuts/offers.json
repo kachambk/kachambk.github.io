@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-14T18:15:12.942Z",
+  "scraped_at": "2026-09-15T00:39:00.180Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -1141,7 +1141,7 @@
       "external_offer_id": "witICFv",
       "official_url": "https://offers.greatclips.com/witICFv",
       "source": "meta_ads",
-      "source_url": "https://coupons-haircut.com/7-99-coupon",
+      "source_url": "https://www.weeklyadlist.com/7-99-great-clips-coupon-printable/",
       "title": "$7.99 Haircut",
       "description": "Get a great haircut for $7.99 at Great Clips Decatur Mount Zion Walmart at 4655 E Maryland St in Decatur. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "price": 7.99,
@@ -1657,30 +1657,6 @@
       ]
     },
     {
-      "external_offer_id": "8HVAfsU",
-      "official_url": "https://offers.greatclips.com/8HVAfsU",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$10.99 Haircut",
-      "description": "Get a great haircut for $10.99 at Great Clips The Point at 10706 E. Point Twenty-Two Blvd in Mesa. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 10.99,
-      "expiration_date": "2026-09-14",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips The Point, Mesa, AZ",
-      "eligible_cities": [
-        "Mesa"
-      ],
-      "eligible_states": [
-        "AZ"
-      ],
-      "terms": "Valid at Great Clips The Point at 10706 E. Point Twenty-Two Blvd in Mesa, AZ. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/14/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "3122"
-      ]
-    },
-    {
       "external_offer_id": "92GNQAN",
       "official_url": "https://offers.greatclips.com/92GNQAN",
       "source": "meta_ads",
@@ -1894,30 +1870,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "5208"
-      ]
-    },
-    {
-      "external_offer_id": "BZFwYEj",
-      "official_url": "https://offers.greatclips.com/BZFwYEj",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$6.99 Haircut",
-      "description": "Get a great haircut for $6.99 at Great Clips The Shops at Rainbow Landing at 124 W Grand Ave in Rainbow City. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 6.99,
-      "expiration_date": "2026-09-14",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips The Shops at Rainbow Landing, Rainbow City, AL",
-      "eligible_cities": [
-        "Rainbow City"
-      ],
-      "eligible_states": [
-        "AL"
-      ],
-      "terms": "Valid at Great Clips The Shops at Rainbow Landing at 124 W Grand Ave in Rainbow City, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/14/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8454/50707-002-1200x600-6.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "5839"
       ]
     },
     {
@@ -2277,30 +2229,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "2445"
-      ]
-    },
-    {
-      "external_offer_id": "KUNuI2j",
-      "official_url": "https://offers.greatclips.com/KUNuI2j",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$6.99 Haircut",
-      "description": "Get a great haircut for $6.99 at Great Clips South Park Center at 2042 Martin St S in Pell City. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 6.99,
-      "expiration_date": "2026-09-14",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips South Park Center, Pell City, AL",
-      "eligible_cities": [
-        "Pell City"
-      ],
-      "eligible_states": [
-        "AL"
-      ],
-      "terms": "Valid at Great Clips South Park Center at 2042 Martin St S in Pell City, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/14/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8454/50707-002-1200x600-6.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9074"
       ]
     },
     {
@@ -3335,54 +3263,6 @@
       ]
     },
     {
-      "external_offer_id": "dYa99sm",
-      "official_url": "https://offers.greatclips.com/dYa99sm",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$6.99 Haircut",
-      "description": "Get a great haircut for $6.99 at Great Clips Patchwork Farms at 3036 Healthy Way in Vestavia. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 6.99,
-      "expiration_date": "2026-09-14",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Patchwork Farms, Vestavia, AL",
-      "eligible_cities": [
-        "Vestavia"
-      ],
-      "eligible_states": [
-        "AL"
-      ],
-      "terms": "Valid at Great Clips Patchwork Farms at 3036 Healthy Way in Vestavia, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/14/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8454/50707-002-1200x600-6.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "0231"
-      ]
-    },
-    {
-      "external_offer_id": "dyLurRa",
-      "official_url": "https://offers.greatclips.com/dyLurRa",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$6.99 Haircut",
-      "description": "Get a great haircut for $6.99 at Great Clips Pell City Station at 73 Vaughan Ln in Pell City. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 6.99,
-      "expiration_date": "2026-09-14",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Pell City Station, Pell City, AL",
-      "eligible_cities": [
-        "Pell City"
-      ],
-      "eligible_states": [
-        "AL"
-      ],
-      "terms": "Valid at Great Clips Pell City Station at 73 Vaughan Ln in Pell City, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/14/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8454/50707-002-1200x600-6.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2795"
-      ]
-    },
-    {
       "external_offer_id": "eZVffti",
       "official_url": "https://offers.greatclips.com/eZVffti",
       "source": "meta_ads",
@@ -3930,54 +3810,6 @@
       ]
     },
     {
-      "external_offer_id": "q8XpyMB",
-      "official_url": "https://offers.greatclips.com/q8XpyMB",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$6.99 Haircut",
-      "description": "Get a great haircut for $6.99 at Great Clips Chelsea Crossroads at 605 Chelsea Xrds in Chelsea. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 6.99,
-      "expiration_date": "2026-09-14",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Chelsea Crossroads, Chelsea, AL",
-      "eligible_cities": [
-        "Chelsea"
-      ],
-      "eligible_states": [
-        "AL"
-      ],
-      "terms": "Valid at Great Clips Chelsea Crossroads at 605 Chelsea Xrds in Chelsea, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/14/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8454/50707-002-1200x600-6.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9057"
-      ]
-    },
-    {
-      "external_offer_id": "qSazPBf",
-      "official_url": "https://offers.greatclips.com/qSazPBf",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$6.99 Haircut",
-      "description": "Get a great haircut for $6.99 at Great Clips Calera Publix Market Place at 56 MarketPlace Cir in Calera. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 6.99,
-      "expiration_date": "2026-09-14",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Calera Publix Market Place, Calera, AL",
-      "eligible_cities": [
-        "Calera"
-      ],
-      "eligible_states": [
-        "AL"
-      ],
-      "terms": "Valid at Great Clips Calera Publix Market Place at 56 MarketPlace Cir in Calera, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/14/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8454/50707-002-1200x600-6.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9056"
-      ]
-    },
-    {
       "external_offer_id": "qdYO1it",
       "official_url": "https://offers.greatclips.com/qdYO1it",
       "source": "meta_ads",
@@ -4287,30 +4119,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "3776"
-      ]
-    },
-    {
-      "external_offer_id": "vTZrFql",
-      "official_url": "https://offers.greatclips.com/vTZrFql",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$10.99 Haircut",
-      "description": "Get a great haircut for $10.99 at Great Clips Higley Safeway Center at 1496 N Higley Rd in Gilbert. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 10.99,
-      "expiration_date": "2026-09-14",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Higley Safeway Center, Gilbert, AZ",
-      "eligible_cities": [
-        "Gilbert"
-      ],
-      "eligible_states": [
-        "AZ"
-      ],
-      "terms": "Valid at Great Clips Higley Safeway Center at 1496 N Higley Rd in Gilbert, AZ. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/14/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1588"
       ]
     },
     {
@@ -5472,102 +5280,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "1427"
-      ]
-    },
-    {
-      "external_offer_id": "8mIL9fz",
-      "official_url": "https://offers.greatclips.com/8mIL9fz",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/8mIL9fz",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 at Great Clips Lakeview Village at 67 S Higley Rd in Gilbert. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-09-14",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Lakeview Village, Gilbert, AZ",
-      "eligible_cities": [
-        "Gilbert"
-      ],
-      "eligible_states": [
-        "AZ"
-      ],
-      "terms": "Valid at Great Clips Lakeview Village at 67 S Higley Rd in Gilbert, AZ. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/14/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "6335"
-      ]
-    },
-    {
-      "external_offer_id": "ozTZejL",
-      "official_url": "https://offers.greatclips.com/ozTZejL",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/ozTZejL",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 at Great Clips Morrison Ranch at 3546 South Power Road in Gilbert. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-09-14",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Morrison Ranch, Gilbert, AZ",
-      "eligible_cities": [
-        "Gilbert"
-      ],
-      "eligible_states": [
-        "AZ"
-      ],
-      "terms": "Valid at Great Clips Morrison Ranch at 3546 South Power Road in Gilbert, AZ. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/14/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4540"
-      ]
-    },
-    {
-      "external_offer_id": "ulb7SMW",
-      "official_url": "https://offers.greatclips.com/ulb7SMW",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/ulb7SMW",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 at Great Clips Superstition Springs at 6920 E Baseline Rd in Mesa. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-09-14",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Superstition Springs, Mesa, AZ",
-      "eligible_cities": [
-        "Mesa"
-      ],
-      "eligible_states": [
-        "AZ"
-      ],
-      "terms": "Valid at Great Clips Superstition Springs at 6920 E Baseline Rd in Mesa, AZ. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/14/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1557"
-      ]
-    },
-    {
-      "external_offer_id": "kOzvVKe",
-      "official_url": "https://offers.greatclips.com/kOzvVKe",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/kOzvVKe",
-      "title": "$10.99 Haircut",
-      "description": "Get a great haircut for $10.99 at Great Clips Augusta Ranch Marketplace at 9931 E Baseline Rd in Mesa. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 10.99,
-      "expiration_date": "2026-09-14",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Augusta Ranch Marketplace, Mesa, AZ",
-      "eligible_cities": [
-        "Mesa"
-      ],
-      "eligible_states": [
-        "AZ"
-      ],
-      "terms": "Valid at Great Clips Augusta Ranch Marketplace at 9931 E Baseline Rd in Mesa, AZ. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/14/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "6337"
       ]
     },
     {
