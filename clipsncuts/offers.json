@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-17T11:22:44.828Z",
+  "scraped_at": "2026-09-17T16:39:12.392Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -941,29 +941,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "5790"
-      ]
-    },
-    {
-      "external_offer_id": "oTDSeCX",
-      "official_url": "https://offers.greatclips.com/oTDSeCX",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips",
-      "title": "$6.00 Off Haircut",
-      "description": "Get a great haircut for $6.00 off at Great Clips Sherman Town Center at 4114 Hwy 75 N in Sherman. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "expiration_date": "2026-09-21",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Sherman Town Center, Sherman, TX",
-      "eligible_cities": [
-        "Sherman"
-      ],
-      "eligible_states": [
-        "TX"
-      ],
-      "terms": "Valid at Great Clips Sherman Town Center at 4114 Hwy 75 N in Sherman, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/21/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8434/50707-002-1200x600-US-Sparkfly-6off.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1670"
       ]
     },
     {
@@ -4741,6 +4718,54 @@
       ]
     },
     {
+      "external_offer_id": "7V3dcm9",
+      "official_url": "https://offers.greatclips.com/7V3dcm9",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$10-99",
+      "title": "$10.99 Haircut",
+      "description": "Get a great haircut for $10.99 at Great Clips Shops at Grove at 3033 NW 178th St in Edmond. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 10.99,
+      "expiration_date": "2026-09-26",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Shops at Grove, Edmond, OK",
+      "eligible_cities": [
+        "Edmond"
+      ],
+      "eligible_states": [
+        "OK"
+      ],
+      "terms": "Valid at Great Clips Shops at Grove at 3033 NW 178th St in Edmond, OK. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/26/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "3840"
+      ]
+    },
+    {
+      "external_offer_id": "L2zy7Ln",
+      "official_url": "https://offers.greatclips.com/L2zy7Ln",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$10-99",
+      "title": "$10.99 Haircut",
+      "description": "Get a great haircut for $10.99 at Great Clips Quail Springs at 14220 N Pennsylvania Ave in Oklahoma City. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 10.99,
+      "expiration_date": "2026-09-26",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Quail Springs, Oklahoma City, OK",
+      "eligible_cities": [
+        "Oklahoma City"
+      ],
+      "eligible_states": [
+        "OK"
+      ],
+      "terms": "Valid at Great Clips Quail Springs at 14220 N Pennsylvania Ave in Oklahoma City, OK. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/26/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1639"
+      ]
+    },
+    {
       "external_offer_id": "EYtNanL",
       "official_url": "https://offers.greatclips.com/EYtNanL",
       "source": "meta_ads",
@@ -4810,29 +4835,6 @@
       ]
     },
     {
-      "external_offer_id": "aSnYt52",
-      "official_url": "https://offers.greatclips.com/aSnYt52",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$5off",
-      "title": "$6.00 Off Haircut",
-      "description": "Get a great haircut for $6.00 off at Great Clips Park Forest Northeast at 3767 Forest Ln in Dallas. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "expiration_date": "2026-09-21",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Park Forest Northeast, Dallas, TX",
-      "eligible_cities": [
-        "Dallas"
-      ],
-      "eligible_states": [
-        "TX"
-      ],
-      "terms": "Valid at Great Clips Park Forest Northeast at 3767 Forest Ln in Dallas, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/21/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8434/50707-002-1200x600-US-Sparkfly-6off.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2087"
-      ]
-    },
-    {
       "external_offer_id": "cW1IwSJ",
       "official_url": "https://offers.greatclips.com/cW1IwSJ",
       "source": "meta_ads",
@@ -4876,6 +4878,29 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "3120"
+      ]
+    },
+    {
+      "external_offer_id": "oTDSeCX",
+      "official_url": "https://offers.greatclips.com/oTDSeCX",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$5off",
+      "title": "$6.00 Off Haircut",
+      "description": "Get a great haircut for $6.00 off at Great Clips Sherman Town Center at 4114 Hwy 75 N in Sherman. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "expiration_date": "2026-09-21",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Sherman Town Center, Sherman, TX",
+      "eligible_cities": [
+        "Sherman"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Sherman Town Center at 4114 Hwy 75 N in Sherman, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/21/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8434/50707-002-1200x600-US-Sparkfly-6off.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1670"
       ]
     },
     {
@@ -4925,6 +4950,126 @@
       ]
     },
     {
+      "external_offer_id": "CHIAuQs",
+      "official_url": "https://offers.greatclips.com/CHIAuQs",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$11-99",
+      "title": "$11.99 Haircut",
+      "description": "Get a great haircut for $11.99 at Great Clips Merrimon Square at 640 Merrimon Ave in Asheville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 11.99,
+      "expiration_date": "2026-10-02",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Merrimon Square, Asheville, NC",
+      "eligible_cities": [
+        "Asheville"
+      ],
+      "eligible_states": [
+        "NC"
+      ],
+      "terms": "Valid at Great Clips Merrimon Square at 640 Merrimon Ave in Asheville, NC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8464/50707-002-1200x600-11.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "7019"
+      ]
+    },
+    {
+      "external_offer_id": "YGvxC2w",
+      "official_url": "https://offers.greatclips.com/YGvxC2w",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$11-99",
+      "title": "$11.99 Haircut",
+      "description": "Get a great haircut for $11.99 at Great Clips Grandview Station at 2845 Sugar Hill Rd in Marion. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 11.99,
+      "expiration_date": "2026-10-02",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Grandview Station, Marion, NC",
+      "eligible_cities": [
+        "Marion"
+      ],
+      "eligible_states": [
+        "NC"
+      ],
+      "terms": "Valid at Great Clips Grandview Station at 2845 Sugar Hill Rd in Marion, NC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8464/50707-002-1200x600-11.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "7023"
+      ]
+    },
+    {
+      "external_offer_id": "nqocwul",
+      "official_url": "https://offers.greatclips.com/nqocwul",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$11-99",
+      "title": "$11.99 Haircut",
+      "description": "Get a great haircut for $11.99 at Great Clips McBee Station at 400 E McBee Ave in Greenville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 11.99,
+      "expiration_date": "2026-10-02",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips McBee Station, Greenville, SC",
+      "eligible_cities": [
+        "Greenville"
+      ],
+      "eligible_states": [
+        "SC"
+      ],
+      "terms": "Valid at Great Clips McBee Station at 400 E McBee Ave in Greenville, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8464/50707-002-1200x600-11.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "8820"
+      ]
+    },
+    {
+      "external_offer_id": "6UrMaUP",
+      "official_url": "https://offers.greatclips.com/6UrMaUP",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$14-99",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 at Great Clips Town and Country Shopping Center at 621 San Ramon Valley Blvd in Danville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-10-08",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Town and Country Shopping Center, Danville, CA",
+      "eligible_cities": [
+        "Danville"
+      ],
+      "eligible_states": [
+        "CA"
+      ],
+      "terms": "Valid at Great Clips Town and Country Shopping Center at 621 San Ramon Valley Blvd in Danville, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/08/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "5220"
+      ]
+    },
+    {
+      "external_offer_id": "LBPpM7v",
+      "official_url": "https://offers.greatclips.com/LBPpM7v",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$14-99",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 at Great Clips The Crossings-Antioch at 3457 Deer Valley Rd in Antioch. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-10-08",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips The Crossings-Antioch, Antioch, CA",
+      "eligible_cities": [
+        "Antioch"
+      ],
+      "eligible_states": [
+        "CA"
+      ],
+      "terms": "Valid at Great Clips The Crossings-Antioch at 3457 Deer Valley Rd in Antioch, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/08/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "5279"
+      ]
+    },
+    {
       "external_offer_id": "1JruF96",
       "official_url": "https://offers.greatclips.com/1JruF96",
       "source": "meta_ads",
@@ -4946,6 +5091,29 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "3448"
+      ]
+    },
+    {
+      "external_offer_id": "aSnYt52",
+      "official_url": "https://offers.greatclips.com/aSnYt52",
+      "source": "meta_ads",
+      "source_url": "https://offers.greatclips.com/aSnYt52",
+      "title": "$6.00 Off Haircut",
+      "description": "Get a great haircut for $6.00 off at Great Clips Park Forest Northeast at 3767 Forest Ln in Dallas. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "expiration_date": "2026-09-21",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Park Forest Northeast, Dallas, TX",
+      "eligible_cities": [
+        "Dallas"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Park Forest Northeast at 3767 Forest Ln in Dallas, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/21/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8434/50707-002-1200x600-US-Sparkfly-6off.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2087"
       ]
     },
     {
