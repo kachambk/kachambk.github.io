@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-16T22:59:57.247Z",
+  "scraped_at": "2026-09-17T06:05:39.165Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -46,30 +46,6 @@
       "discovery_confidence": "high"
     },
     {
-      "external_offer_id": "955TgJp",
-      "official_url": "https://offers.greatclips.com/955TgJp",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 at Great Clips Greystone Shoppes at 2455 Jonathan Moore Pike in Columbus. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-09-25",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Greystone Shoppes, Columbus, IN",
-      "eligible_cities": [
-        "Columbus"
-      ],
-      "eligible_states": [
-        "IN"
-      ],
-      "terms": "Valid at Great Clips Greystone Shoppes at 2455 Jonathan Moore Pike in Columbus, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2883"
-      ]
-    },
-    {
       "external_offer_id": "9YtWl6t",
       "official_url": "https://offers.greatclips.com/9YtWl6t",
       "source": "meta_ads",
@@ -91,54 +67,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "4200"
-      ]
-    },
-    {
-      "external_offer_id": "Dsvio6d",
-      "official_url": "https://offers.greatclips.com/Dsvio6d",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 at Great Clips Shelbyville Shopping Center at 118 Lee Blvd in Shelbyville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-09-25",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Shelbyville Shopping Center, Shelbyville, IN",
-      "eligible_cities": [
-        "Shelbyville"
-      ],
-      "eligible_states": [
-        "IN"
-      ],
-      "terms": "Valid at Great Clips Shelbyville Shopping Center at 118 Lee Blvd in Shelbyville, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9885"
-      ]
-    },
-    {
-      "external_offer_id": "EO2J5py",
-      "official_url": "https://offers.greatclips.com/EO2J5py",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 at Great Clips Perry Crossing at 2609 E Main St in Plainfield. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-09-25",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Perry Crossing, Plainfield, IN",
-      "eligible_cities": [
-        "Plainfield"
-      ],
-      "eligible_states": [
-        "IN"
-      ],
-      "terms": "Valid at Great Clips Perry Crossing at 2609 E Main St in Plainfield, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1795"
       ]
     },
     {
@@ -250,6 +178,25 @@
       "discovery_confidence": "high"
     },
     {
+      "external_offer_id": "VvNG05O",
+      "official_url": "https://offers.greatclips.com/VvNG05O",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 only at participating Greater Los Angeles area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-10-02",
+      "geographic_type": "city",
+      "geographic_description": "Greater Los Angeles area",
+      "eligible_cities": [
+        "Greater Los Angeles"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Greater Los Angeles area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20996/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
       "external_offer_id": "ZPzrMSl",
       "official_url": "https://offers.greatclips.com/ZPzrMSl",
       "source": "meta_ads",
@@ -271,30 +218,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "5258"
-      ]
-    },
-    {
-      "external_offer_id": "aPsr4ck",
-      "official_url": "https://offers.greatclips.com/aPsr4ck",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 at Great Clips Stones Crossing at 2710 S State Road 135 in Greenwood. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-09-25",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Stones Crossing, Greenwood, IN",
-      "eligible_cities": [
-        "Greenwood"
-      ],
-      "eligible_states": [
-        "IN"
-      ],
-      "terms": "Valid at Great Clips Stones Crossing at 2710 S State Road 135 in Greenwood, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1264"
       ]
     },
     {
@@ -320,6 +243,25 @@
       "eligible_salon_ids": [
         "1685"
       ]
+    },
+    {
+      "external_offer_id": "dEk0iJA",
+      "official_url": "https://offers.greatclips.com/dEk0iJA",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 only at participating San Antonio area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-10-02",
+      "geographic_type": "city",
+      "geographic_description": "San Antonio area",
+      "eligible_cities": [
+        "San Antonio"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating San Antonio area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20998/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high"
     },
     {
       "external_offer_id": "e1j8GvR",
@@ -433,28 +375,55 @@
       ]
     },
     {
-      "external_offer_id": "s8mElVa",
-      "official_url": "https://offers.greatclips.com/s8mElVa",
+      "external_offer_id": "ooRyocE",
+      "official_url": "https://offers.greatclips.com/ooRyocE",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$10.99 Haircut",
+      "description": "Get a great haircut for $10.99 only at participating Phoenix & Northern/Western AZ area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 10.99,
+      "expiration_date": "2026-10-09",
+      "terms": "Valid only at participating Phoenix & Northern/Western AZ area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/09/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20995/50707-002-1200x600-10.99.jpg",
+      "discovery_confidence": "low"
+    },
+    {
+      "external_offer_id": "rDKX0S8",
+      "official_url": "https://offers.greatclips.com/rDKX0S8",
       "source": "meta_ads",
       "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
       "title": "$8.99 Haircut",
-      "description": "Get a great haircut for $8.99 at Great Clips Fredericksburg Town Center at 1455 E Main St in Fredericksburg. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "description": "Get a great haircut for $8.99 only at participating Houston area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "price": 8.99,
-      "expiration_date": "2026-09-23",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Fredericksburg Town Center, Fredericksburg, TX",
+      "expiration_date": "2026-10-02",
+      "geographic_type": "city",
+      "geographic_description": "Houston area",
       "eligible_cities": [
-        "Fredericksburg"
+        "Houston"
       ],
-      "eligible_states": [
-        "TX"
+      "eligible_states": [],
+      "terms": "Valid only at participating Houston area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20999/50707-002-1200x600-8.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
+      "external_offer_id": "sp39D67",
+      "official_url": "https://offers.greatclips.com/sp39D67",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$10.99 Haircut",
+      "description": "Get a great haircut for $10.99 only at participating Las Vegas area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 10.99,
+      "expiration_date": "2026-10-16",
+      "geographic_type": "city",
+      "geographic_description": "Las Vegas area",
+      "eligible_cities": [
+        "Las Vegas"
       ],
-      "terms": "Valid at Great Clips Fredericksburg Town Center at 1455 E Main St in Fredericksburg, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/23/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8459/50707-002-1200x600-8.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4198"
-      ]
+      "eligible_states": [],
+      "terms": "Valid only at participating Las Vegas area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/16/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20993/50707-002-1200x600-10.99.jpg",
+      "discovery_confidence": "high"
     },
     {
       "external_offer_id": "ueXL5PT",
@@ -819,25 +788,6 @@
       "discovery_confidence": "high"
     },
     {
-      "external_offer_id": "VvNG05O",
-      "official_url": "https://offers.greatclips.com/VvNG05O",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 only at participating Greater Los Angeles area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-10-02",
-      "geographic_type": "city",
-      "geographic_description": "Greater Los Angeles area",
-      "eligible_cities": [
-        "Greater Los Angeles"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Greater Los Angeles area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20996/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
       "external_offer_id": "VwHE1uj",
       "official_url": "https://offers.greatclips.com/VwHE1uj",
       "source": "meta_ads",
@@ -1010,19 +960,6 @@
       ]
     },
     {
-      "external_offer_id": "ooRyocE",
-      "official_url": "https://offers.greatclips.com/ooRyocE",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips",
-      "title": "$10.99 Haircut",
-      "description": "Get a great haircut for $10.99 only at participating Phoenix & Northern/Western AZ area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 10.99,
-      "expiration_date": "2026-10-09",
-      "terms": "Valid only at participating Phoenix & Northern/Western AZ area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/09/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20995/50707-002-1200x600-10.99.jpg",
-      "discovery_confidence": "low"
-    },
-    {
       "external_offer_id": "pw08AcK",
       "official_url": "https://offers.greatclips.com/pw08AcK",
       "source": "meta_ads",
@@ -1045,44 +982,6 @@
       "eligible_salon_ids": [
         "2472"
       ]
-    },
-    {
-      "external_offer_id": "rDKX0S8",
-      "official_url": "https://offers.greatclips.com/rDKX0S8",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips",
-      "title": "$8.99 Haircut",
-      "description": "Get a great haircut for $8.99 only at participating Houston area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 8.99,
-      "expiration_date": "2026-10-02",
-      "geographic_type": "city",
-      "geographic_description": "Houston area",
-      "eligible_cities": [
-        "Houston"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Houston area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20999/50707-002-1200x600-8.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "sp39D67",
-      "official_url": "https://offers.greatclips.com/sp39D67",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips",
-      "title": "$10.99 Haircut",
-      "description": "Get a great haircut for $10.99 only at participating Las Vegas area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 10.99,
-      "expiration_date": "2026-10-16",
-      "geographic_type": "city",
-      "geographic_description": "Las Vegas area",
-      "eligible_cities": [
-        "Las Vegas"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Las Vegas area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/16/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20993/50707-002-1200x600-10.99.jpg",
-      "discovery_confidence": "high"
     },
     {
       "external_offer_id": "xgJfSDW",
@@ -1109,34 +1008,10 @@
       ]
     },
     {
-      "external_offer_id": "witICFv",
-      "official_url": "https://offers.greatclips.com/witICFv",
-      "source": "meta_ads",
-      "source_url": "https://www.weeklyadlist.com/7-99-great-clips-coupon-printable/",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 at Great Clips Decatur Mount Zion Walmart at 4655 E Maryland St in Decatur. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-09-25",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Decatur Mount Zion Walmart, Decatur, IL",
-      "eligible_cities": [
-        "Decatur"
-      ],
-      "eligible_states": [
-        "IL"
-      ],
-      "terms": "Valid at Great Clips Decatur Mount Zion Walmart at 4655 E Maryland St in Decatur, IL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "5818"
-      ]
-    },
-    {
       "external_offer_id": "Q89ccIt",
       "official_url": "https://offers.greatclips.com/Q89ccIt",
       "source": "meta_ads",
-      "source_url": "https://coupons-haircut.com/7-99-coupon",
+      "source_url": "https://www.weeklyadlist.com/7-99-great-clips-coupon-printable/",
       "title": "$7.99 Haircut",
       "description": "Get a great haircut for $7.99 at Great Clips Aliana at 10173 W Grand Pkwy S in Richmond. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "price": 7.99,
@@ -1160,7 +1035,7 @@
       "external_offer_id": "mIGuOkQ",
       "official_url": "https://offers.greatclips.com/mIGuOkQ",
       "source": "meta_ads",
-      "source_url": "https://coupons-haircut.com/7-99-coupon",
+      "source_url": "https://www.weeklyadlist.com/7-99-great-clips-coupon-printable/",
       "title": "$7.99 Haircut",
       "description": "Get a great haircut for $7.99 at Great Clips Highland Knolls at 2020 S Fry Rd in Katy. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "price": 7.99,
@@ -1184,7 +1059,7 @@
       "external_offer_id": "mufxKjp",
       "official_url": "https://offers.greatclips.com/mufxKjp",
       "source": "meta_ads",
-      "source_url": "https://coupons-haircut.com/7-99-coupon",
+      "source_url": "https://www.weeklyadlist.com/7-99-great-clips-coupon-printable/",
       "title": "$7.99 Haircut",
       "description": "Get a great haircut for $7.99 at Great Clips Waterside at 8019 W Grand Pkwy S in Richmond. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "price": 7.99,
@@ -1202,6 +1077,30 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "9250"
+      ]
+    },
+    {
+      "external_offer_id": "witICFv",
+      "official_url": "https://offers.greatclips.com/witICFv",
+      "source": "meta_ads",
+      "source_url": "https://www.weeklyadlist.com/7-99-great-clips-coupon-printable/",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 at Great Clips Decatur Mount Zion Walmart at 4655 E Maryland St in Decatur. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-09-25",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Decatur Mount Zion Walmart, Decatur, IL",
+      "eligible_cities": [
+        "Decatur"
+      ],
+      "eligible_states": [
+        "IL"
+      ],
+      "terms": "Valid at Great Clips Decatur Mount Zion Walmart at 4655 E Maryland St in Decatur, IL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "5818"
       ]
     },
     {
@@ -3460,25 +3359,6 @@
       ]
     },
     {
-      "external_offer_id": "dEk0iJA",
-      "official_url": "https://offers.greatclips.com/dEk0iJA",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 only at participating San Antonio area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-10-02",
-      "geographic_type": "city",
-      "geographic_description": "San Antonio area",
-      "eligible_cities": [
-        "San Antonio"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating San Antonio area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/02/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20998/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
       "external_offer_id": "eZVffti",
       "official_url": "https://offers.greatclips.com/eZVffti",
       "source": "meta_ads",
@@ -5042,6 +4922,126 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "3448"
+      ]
+    },
+    {
+      "external_offer_id": "955TgJp",
+      "official_url": "https://offers.greatclips.com/955TgJp",
+      "source": "meta_ads",
+      "source_url": "https://offers.greatclips.com/955TgJp",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 at Great Clips Greystone Shoppes at 2455 Jonathan Moore Pike in Columbus. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-09-25",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Greystone Shoppes, Columbus, IN",
+      "eligible_cities": [
+        "Columbus"
+      ],
+      "eligible_states": [
+        "IN"
+      ],
+      "terms": "Valid at Great Clips Greystone Shoppes at 2455 Jonathan Moore Pike in Columbus, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2883"
+      ]
+    },
+    {
+      "external_offer_id": "Dsvio6d",
+      "official_url": "https://offers.greatclips.com/Dsvio6d",
+      "source": "meta_ads",
+      "source_url": "https://offers.greatclips.com/Dsvio6d",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 at Great Clips Shelbyville Shopping Center at 118 Lee Blvd in Shelbyville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-09-25",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Shelbyville Shopping Center, Shelbyville, IN",
+      "eligible_cities": [
+        "Shelbyville"
+      ],
+      "eligible_states": [
+        "IN"
+      ],
+      "terms": "Valid at Great Clips Shelbyville Shopping Center at 118 Lee Blvd in Shelbyville, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "9885"
+      ]
+    },
+    {
+      "external_offer_id": "EO2J5py",
+      "official_url": "https://offers.greatclips.com/EO2J5py",
+      "source": "meta_ads",
+      "source_url": "https://offers.greatclips.com/EO2J5py",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 at Great Clips Perry Crossing at 2609 E Main St in Plainfield. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-09-25",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Perry Crossing, Plainfield, IN",
+      "eligible_cities": [
+        "Plainfield"
+      ],
+      "eligible_states": [
+        "IN"
+      ],
+      "terms": "Valid at Great Clips Perry Crossing at 2609 E Main St in Plainfield, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1795"
+      ]
+    },
+    {
+      "external_offer_id": "aPsr4ck",
+      "official_url": "https://offers.greatclips.com/aPsr4ck",
+      "source": "meta_ads",
+      "source_url": "https://offers.greatclips.com/aPsr4ck",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 at Great Clips Stones Crossing at 2710 S State Road 135 in Greenwood. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "expiration_date": "2026-09-25",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Stones Crossing, Greenwood, IN",
+      "eligible_cities": [
+        "Greenwood"
+      ],
+      "eligible_states": [
+        "IN"
+      ],
+      "terms": "Valid at Great Clips Stones Crossing at 2710 S State Road 135 in Greenwood, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1264"
+      ]
+    },
+    {
+      "external_offer_id": "s8mElVa",
+      "official_url": "https://offers.greatclips.com/s8mElVa",
+      "source": "meta_ads",
+      "source_url": "https://offers.greatclips.com/s8mElVa",
+      "title": "$8.99 Haircut",
+      "description": "Get a great haircut for $8.99 at Great Clips Fredericksburg Town Center at 1455 E Main St in Fredericksburg. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 8.99,
+      "expiration_date": "2026-09-23",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Fredericksburg Town Center, Fredericksburg, TX",
+      "eligible_cities": [
+        "Fredericksburg"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Fredericksburg Town Center at 1455 E Main St in Fredericksburg, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/23/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8459/50707-002-1200x600-8.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4198"
       ]
     },
     {
