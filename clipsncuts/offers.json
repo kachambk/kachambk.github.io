@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-17T23:42:31.193Z",
+  "scraped_at": "2026-09-18T03:45:23.916Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -1139,9 +1139,25 @@
       "external_offer_id": "0hR9YBR",
       "official_url": "https://offers.greatclips.com/0hR9YBR",
       "source": "meta_ads",
-      "title": "Unparsed offer 0hR9YBR",
-      "discovery_confidence": "low",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/"
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$15.99 Haircut",
+      "description": "Get a great haircut for $15.99 at Great Clips Belmar at 650 S Wadsworth Blvd in Lakewood. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 15.99,
+      "expiration_date": "2026-10-10",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Belmar, Lakewood, CO",
+      "eligible_cities": [
+        "Lakewood"
+      ],
+      "eligible_states": [
+        "CO"
+      ],
+      "terms": "Valid at Great Clips Belmar at 650 S Wadsworth Blvd in Lakewood, CO. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/10/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "0422"
+      ]
     },
     {
       "external_offer_id": "1F98okR",
@@ -5578,30 +5594,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "1427"
-      ]
-    },
-    {
-      "external_offer_id": "MaQlb5W",
-      "official_url": "https://offers.greatclips.com/MaQlb5W",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/MaQlb5W",
-      "title": "$10.99 Haircut",
-      "description": "Get a great haircut for $10.99 at Great Clips Hillview Plaza at 14023 E Wade Hampton Blvd in Greer. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 10.99,
-      "expiration_date": "2026-09-17",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Hillview Plaza, Greer, SC",
-      "eligible_cities": [
-        "Greer"
-      ],
-      "eligible_states": [
-        "SC"
-      ],
-      "terms": "Valid at Great Clips Hillview Plaza at 14023 E Wade Hampton Blvd in Greer, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/17/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "8827"
       ]
     }
   ]
