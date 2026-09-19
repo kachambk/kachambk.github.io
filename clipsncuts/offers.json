@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-18T23:21:57.916Z",
+  "scraped_at": "2026-09-19T03:14:06.305Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -713,25 +713,6 @@
       ]
     },
     {
-      "external_offer_id": "lM6ugQf",
-      "official_url": "https://offers.greatclips.com/lM6ugQf",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips",
-      "title": "$11.99 Haircut",
-      "description": "Get a great haircut for $11.99 only at participating Baltimore area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 11.99,
-      "expiration_date": "2026-09-18",
-      "geographic_type": "city",
-      "geographic_description": "Baltimore area",
-      "eligible_cities": [
-        "Baltimore"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Baltimore area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20770/50707-002-1200x600-11.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
       "external_offer_id": "laz4wYU",
       "official_url": "https://offers.greatclips.com/laz4wYU",
       "source": "meta_ads",
@@ -1342,27 +1323,6 @@
       ]
     },
     {
-      "external_offer_id": "63RZLdp",
-      "official_url": "https://offers.greatclips.com/63RZLdp",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$6.99 Haircut",
-      "description": "Get a great haircut for $6.99 at Great Clips Pineda Landings at 6395 N Wickham Rd in Melbourne. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 6.99,
-      "expiration_date": "2026-09-18",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Pineda Landings, Melbourne, FL",
-      "eligible_cities": [
-        "Melbourne"
-      ],
-      "eligible_states": [
-        "FL"
-      ],
-      "terms": "Valid at Great Clips Pineda Landings at 6395 N Wickham Rd in Melbourne, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8455/50707-002-1200x600-6.99.jpg",
-      "discovery_confidence": "medium"
-    },
-    {
       "external_offer_id": "6IDvJyb",
       "official_url": "https://offers.greatclips.com/6IDvJyb",
       "source": "meta_ads",
@@ -1888,30 +1848,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "1336"
-      ]
-    },
-    {
-      "external_offer_id": "F8ngbhn",
-      "official_url": "https://offers.greatclips.com/F8ngbhn",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$6.99 Haircut",
-      "description": "Get a great haircut for $6.99 at Great Clips Lavon Retail Center at 845 S State Hwy 78 in Lavon. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 6.99,
-      "expiration_date": "2026-09-18",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Lavon Retail Center, Lavon, TX",
-      "eligible_cities": [
-        "Lavon"
-      ],
-      "eligible_states": [
-        "TX"
-      ],
-      "terms": "Valid at Great Clips Lavon Retail Center at 845 S State Hwy 78 in Lavon, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8455/50707-002-1200x600-6.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4233"
       ]
     },
     {
@@ -2599,25 +2535,6 @@
       ]
     },
     {
-      "external_offer_id": "RtEvBAF",
-      "official_url": "https://offers.greatclips.com/RtEvBAF",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$10.99 Haircut",
-      "description": "Get a great haircut for $10.99 only at participating Salisbury area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 10.99,
-      "expiration_date": "2026-09-18",
-      "geographic_type": "city",
-      "geographic_description": "Salisbury area",
-      "eligible_cities": [
-        "Salisbury"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Salisbury area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/20772/50707-002-1200x600-10.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
       "external_offer_id": "SDzsm5M",
       "official_url": "https://offers.greatclips.com/SDzsm5M",
       "source": "meta_ads",
@@ -3037,30 +2954,6 @@
       ]
     },
     {
-      "external_offer_id": "aJlIdn8",
-      "official_url": "https://offers.greatclips.com/aJlIdn8",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$8.99 Haircut",
-      "description": "Get a great haircut for $8.99 at Great Clips Auburn Pointe at 13303 W Maple St in Wichita. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 8.99,
-      "expiration_date": "2026-09-18",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Auburn Pointe, Wichita, KS",
-      "eligible_cities": [
-        "Wichita"
-      ],
-      "eligible_states": [
-        "KS"
-      ],
-      "terms": "Valid at Great Clips Auburn Pointe at 13303 W Maple St in Wichita, KS. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9698"
-      ]
-    },
-    {
       "external_offer_id": "arWucon",
       "official_url": "https://offers.greatclips.com/arWucon",
       "source": "meta_ads",
@@ -3448,30 +3341,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "2942"
-      ]
-    },
-    {
-      "external_offer_id": "iZBDSk0",
-      "official_url": "https://offers.greatclips.com/iZBDSk0",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$8.99 Haircut",
-      "description": "Get a great haircut for $8.99 at Great Clips Bel Pointe Plaza at 6254 E 37th St N in Bel Aire. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 8.99,
-      "expiration_date": "2026-09-18",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Bel Pointe Plaza, Bel Aire, KS",
-      "eligible_cities": [
-        "Bel Aire"
-      ],
-      "eligible_states": [
-        "KS"
-      ],
-      "terms": "Valid at Great Clips Bel Pointe Plaza at 6254 E 37th St N in Bel Aire, KS. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1426"
       ]
     },
     {
@@ -4235,30 +4104,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "3894"
-      ]
-    },
-    {
-      "external_offer_id": "xpHUKsp",
-      "official_url": "https://offers.greatclips.com/xpHUKsp",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$10.99 Haircut",
-      "description": "Get a great haircut for $10.99 at Great Clips Avondale Fiesta at 11435 W Buckeye Rd in Avondale. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 10.99,
-      "expiration_date": "2026-09-18",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Avondale Fiesta, Avondale, AZ",
-      "eligible_cities": [
-        "Avondale"
-      ],
-      "eligible_states": [
-        "AZ"
-      ],
-      "terms": "Valid at Great Clips Avondale Fiesta at 11435 W Buckeye Rd in Avondale, AZ. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/14841/50707-002-1200x600-US-Sparkfly-199-199910.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "6333"
       ]
     },
     {
@@ -5805,78 +5650,6 @@
       ]
     },
     {
-      "external_offer_id": "HJUzgJy",
-      "official_url": "https://offers.greatclips.com/HJUzgJy",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/HJUzgJy",
-      "title": "$10.99 Haircut",
-      "description": "Get a great haircut for $10.99 at Great Clips Biltmore Plaza at 3122 E Camelback Rd in Phoenix. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 10.99,
-      "expiration_date": "2026-09-18",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Biltmore Plaza, Phoenix, AZ",
-      "eligible_cities": [
-        "Phoenix"
-      ],
-      "eligible_states": [
-        "AZ"
-      ],
-      "terms": "Valid at Great Clips Biltmore Plaza at 3122 E Camelback Rd in Phoenix, AZ. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/14841/50707-002-1200x600-US-Sparkfly-199-199910.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1531"
-      ]
-    },
-    {
-      "external_offer_id": "rNHAiAI",
-      "official_url": "https://offers.greatclips.com/rNHAiAI",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/rNHAiAI",
-      "title": "$8.99 Haircut",
-      "description": "Get a great haircut for $8.99 at Great Clips Hutchinson Trade Center at 1515 E 17th Ave in Hutchinson. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 8.99,
-      "expiration_date": "2026-09-18",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Hutchinson Trade Center, Hutchinson, KS",
-      "eligible_cities": [
-        "Hutchinson"
-      ],
-      "eligible_states": [
-        "KS"
-      ],
-      "terms": "Valid at Great Clips Hutchinson Trade Center at 1515 E 17th Ave in Hutchinson, KS. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "8762"
-      ]
-    },
-    {
-      "external_offer_id": "vszrUIR",
-      "official_url": "https://offers.greatclips.com/vszrUIR",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/vszrUIR",
-      "title": "$8.99 Haircut",
-      "description": "Get a great haircut for $8.99 at Great Clips Saddle Creek Crossing at 4842A S Broadway Ave in Wichita. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 8.99,
-      "expiration_date": "2026-09-18",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Saddle Creek Crossing, Wichita, KS",
-      "eligible_cities": [
-        "Wichita"
-      ],
-      "eligible_states": [
-        "KS"
-      ],
-      "terms": "Valid at Great Clips Saddle Creek Crossing at 4842A S Broadway Ave in Wichita, KS. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "7079"
-      ]
-    },
-    {
       "external_offer_id": "3WARhFD",
       "official_url": "https://offers.greatclips.com/3WARhFD",
       "source": "meta_ads",
@@ -5922,102 +5695,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "8725"
-      ]
-    },
-    {
-      "external_offer_id": "wO5jWmk",
-      "official_url": "https://offers.greatclips.com/wO5jWmk",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/wO5jWmk",
-      "title": "$8.99 Haircut",
-      "description": "Get a great haircut for $8.99 at Great Clips Tallgrass Shopping Center at 2240 N Rock Rd in Wichita. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 8.99,
-      "expiration_date": "2026-09-18",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Tallgrass Shopping Center, Wichita, KS",
-      "eligible_cities": [
-        "Wichita"
-      ],
-      "eligible_states": [
-        "KS"
-      ],
-      "terms": "Valid at Great Clips Tallgrass Shopping Center at 2240 N Rock Rd in Wichita, KS. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1974"
-      ]
-    },
-    {
-      "external_offer_id": "LVxkNv9",
-      "official_url": "https://offers.greatclips.com/LVxkNv9",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/LVxkNv9",
-      "title": "$8.99 Haircut",
-      "description": "Get a great haircut for $8.99 at Great Clips Twin Lakes Redevelopment at 1981 W 21st St N in Wichita. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 8.99,
-      "expiration_date": "2026-09-18",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Twin Lakes Redevelopment, Wichita, KS",
-      "eligible_cities": [
-        "Wichita"
-      ],
-      "eligible_states": [
-        "KS"
-      ],
-      "terms": "Valid at Great Clips Twin Lakes Redevelopment at 1981 W 21st St N in Wichita, KS. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2089"
-      ]
-    },
-    {
-      "external_offer_id": "QBxZPsc",
-      "official_url": "https://offers.greatclips.com/QBxZPsc",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/QBxZPsc",
-      "title": "$10.99 Haircut",
-      "description": "Get a great haircut for $10.99 at Great Clips Village Center at 4312 E Cactus Rd in Phoenix. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 10.99,
-      "expiration_date": "2026-09-18",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Village Center, Phoenix, AZ",
-      "eligible_cities": [
-        "Phoenix"
-      ],
-      "eligible_states": [
-        "AZ"
-      ],
-      "terms": "Valid at Great Clips Village Center at 4312 E Cactus Rd in Phoenix, AZ. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/14841/50707-002-1200x600-US-Sparkfly-199-199910.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1525"
-      ]
-    },
-    {
-      "external_offer_id": "sREpWWZ",
-      "official_url": "https://offers.greatclips.com/sREpWWZ",
-      "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/sREpWWZ",
-      "title": "$8.99 Haircut",
-      "description": "Get a great haircut for $8.99 at Great Clips One Kellogg Place at 11661 E Kellogg Dr in Wichita. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 8.99,
-      "expiration_date": "2026-09-18",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips One Kellogg Place, Wichita, KS",
-      "eligible_cities": [
-        "Wichita"
-      ],
-      "eligible_states": [
-        "KS"
-      ],
-      "terms": "Valid at Great Clips One Kellogg Place at 11661 E Kellogg Dr in Wichita, KS. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/18/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1427"
       ]
     }
   ]
