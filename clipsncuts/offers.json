@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-19T19:29:42.964Z",
+  "scraped_at": "2026-09-20T01:00:28.029Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -875,30 +875,6 @@
       ]
     },
     {
-      "external_offer_id": "witICFv",
-      "official_url": "https://offers.greatclips.com/witICFv",
-      "source": "meta_ads",
-      "source_url": "https://www.weeklyadlist.com/7-99-great-clips-coupon-printable/",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 at Great Clips Decatur Mount Zion Walmart at 4655 E Maryland St in Decatur. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-09-25",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Decatur Mount Zion Walmart, Decatur, IL",
-      "eligible_cities": [
-        "Decatur"
-      ],
-      "eligible_states": [
-        "IL"
-      ],
-      "terms": "Valid at Great Clips Decatur Mount Zion Walmart at 4655 E Maryland St in Decatur, IL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "5818"
-      ]
-    },
-    {
       "external_offer_id": "Q89ccIt",
       "official_url": "https://offers.greatclips.com/Q89ccIt",
       "source": "meta_ads",
@@ -923,30 +899,6 @@
       ]
     },
     {
-      "external_offer_id": "mIGuOkQ",
-      "official_url": "https://offers.greatclips.com/mIGuOkQ",
-      "source": "meta_ads",
-      "source_url": "https://coupons-haircut.com/7-99-coupon",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 at Great Clips Highland Knolls at 2020 S Fry Rd in Katy. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-09-19",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Highland Knolls, Katy, TX",
-      "eligible_cities": [
-        "Katy"
-      ],
-      "eligible_states": [
-        "TX"
-      ],
-      "terms": "Valid at Great Clips Highland Knolls at 2020 S Fry Rd in Katy, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/19/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "5018"
-      ]
-    },
-    {
       "external_offer_id": "mufxKjp",
       "official_url": "https://offers.greatclips.com/mufxKjp",
       "source": "meta_ads",
@@ -968,6 +920,30 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "9250"
+      ]
+    },
+    {
+      "external_offer_id": "witICFv",
+      "official_url": "https://offers.greatclips.com/witICFv",
+      "source": "meta_ads",
+      "source_url": "https://coupons-haircut.com/7-99-coupon",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 at Great Clips Decatur Mount Zion Walmart at 4655 E Maryland St in Decatur. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-09-25",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Decatur Mount Zion Walmart, Decatur, IL",
+      "eligible_cities": [
+        "Decatur"
+      ],
+      "eligible_states": [
+        "IL"
+      ],
+      "terms": "Valid at Great Clips Decatur Mount Zion Walmart at 4655 E Maryland St in Decatur, IL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "5818"
       ]
     },
     {
@@ -1897,30 +1873,6 @@
       ]
     },
     {
-      "external_offer_id": "GR62Vz3",
-      "official_url": "https://offers.greatclips.com/GR62Vz3",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips Winterwood Pavilion at 2208 Nellis Blvd in Las Vegas. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-09-19",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Winterwood Pavilion, Las Vegas, NV",
-      "eligible_cities": [
-        "Las Vegas"
-      ],
-      "eligible_states": [
-        "NV"
-      ],
-      "terms": "Valid at Great Clips Winterwood Pavilion at 2208 Nellis Blvd in Las Vegas, NV. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/19/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "6203"
-      ]
-    },
-    {
       "external_offer_id": "GfQEWJg",
       "official_url": "https://offers.greatclips.com/GfQEWJg",
       "source": "meta_ads",
@@ -2581,30 +2533,6 @@
       "terms": "Valid at Great Clips Boynton Plaza at 143 1/2 North Congress Ave in Boynton Beach, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/06/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
       "discovery_confidence": "medium"
-    },
-    {
-      "external_offer_id": "SjV224x",
-      "official_url": "https://offers.greatclips.com/SjV224x",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips Cleves at 4350 State Route 128 in Cleves. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-09-19",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Cleves, Cleves, OH",
-      "eligible_cities": [
-        "Cleves"
-      ],
-      "eligible_states": [
-        "OH"
-      ],
-      "terms": "Valid at Great Clips Cleves at 4350 State Route 128 in Cleves, OH. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/19/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2273"
-      ]
     },
     {
       "external_offer_id": "Tlz1Gbg",
@@ -3562,30 +3490,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "2756"
-      ]
-    },
-    {
-      "external_offer_id": "nBbXToK",
-      "official_url": "https://offers.greatclips.com/nBbXToK",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips Alamosa Plaza at 2833 E Desert Inn Rd in Las Vegas. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-09-19",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Alamosa Plaza, Las Vegas, NV",
-      "eligible_cities": [
-        "Las Vegas"
-      ],
-      "eligible_states": [
-        "NV"
-      ],
-      "terms": "Valid at Great Clips Alamosa Plaza at 2833 E Desert Inn Rd in Las Vegas, NV. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/19/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "6212"
       ]
     },
     {
@@ -5325,24 +5229,9 @@
       "external_offer_id": "MnzDiuw",
       "official_url": "https://offers.greatclips.com/MnzDiuw",
       "source": "meta_ads",
-      "source_url": "https://offers.greatclips.com/MnzDiuw",
-      "title": "$6.00 Off Haircut",
-      "description": "Get a great haircut for $6.00 off at Great Clips Cross Creek Durant at 3601 W Main St in Durant. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "expiration_date": "2026-09-21",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Cross Creek Durant, Durant, OK",
-      "eligible_cities": [
-        "Durant"
-      ],
-      "eligible_states": [
-        "OK"
-      ],
-      "terms": "Valid at Great Clips Cross Creek Durant at 3601 W Main St in Durant, OK. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/21/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8434/50707-002-1200x600-US-Sparkfly-6off.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "8663"
-      ]
+      "title": "Unparsed offer MnzDiuw",
+      "discovery_confidence": "low",
+      "source_url": "https://offers.greatclips.com/MnzDiuw"
     },
     {
       "external_offer_id": "OzZonhK",
