@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-23T02:34:56.913Z",
+  "scraped_at": "2026-10-23T16:21:19.797Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -595,21 +595,6 @@
       "discovery_confidence": "high"
     },
     {
-      "external_offer_id": "laz4wYU",
-      "official_url": "https://offers.greatclips.com/laz4wYU",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips",
-      "title": "$5.00 Off Haircut",
-      "description": "Get a great haircut for $5.00 off only at participating Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "geographic_type": "nationwide",
-      "geographic_description": "Participating salons",
-      "eligible_cities": [],
-      "eligible_states": [],
-      "terms": "Valid only at participating Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Code must be used within 4 weeks of initial code generation. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/15961/50707-002-1200x600-US-Sparkfly-1off-10off5.jpg",
-      "discovery_confidence": "medium"
-    },
-    {
       "external_offer_id": "mkF2YcP",
       "official_url": "https://offers.greatclips.com/mkF2YcP",
       "source": "meta_ads",
@@ -679,6 +664,29 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "5279"
+      ]
+    },
+    {
+      "external_offer_id": "oMT72ua",
+      "official_url": "https://offers.greatclips.com/oMT72ua",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips",
+      "title": "$10.00 Off Haircut",
+      "description": "Get a great haircut for $10.00 off at Great Clips Park Place Promenade at 9672 Colorado Ln N in Brooklyn Park. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "expiration_date": "2026-11-07",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Park Place Promenade, Brooklyn Park, MN",
+      "eligible_cities": [
+        "Brooklyn Park"
+      ],
+      "eligible_states": [
+        "MN"
+      ],
+      "terms": "Valid at Great Clips Park Place Promenade at 9672 Colorado Ln N in Brooklyn Park, MN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/07/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8438/50707-002-1200x600-US-Sparkfly-10off.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "9552"
       ]
     },
     {
@@ -3340,27 +3348,6 @@
       ]
     },
     {
-      "external_offer_id": "TM7JFsi",
-      "official_url": "https://offers.greatclips.com/TM7JFsi",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 only at participating Rochester, Mason City & Austin area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-10-23",
-      "geographic_type": "city",
-      "geographic_description": "Rochester, Mason City & Austin area",
-      "eligible_cities": [
-        "Rochester",
-        "Mason City",
-        "Austin"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Rochester, Mason City & Austin area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/23/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/21256/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high"
-    },
-    {
       "external_offer_id": "TXzJfnM",
       "official_url": "https://offers.greatclips.com/TXzJfnM",
       "source": "meta_ads",
@@ -4948,6 +4935,21 @@
       "discovery_confidence": "high"
     },
     {
+      "external_offer_id": "laz4wYU",
+      "official_url": "https://offers.greatclips.com/laz4wYU",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$5.00 Off Haircut",
+      "description": "Get a great haircut for $5.00 off only at participating Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "geographic_type": "nationwide",
+      "geographic_description": "Participating salons",
+      "eligible_cities": [],
+      "eligible_states": [],
+      "terms": "Valid only at participating Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Code must be used within 4 weeks of initial code generation. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/15961/50707-002-1200x600-US-Sparkfly-1off-10off5.jpg",
+      "discovery_confidence": "medium"
+    },
+    {
       "external_offer_id": "ldOXmiM",
       "official_url": "https://offers.greatclips.com/ldOXmiM",
       "source": "meta_ads",
@@ -6298,29 +6300,6 @@
       ]
     },
     {
-      "external_offer_id": "7DMazwG",
-      "official_url": "https://offers.greatclips.com/7DMazwG",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$5off",
-      "title": "$7.00 Off Haircut",
-      "description": "Get a great haircut for $7.00 off at Great Clips Boston Square II at 19760 W 130th St in Strongsville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "expiration_date": "2026-11-20",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Boston Square II, Strongsville, OH",
-      "eligible_cities": [
-        "Strongsville"
-      ],
-      "eligible_states": [
-        "OH"
-      ],
-      "terms": "Valid at Great Clips Boston Square II at 19760 W 130th St in Strongsville, OH. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/20/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8436/50707-002-1200x600-US-Sparkfly-7off.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2933"
-      ]
-    },
-    {
       "external_offer_id": "S2nXRDN",
       "official_url": "https://offers.greatclips.com/S2nXRDN",
       "source": "meta_ads",
@@ -6344,26 +6323,72 @@
       ]
     },
     {
-      "external_offer_id": "gX1N9pr",
-      "official_url": "https://offers.greatclips.com/gX1N9pr",
+      "external_offer_id": "SkfSx9W",
+      "official_url": "https://offers.greatclips.com/SkfSx9W",
       "source": "meta_ads",
       "source_url": "https://coupons-2save.com/greatclips/$5off",
-      "title": "$7.00 Off Haircut",
-      "description": "Get a great haircut for $7.00 off at Great Clips Katy Mills at 25116 Market Place Dr in Katy. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "expiration_date": "2026-11-06",
+      "title": "$10.00 Off Haircut",
+      "description": "Get a great haircut for $10.00 off at Great Clips Hillside at 6200 Hillside Rd in Amarillo. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "expiration_date": "2026-11-04",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Katy Mills, Katy, TX",
+      "geographic_description": "Great Clips Hillside, Amarillo, TX",
       "eligible_cities": [
-        "Katy"
+        "Amarillo"
       ],
       "eligible_states": [
         "TX"
       ],
-      "terms": "Valid at Great Clips Katy Mills at 25116 Market Place Dr in Katy, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/06/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8436/50707-002-1200x600-US-Sparkfly-7off.jpg",
+      "terms": "Valid at Great Clips Hillside at 6200 Hillside Rd in Amarillo, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/04/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8438/50707-002-1200x600-US-Sparkfly-10off.jpg",
       "discovery_confidence": "high",
       "eligible_salon_ids": [
-        "3936"
+        "2006"
+      ]
+    },
+    {
+      "external_offer_id": "WrQw40R",
+      "official_url": "https://offers.greatclips.com/WrQw40R",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$5off",
+      "title": "$10.00 Off Haircut",
+      "description": "Get a great haircut for $10.00 off at Great Clips Tradewind at 2200 SE 34th Ave in Amarillo. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "expiration_date": "2026-11-04",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Tradewind, Amarillo, TX",
+      "eligible_cities": [
+        "Amarillo"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Tradewind at 2200 SE 34th Ave in Amarillo, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/04/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8438/50707-002-1200x600-US-Sparkfly-10off.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "3762"
+      ]
+    },
+    {
+      "external_offer_id": "YZOVvtp",
+      "official_url": "https://offers.greatclips.com/YZOVvtp",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$5off",
+      "title": "$10.00 Off Haircut",
+      "description": "Get a great haircut for $10.00 off at Great Clips Wolflin Village at 2613 Wolflin Ave in Amarillo. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "expiration_date": "2026-11-04",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Wolflin Village, Amarillo, TX",
+      "eligible_cities": [
+        "Amarillo"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Wolflin Village at 2613 Wolflin Ave in Amarillo, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/04/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8438/50707-002-1200x600-US-Sparkfly-10off.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "7179"
       ]
     },
     {
@@ -6390,26 +6415,26 @@
       ]
     },
     {
-      "external_offer_id": "oMT72ua",
-      "official_url": "https://offers.greatclips.com/oMT72ua",
+      "external_offer_id": "ieJZdIz",
+      "official_url": "https://offers.greatclips.com/ieJZdIz",
       "source": "meta_ads",
       "source_url": "https://coupons-2save.com/greatclips/$5off",
       "title": "$10.00 Off Haircut",
-      "description": "Get a great haircut for $10.00 off at Great Clips Park Place Promenade at 9672 Colorado Ln N in Brooklyn Park. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "expiration_date": "2026-11-07",
+      "description": "Get a great haircut for $10.00 off at Great Clips Summit Shopping Center at 3300 S Coulter St in Amarillo. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "expiration_date": "2026-11-04",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Park Place Promenade, Brooklyn Park, MN",
+      "geographic_description": "Great Clips Summit Shopping Center, Amarillo, TX",
       "eligible_cities": [
-        "Brooklyn Park"
+        "Amarillo"
       ],
       "eligible_states": [
-        "MN"
+        "TX"
       ],
-      "terms": "Valid at Great Clips Park Place Promenade at 9672 Colorado Ln N in Brooklyn Park, MN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/07/2026. All Great Clips® salons are independently owned and operated.",
+      "terms": "Valid at Great Clips Summit Shopping Center at 3300 S Coulter St in Amarillo, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/04/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8438/50707-002-1200x600-US-Sparkfly-10off.jpg",
       "discovery_confidence": "high",
       "eligible_salon_ids": [
-        "9552"
+        "8778"
       ]
     },
     {
@@ -6433,6 +6458,96 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "2955"
+      ]
+    },
+    {
+      "external_offer_id": "vXa7JRo",
+      "official_url": "https://offers.greatclips.com/vXa7JRo",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$5off",
+      "title": "$10.00 Off Haircut",
+      "description": "Get a great haircut for $10.00 off at Great Clips Soncy and 45th at 4280 S Soncy Rd in Amarillo. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "expiration_date": "2026-11-04",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Soncy and 45th, Amarillo, TX",
+      "eligible_cities": [
+        "Amarillo"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Soncy and 45th at 4280 S Soncy Rd in Amarillo, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/04/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8438/50707-002-1200x600-US-Sparkfly-10off.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2833"
+      ]
+    },
+    {
+      "external_offer_id": "TM7JFsi",
+      "official_url": "https://offers.greatclips.com/TM7JFsi",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$14-99",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 only at participating Rochester, Mason City & Austin area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-10-23",
+      "geographic_type": "city",
+      "geographic_description": "Rochester, Mason City & Austin area",
+      "eligible_cities": [
+        "Rochester",
+        "Mason City",
+        "Austin"
+      ],
+      "eligible_states": [],
+      "terms": "Valid only at participating Rochester, Mason City & Austin area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/23/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/21256/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high"
+    },
+    {
+      "external_offer_id": "7DMazwG",
+      "official_url": "https://offers.greatclips.com/7DMazwG",
+      "source": "meta_ads",
+      "source_url": "https://offers.greatclips.com/7DMazwG",
+      "title": "$7.00 Off Haircut",
+      "description": "Get a great haircut for $7.00 off at Great Clips Boston Square II at 19760 W 130th St in Strongsville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "expiration_date": "2026-11-20",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Boston Square II, Strongsville, OH",
+      "eligible_cities": [
+        "Strongsville"
+      ],
+      "eligible_states": [
+        "OH"
+      ],
+      "terms": "Valid at Great Clips Boston Square II at 19760 W 130th St in Strongsville, OH. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/20/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8436/50707-002-1200x600-US-Sparkfly-7off.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2933"
+      ]
+    },
+    {
+      "external_offer_id": "gX1N9pr",
+      "official_url": "https://offers.greatclips.com/gX1N9pr",
+      "source": "meta_ads",
+      "source_url": "https://offers.greatclips.com/gX1N9pr",
+      "title": "$7.00 Off Haircut",
+      "description": "Get a great haircut for $7.00 off at Great Clips Katy Mills at 25116 Market Place Dr in Katy. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "expiration_date": "2026-11-06",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Katy Mills, Katy, TX",
+      "eligible_cities": [
+        "Katy"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Katy Mills at 25116 Market Place Dr in Katy, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/06/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8436/50707-002-1200x600-US-Sparkfly-7off.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "3936"
       ]
     },
     {
