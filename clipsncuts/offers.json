@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-22T13:16:37.511Z",
+  "scraped_at": "2026-10-23T02:34:56.913Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -1554,25 +1554,6 @@
       "eligible_salon_ids": [
         "0793"
       ]
-    },
-    {
-      "external_offer_id": "9ITyns6",
-      "official_url": "https://offers.greatclips.com/9ITyns6",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 only at participating Ft. Myers-Naples area Great Clips salons. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-10-22",
-      "geographic_type": "city",
-      "geographic_description": "Ft. Myers-Naples area",
-      "eligible_cities": [
-        "Ft. Myers-Naples"
-      ],
-      "eligible_states": [],
-      "terms": "Valid only at participating Ft. Myers-Naples area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/22/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/21213/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high"
     },
     {
       "external_offer_id": "9dRIwZC",
@@ -5802,30 +5783,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "1934"
-      ]
-    },
-    {
-      "external_offer_id": "wKrYkzk",
-      "official_url": "https://offers.greatclips.com/wKrYkzk",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips Springfield Square North at 950 E Baltimore Pike in Springfield. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-10-22",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Springfield Square North, Springfield, PA",
-      "eligible_cities": [
-        "Springfield"
-      ],
-      "eligible_states": [
-        "PA"
-      ],
-      "terms": "Valid at Great Clips Springfield Square North at 950 E Baltimore Pike in Springfield, PA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/22/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9560"
       ]
     },
     {
