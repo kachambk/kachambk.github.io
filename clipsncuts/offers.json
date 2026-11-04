@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-03T19:12:43.832Z",
+  "scraped_at": "2026-11-04T19:25:22.719Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -730,6 +730,150 @@
       ]
     },
     {
+      "external_offer_id": "6VusHl4",
+      "official_url": "https://offers.greatclips.com/6VusHl4",
+      "source": "meta_ads",
+      "source_url": "https://www.weeklyadlist.com/7-99-great-clips-coupon-printable/",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 at Great Clips Highland Court at 1801 Jackson Ave W in Oxford. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-11-29",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Highland Court, Oxford, MS",
+      "eligible_cities": [
+        "Oxford"
+      ],
+      "eligible_states": [
+        "MS"
+      ],
+      "terms": "Valid at Great Clips Highland Court at 1801 Jackson Ave W in Oxford, MS. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/29/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2276"
+      ]
+    },
+    {
+      "external_offer_id": "H0gF9mu",
+      "official_url": "https://offers.greatclips.com/H0gF9mu",
+      "source": "meta_ads",
+      "source_url": "https://www.weeklyadlist.com/7-99-great-clips-coupon-printable/",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 at Great Clips Enka-Candler Ingles at 1572 Sand Hill Rd in Candler. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-11-08",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Enka-Candler Ingles, Candler, NC",
+      "eligible_cities": [
+        "Candler"
+      ],
+      "eligible_states": [
+        "NC"
+      ],
+      "terms": "Valid at Great Clips Enka-Candler Ingles at 1572 Sand Hill Rd in Candler, NC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/08/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2516"
+      ]
+    },
+    {
+      "external_offer_id": "ZGSPrvl",
+      "official_url": "https://offers.greatclips.com/ZGSPrvl",
+      "source": "meta_ads",
+      "source_url": "https://www.weeklyadlist.com/7-99-great-clips-coupon-printable/",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 at Great Clips Muscle Shoals Commons at 3208 Woodward Ave in Muscle Shoals. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-11-29",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Muscle Shoals Commons, Muscle Shoals, AL",
+      "eligible_cities": [
+        "Muscle Shoals"
+      ],
+      "eligible_states": [
+        "AL"
+      ],
+      "terms": "Valid at Great Clips Muscle Shoals Commons at 3208 Woodward Ave in Muscle Shoals, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/29/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "0381"
+      ]
+    },
+    {
+      "external_offer_id": "geHwnsO",
+      "official_url": "https://offers.greatclips.com/geHwnsO",
+      "source": "meta_ads",
+      "source_url": "https://www.weeklyadlist.com/7-99-great-clips-coupon-printable/",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 at Great Clips Bay Forest at 1926 El Dorado Boulevard in Houston. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-11-20",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Bay Forest, Houston, TX",
+      "eligible_cities": [
+        "Houston"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Bay Forest at 1926 El Dorado Boulevard in Houston, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/20/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4153"
+      ]
+    },
+    {
+      "external_offer_id": "kDa54Oe",
+      "official_url": "https://offers.greatclips.com/kDa54Oe",
+      "source": "meta_ads",
+      "source_url": "https://www.weeklyadlist.com/7-99-great-clips-coupon-printable/",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 only at Great Clips South Texas Plaza at 300 S Bibb Ave in Eagle Pass. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-11-20",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips South Texas Plaza, Eagle Pass, TX",
+      "eligible_cities": [
+        "Eagle Pass"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid only at Great Clips South Texas Plaza at 300 S Bibb Ave in Eagle Pass, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/20/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/18181/7.99%20Haircut%20Coupon.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "3868"
+      ]
+    },
+    {
+      "external_offer_id": "mvoeYl6",
+      "official_url": "https://offers.greatclips.com/mvoeYl6",
+      "source": "meta_ads",
+      "source_url": "https://www.weeklyadlist.com/7-99-great-clips-coupon-printable/",
+      "title": "$7.99 Haircut",
+      "description": "Get a great haircut for $7.99 at Great Clips Walmart Center-Lewisburg at 1364 N Ellington Pkwy in Lewisburg. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 7.99,
+      "expiration_date": "2026-11-29",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Walmart Center-Lewisburg, Lewisburg, TN",
+      "eligible_cities": [
+        "Lewisburg"
+      ],
+      "eligible_states": [
+        "TN"
+      ],
+      "terms": "Valid at Great Clips Walmart Center-Lewisburg at 1364 N Ellington Pkwy in Lewisburg, TN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/29/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "3396"
+      ]
+    },
+    {
       "external_offer_id": "067ewKw",
       "official_url": "https://offers.greatclips.com/067ewKw",
       "source": "meta_ads",
@@ -1311,30 +1455,6 @@
       ]
     },
     {
-      "external_offer_id": "3ozIukP",
-      "official_url": "https://offers.greatclips.com/3ozIukP",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$5.99 Haircut",
-      "description": "Get a great haircut for $5.99 at Great Clips Chelsea Crossroads at 605 Chelsea Xrds in Chelsea. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 5.99,
-      "expiration_date": "2026-11-03",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Chelsea Crossroads, Chelsea, AL",
-      "eligible_cities": [
-        "Chelsea"
-      ],
-      "eligible_states": [
-        "AL"
-      ],
-      "terms": "Valid at Great Clips Chelsea Crossroads at 605 Chelsea Xrds in Chelsea, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/03/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8451/50707-002-1200x600-5.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9057"
-      ]
-    },
-    {
       "external_offer_id": "3rZN3D6",
       "official_url": "https://offers.greatclips.com/3rZN3D6",
       "source": "meta_ads",
@@ -1735,30 +1855,6 @@
       ]
     },
     {
-      "external_offer_id": "6VusHl4",
-      "official_url": "https://offers.greatclips.com/6VusHl4",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 at Great Clips Highland Court at 1801 Jackson Ave W in Oxford. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-11-29",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Highland Court, Oxford, MS",
-      "eligible_cities": [
-        "Oxford"
-      ],
-      "eligible_states": [
-        "MS"
-      ],
-      "terms": "Valid at Great Clips Highland Court at 1801 Jackson Ave W in Oxford, MS. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/29/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2276"
-      ]
-    },
-    {
       "external_offer_id": "6ira6yQ",
       "official_url": "https://offers.greatclips.com/6ira6yQ",
       "source": "meta_ads",
@@ -1898,30 +1994,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "2407"
-      ]
-    },
-    {
-      "external_offer_id": "876ffRZ",
-      "official_url": "https://offers.greatclips.com/876ffRZ",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$5.99 Haircut",
-      "description": "Get a great haircut for $5.99 at Great Clips Pell City Station at 73 Vaughan Ln in Pell City. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 5.99,
-      "expiration_date": "2026-11-03",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Pell City Station, Pell City, AL",
-      "eligible_cities": [
-        "Pell City"
-      ],
-      "eligible_states": [
-        "AL"
-      ],
-      "terms": "Valid at Great Clips Pell City Station at 73 Vaughan Ln in Pell City, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/03/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8451/50707-002-1200x600-5.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2795"
       ]
     },
     {
@@ -2759,30 +2831,6 @@
       ]
     },
     {
-      "external_offer_id": "FIMeA3Q",
-      "official_url": "https://offers.greatclips.com/FIMeA3Q",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$5.99 Haircut",
-      "description": "Get a great haircut for $5.99 at Great Clips Calera Publix Market Place at 56 MarketPlace Cir in Calera. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 5.99,
-      "expiration_date": "2026-11-03",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Calera Publix Market Place, Calera, AL",
-      "eligible_cities": [
-        "Calera"
-      ],
-      "eligible_states": [
-        "AL"
-      ],
-      "terms": "Valid at Great Clips Calera Publix Market Place at 56 MarketPlace Cir in Calera, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/03/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8451/50707-002-1200x600-5.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9056"
-      ]
-    },
-    {
       "external_offer_id": "FImXW2n",
       "official_url": "https://offers.greatclips.com/FImXW2n",
       "source": "meta_ads",
@@ -2828,30 +2876,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "7302"
-      ]
-    },
-    {
-      "external_offer_id": "FWJcAP4",
-      "official_url": "https://offers.greatclips.com/FWJcAP4",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$5.99 Haircut",
-      "description": "Get a great haircut for $5.99 at Great Clips South Park Center at 2042 Martin St S in Pell City. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 5.99,
-      "expiration_date": "2026-11-03",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips South Park Center, Pell City, AL",
-      "eligible_cities": [
-        "Pell City"
-      ],
-      "eligible_states": [
-        "AL"
-      ],
-      "terms": "Valid at Great Clips South Park Center at 2042 Martin St S in Pell City, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/03/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8451/50707-002-1200x600-5.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9074"
       ]
     },
     {
@@ -3038,30 +3062,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "0776"
-      ]
-    },
-    {
-      "external_offer_id": "H0gF9mu",
-      "official_url": "https://offers.greatclips.com/H0gF9mu",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 at Great Clips Enka-Candler Ingles at 1572 Sand Hill Rd in Candler. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-11-08",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Enka-Candler Ingles, Candler, NC",
-      "eligible_cities": [
-        "Candler"
-      ],
-      "eligible_states": [
-        "NC"
-      ],
-      "terms": "Valid at Great Clips Enka-Candler Ingles at 1572 Sand Hill Rd in Candler, NC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/08/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2516"
       ]
     },
     {
@@ -5344,30 +5344,6 @@
       ]
     },
     {
-      "external_offer_id": "ZGSPrvl",
-      "official_url": "https://offers.greatclips.com/ZGSPrvl",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 at Great Clips Muscle Shoals Commons at 3208 Woodward Ave in Muscle Shoals. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-11-29",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Muscle Shoals Commons, Muscle Shoals, AL",
-      "eligible_cities": [
-        "Muscle Shoals"
-      ],
-      "eligible_states": [
-        "AL"
-      ],
-      "terms": "Valid at Great Clips Muscle Shoals Commons at 3208 Woodward Ave in Muscle Shoals, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/29/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "0381"
-      ]
-    },
-    {
       "external_offer_id": "ZILm19V",
       "official_url": "https://offers.greatclips.com/ZILm19V",
       "source": "meta_ads",
@@ -5409,30 +5385,6 @@
       "terms": "Valid only at participating Tulsa area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 11/13/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/21547/50707-002-1200x600-9.99.jpg",
       "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "aWTpY9o",
-      "official_url": "https://offers.greatclips.com/aWTpY9o",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$5.99 Haircut",
-      "description": "Get a great haircut for $5.99 at Great Clips Patchwork Farms at 3036 Healthy Way in Vestavia. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 5.99,
-      "expiration_date": "2026-11-03",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Patchwork Farms, Vestavia, AL",
-      "eligible_cities": [
-        "Vestavia"
-      ],
-      "eligible_states": [
-        "AL"
-      ],
-      "terms": "Valid at Great Clips Patchwork Farms at 3036 Healthy Way in Vestavia, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/03/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8451/50707-002-1200x600-5.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "0231"
-      ]
     },
     {
       "external_offer_id": "aWmhKsi",
@@ -6265,30 +6217,6 @@
       ]
     },
     {
-      "external_offer_id": "geHwnsO",
-      "official_url": "https://offers.greatclips.com/geHwnsO",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 at Great Clips Bay Forest at 1926 El Dorado Boulevard in Houston. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-11-20",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Bay Forest, Houston, TX",
-      "eligible_cities": [
-        "Houston"
-      ],
-      "eligible_states": [
-        "TX"
-      ],
-      "terms": "Valid at Great Clips Bay Forest at 1926 El Dorado Boulevard in Houston, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/20/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4153"
-      ]
-    },
-    {
       "external_offer_id": "grnsejJ",
       "official_url": "https://offers.greatclips.com/grnsejJ",
       "source": "meta_ads",
@@ -6879,30 +6807,6 @@
       ]
     },
     {
-      "external_offer_id": "kDa54Oe",
-      "official_url": "https://offers.greatclips.com/kDa54Oe",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 only at Great Clips South Texas Plaza at 300 S Bibb Ave in Eagle Pass. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-11-20",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips South Texas Plaza, Eagle Pass, TX",
-      "eligible_cities": [
-        "Eagle Pass"
-      ],
-      "eligible_states": [
-        "TX"
-      ],
-      "terms": "Valid only at Great Clips South Texas Plaza at 300 S Bibb Ave in Eagle Pass, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/20/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/18181/7.99%20Haircut%20Coupon.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "3868"
-      ]
-    },
-    {
       "external_offer_id": "kJuHKBl",
       "official_url": "https://offers.greatclips.com/kJuHKBl",
       "source": "meta_ads",
@@ -7203,30 +7107,6 @@
       ]
     },
     {
-      "external_offer_id": "mvoeYl6",
-      "official_url": "https://offers.greatclips.com/mvoeYl6",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$7.99 Haircut",
-      "description": "Get a great haircut for $7.99 at Great Clips Walmart Center-Lewisburg at 1364 N Ellington Pkwy in Lewisburg. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 7.99,
-      "expiration_date": "2026-11-29",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Walmart Center-Lewisburg, Lewisburg, TN",
-      "eligible_cities": [
-        "Lewisburg"
-      ],
-      "eligible_states": [
-        "TN"
-      ],
-      "terms": "Valid at Great Clips Walmart Center-Lewisburg at 1364 N Ellington Pkwy in Lewisburg, TN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/29/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8456/50707-002-1200x600-7.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "3396"
-      ]
-    },
-    {
       "external_offer_id": "my9FV31",
       "official_url": "https://offers.greatclips.com/my9FV31",
       "source": "meta_ads",
@@ -7272,30 +7152,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "0669"
-      ]
-    },
-    {
-      "external_offer_id": "nDG9pDW",
-      "official_url": "https://offers.greatclips.com/nDG9pDW",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 at Great Clips Port Arthur at 8425 Memorial Blvd in Port Arthur. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "expiration_date": "2026-11-03",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Port Arthur, Port Arthur, TX",
-      "eligible_cities": [
-        "Port Arthur"
-      ],
-      "eligible_states": [
-        "TX"
-      ],
-      "terms": "Valid at Great Clips Port Arthur at 8425 Memorial Blvd in Port Arthur, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/03/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2856"
       ]
     },
     {
@@ -7602,30 +7458,6 @@
       "terms": "Valid only at participating Eugene, Springfield & Corvallis area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 11/13/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/21545/50707-002-1200x600-11.99.jpg",
       "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "oynd06x",
-      "official_url": "https://offers.greatclips.com/oynd06x",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$5.99 Haircut",
-      "description": "Get a great haircut for $5.99 at Great Clips The Shops at Rainbow Landing at 124 W Grand Ave in Rainbow City. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 5.99,
-      "expiration_date": "2026-11-03",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips The Shops at Rainbow Landing, Rainbow City, AL",
-      "eligible_cities": [
-        "Rainbow City"
-      ],
-      "eligible_states": [
-        "AL"
-      ],
-      "terms": "Valid at Great Clips The Shops at Rainbow Landing at 124 W Grand Ave in Rainbow City, AL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/03/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8451/50707-002-1200x600-5.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "5839"
-      ]
     },
     {
       "external_offer_id": "pHW0rhs",
@@ -9157,6 +8989,78 @@
       ]
     },
     {
+      "external_offer_id": "87AjNWK",
+      "official_url": "https://offers.greatclips.com/87AjNWK",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$8-99",
+      "title": "$8.99 Haircut",
+      "description": "Get a great haircut for $8.99 at Great Clips Aliana at 10173 W Grand Pkwy S in Richmond. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 8.99,
+      "expiration_date": "2026-11-16",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Aliana, Richmond, TX",
+      "eligible_cities": [
+        "Richmond"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Aliana at 10173 W Grand Pkwy S in Richmond, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/16/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2367"
+      ]
+    },
+    {
+      "external_offer_id": "DCddHlq",
+      "official_url": "https://offers.greatclips.com/DCddHlq",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$8-99",
+      "title": "$8.99 Haircut",
+      "description": "Get a great haircut for $8.99 at Great Clips Bay Hill at 1450 W Grand Pkwy S in Katy. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 8.99,
+      "expiration_date": "2026-11-16",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Bay Hill, Katy, TX",
+      "eligible_cities": [
+        "Katy"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Bay Hill at 1450 W Grand Pkwy S in Katy, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/16/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "5019"
+      ]
+    },
+    {
+      "external_offer_id": "ibmBsH3",
+      "official_url": "https://offers.greatclips.com/ibmBsH3",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$8-99",
+      "title": "$8.99 Haircut",
+      "description": "Get a great haircut for $8.99 at Great Clips Waterside at 8019 W Grand Pkwy S in Richmond. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 8.99,
+      "expiration_date": "2026-11-16",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Waterside, Richmond, TX",
+      "eligible_cities": [
+        "Richmond"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Waterside at 8019 W Grand Pkwy S in Richmond, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/16/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8458/50707-002-1200x600-8.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "9250"
+      ]
+    },
+    {
       "external_offer_id": "5tZdifJ",
       "official_url": "https://offers.greatclips.com/5tZdifJ",
       "source": "meta_ads",
@@ -9368,6 +9272,30 @@
       ]
     },
     {
+      "external_offer_id": "kib7VLH",
+      "official_url": "https://offers.greatclips.com/kib7VLH",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$12-99",
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 at Great Clips Port Arthur at 8425 Memorial Blvd in Port Arthur. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
+      "expiration_date": "2026-12-10",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Port Arthur, Port Arthur, TX",
+      "eligible_cities": [
+        "Port Arthur"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Port Arthur at 8425 Memorial Blvd in Port Arthur, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/10/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2856"
+      ]
+    },
+    {
       "external_offer_id": "aEE4a0D",
       "official_url": "https://offers.greatclips.com/aEE4a0D",
       "source": "meta_ads",
@@ -9392,6 +9320,30 @@
       ]
     },
     {
+      "external_offer_id": "jVjVmYi",
+      "official_url": "https://offers.greatclips.com/jVjVmYi",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$13-99",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Second Mill Plaza at 2085 Wedgefield Rd in Sumter. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-11-22",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Second Mill Plaza, Sumter, SC",
+      "eligible_cities": [
+        "Sumter"
+      ],
+      "eligible_states": [
+        "SC"
+      ],
+      "terms": "Valid at Great Clips Second Mill Plaza at 2085 Wedgefield Rd in Sumter, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/22/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4359"
+      ]
+    },
+    {
       "external_offer_id": "w0b3Fyc",
       "official_url": "https://offers.greatclips.com/w0b3Fyc",
       "source": "meta_ads",
@@ -9413,6 +9365,54 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "4359"
+      ]
+    },
+    {
+      "external_offer_id": "w1868MI",
+      "official_url": "https://offers.greatclips.com/w1868MI",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$13-99",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Gateway Plaza at 1330 Broad Street in Sumter. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-11-22",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Gateway Plaza, Sumter, SC",
+      "eligible_cities": [
+        "Sumter"
+      ],
+      "eligible_states": [
+        "SC"
+      ],
+      "terms": "Valid at Great Clips Gateway Plaza at 1330 Broad Street in Sumter, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/22/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4367"
+      ]
+    },
+    {
+      "external_offer_id": "USXHeIS",
+      "official_url": "https://offers.greatclips.com/USXHeIS",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$14-99",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 at Great Clips Eden Shores at 28525 Hesperian Blvd in Hayward. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-11-21",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Eden Shores, Hayward, CA",
+      "eligible_cities": [
+        "Hayward"
+      ],
+      "eligible_states": [
+        "CA"
+      ],
+      "terms": "Valid at Great Clips Eden Shores at 28525 Hesperian Blvd in Hayward, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/21/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8471/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4229"
       ]
     },
     {
