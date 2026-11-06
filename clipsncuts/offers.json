@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-05T19:40:11.904Z",
+  "scraped_at": "2026-11-06T19:05:04.191Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -170,30 +170,6 @@
       "terms": "Valid only at participating Toledo area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 11/13/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/21540/50707-002-1200x600-5.99.jpg",
       "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "0ayDJfc",
-      "official_url": "https://offers.greatclips.com/0ayDJfc",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips",
-      "title": "$6.99 Haircut",
-      "description": "Get a great haircut for $6.99 at Great Clips Mauldin @ Crunch Fitness at 243 W Butler Rd in Mauldin. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 6.99,
-      "expiration_date": "2026-11-16",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Mauldin @ Crunch Fitness, Mauldin, SC",
-      "eligible_cities": [
-        "Mauldin"
-      ],
-      "eligible_states": [
-        "SC"
-      ],
-      "terms": "Valid at Great Clips Mauldin @ Crunch Fitness at 243 W Butler Rd in Mauldin, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/16/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8454/50707-002-1200x600-6.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "7014"
-      ]
     },
     {
       "external_offer_id": "1toFx3P",
@@ -473,6 +449,30 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "4140"
+      ]
+    },
+    {
+      "external_offer_id": "WpGWSTb",
+      "official_url": "https://offers.greatclips.com/WpGWSTb",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips",
+      "title": "$6.99 Haircut",
+      "description": "Get a great haircut for $6.99 at Great Clips Sunterra Shopping Center at 28030 Stockdick School Rd in Katy. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 6.99,
+      "expiration_date": "2026-11-18",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Sunterra Shopping Center, Katy, TX",
+      "eligible_cities": [
+        "Katy"
+      ],
+      "eligible_states": [
+        "TX"
+      ],
+      "terms": "Valid at Great Clips Sunterra Shopping Center at 28030 Stockdick School Rd in Katy, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/18/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8455/50707-002-1200x600-6.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4266"
       ]
     },
     {
@@ -892,30 +892,6 @@
       ]
     },
     {
-      "external_offer_id": "0P8t6It",
-      "official_url": "https://offers.greatclips.com/0P8t6It",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 at Great Clips Knoxville Crossing at 10405 N Centerway Dr in Peoria. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "expiration_date": "2026-11-05",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Knoxville Crossing, Peoria, IL",
-      "eligible_cities": [
-        "Peoria"
-      ],
-      "eligible_states": [
-        "IL"
-      ],
-      "terms": "Valid at Great Clips Knoxville Crossing at 10405 N Centerway Dr in Peoria, IL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/05/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9054"
-      ]
-    },
-    {
       "external_offer_id": "0Y3Moz0",
       "official_url": "https://offers.greatclips.com/0Y3Moz0",
       "source": "meta_ads",
@@ -935,6 +911,30 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "2126"
+      ]
+    },
+    {
+      "external_offer_id": "0ayDJfc",
+      "official_url": "https://offers.greatclips.com/0ayDJfc",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$6.99 Haircut",
+      "description": "Get a great haircut for $6.99 at Great Clips Mauldin @ Crunch Fitness at 243 W Butler Rd in Mauldin. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 6.99,
+      "expiration_date": "2026-11-16",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Mauldin @ Crunch Fitness, Mauldin, SC",
+      "eligible_cities": [
+        "Mauldin"
+      ],
+      "eligible_states": [
+        "SC"
+      ],
+      "terms": "Valid at Great Clips Mauldin @ Crunch Fitness at 243 W Butler Rd in Mauldin, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/16/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8454/50707-002-1200x600-6.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "7014"
       ]
     },
     {
@@ -978,30 +978,6 @@
       "terms": "Valid at Great Clips Maple at 1850 Major McKenzie Dr in Vaughan, ON. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/06/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8481/50707-002-1200x600-18.99.jpg",
       "discovery_confidence": "medium"
-    },
-    {
-      "external_offer_id": "0rUk9f6",
-      "official_url": "https://offers.greatclips.com/0rUk9f6",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 at Great Clips Parkway by Walmart at 1700 Parkway Plaza Drive in Normal. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "expiration_date": "2026-11-05",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Parkway by Walmart, Normal, IL",
-      "eligible_cities": [
-        "Normal"
-      ],
-      "eligible_states": [
-        "IL"
-      ],
-      "terms": "Valid at Great Clips Parkway by Walmart at 1700 Parkway Plaza Drive in Normal, IL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/05/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9314"
-      ]
     },
     {
       "external_offer_id": "12KUi4m",
@@ -1379,30 +1355,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "9481"
-      ]
-    },
-    {
-      "external_offer_id": "3EdcmX2",
-      "official_url": "https://offers.greatclips.com/3EdcmX2",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 at Great Clips Danville Crossing at 4111 N Vermillion St in Danville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "expiration_date": "2026-11-05",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Danville Crossing, Danville, IL",
-      "eligible_cities": [
-        "Danville"
-      ],
-      "eligible_states": [
-        "IL"
-      ],
-      "terms": "Valid at Great Clips Danville Crossing at 4111 N Vermillion St in Danville, IL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/05/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9887"
       ]
     },
     {
@@ -2728,30 +2680,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "2404"
-      ]
-    },
-    {
-      "external_offer_id": "AR5g9eL",
-      "official_url": "https://offers.greatclips.com/AR5g9eL",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 at Great Clips Muscatine Point at 3020 Highway 61 N in Muscatine. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "expiration_date": "2026-11-05",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Muscatine Point, Muscatine, IA",
-      "eligible_cities": [
-        "Muscatine"
-      ],
-      "eligible_states": [
-        "IA"
-      ],
-      "terms": "Valid at Great Clips Muscatine Point at 3020 Highway 61 N in Muscatine, IA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/05/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "7109"
       ]
     },
     {
@@ -4510,54 +4438,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "9858"
-      ]
-    },
-    {
-      "external_offer_id": "LW4Ruew",
-      "official_url": "https://offers.greatclips.com/LW4Ruew",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 at Great Clips Hyvee Center at 855 N Main St in Canton. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-11-05",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Hyvee Center, Canton, IL",
-      "eligible_cities": [
-        "Canton"
-      ],
-      "eligible_states": [
-        "IL"
-      ],
-      "terms": "Valid at Great Clips Hyvee Center at 855 N Main St in Canton, IL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/05/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1094"
-      ]
-    },
-    {
-      "external_offer_id": "LtNni3l",
-      "official_url": "https://offers.greatclips.com/LtNni3l",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 at Great Clips Bloomington South at Morrissey at 1601 Morrissey Drive in Bloomington. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-11-05",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Bloomington South at Morrissey, Bloomington, IL",
-      "eligible_cities": [
-        "Bloomington"
-      ],
-      "eligible_states": [
-        "IL"
-      ],
-      "terms": "Valid at Great Clips Bloomington South at Morrissey at 1601 Morrissey Drive in Bloomington, IL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/05/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "3285"
       ]
     },
     {
@@ -6706,6 +6586,30 @@
       ]
     },
     {
+      "external_offer_id": "aEE4a0D",
+      "official_url": "https://offers.greatclips.com/aEE4a0D",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Gateway Plaza at 1330 Broad Street in Sumter. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-11-22",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Gateway Plaza, Sumter, SC",
+      "eligible_cities": [
+        "Sumter"
+      ],
+      "eligible_states": [
+        "SC"
+      ],
+      "terms": "Valid at Great Clips Gateway Plaza at 1330 Broad Street in Sumter, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/22/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4367"
+      ]
+    },
+    {
       "external_offer_id": "aR8PruZ",
       "official_url": "https://offers.greatclips.com/aR8PruZ",
       "source": "meta_ads",
@@ -8031,30 +7935,6 @@
       ]
     },
     {
-      "external_offer_id": "j903jCG",
-      "official_url": "https://offers.greatclips.com/j903jCG",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips Scripps Ranch Marketplace at 10625 Scripps Poway Pkwy in San Diego. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-11-05",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Scripps Ranch Marketplace, San Diego, CA",
-      "eligible_cities": [
-        "San Diego"
-      ],
-      "eligible_states": [
-        "CA"
-      ],
-      "terms": "Valid at Great Clips Scripps Ranch Marketplace at 10625 Scripps Poway Pkwy in San Diego, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/05/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "3855"
-      ]
-    },
-    {
       "external_offer_id": "jAKHw6n",
       "official_url": "https://offers.greatclips.com/jAKHw6n",
       "source": "meta_ads",
@@ -8400,30 +8280,6 @@
       "terms": "Valid only at participating Peterborough area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 11/06/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/21373/50707-002-1200x600-18.99.jpg",
       "discovery_confidence": "high"
-    },
-    {
-      "external_offer_id": "lThyBEC",
-      "official_url": "https://offers.greatclips.com/lThyBEC",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 at Great Clips Constitution Trail at 1715 Bradford Ln in Normal. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-11-05",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Constitution Trail, Normal, IL",
-      "eligible_cities": [
-        "Normal"
-      ],
-      "eligible_states": [
-        "IL"
-      ],
-      "terms": "Valid at Great Clips Constitution Trail at 1715 Bradford Ln in Normal, IL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/05/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9797"
-      ]
     },
     {
       "external_offer_id": "loAhiPE",
@@ -9027,18 +8883,18 @@
       "source": "meta_ads",
       "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
       "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 at Great Clips Palatka Outparcel at 850 S Moody Rd in Palatka. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "description": "Get a great haircut for $9.99 at Great Clips Palatka Walmart Outparcel at 850 S Moody Rd in Palatka. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
       "price": 9.99,
       "expiration_date": "2026-12-07",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Palatka Outparcel, Palatka, FL",
+      "geographic_description": "Great Clips Palatka Walmart Outparcel, Palatka, FL",
       "eligible_cities": [
         "Palatka"
       ],
       "eligible_states": [
         "FL"
       ],
-      "terms": "Valid at Great Clips Palatka Outparcel at 850 S Moody Rd in Palatka, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/07/2026. All Great Clips® salons are independently owned and operated.",
+      "terms": "Valid at Great Clips Palatka Walmart Outparcel at 850 S Moody Rd in Palatka, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/07/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
       "discovery_confidence": "high",
       "eligible_salon_ids": [
@@ -9916,30 +9772,6 @@
       ]
     },
     {
-      "external_offer_id": "vL6LbFj",
-      "official_url": "https://offers.greatclips.com/vL6LbFj",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips Poway Plaza at 13315 Poway Rd in Poway. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-11-05",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Poway Plaza, Poway, CA",
-      "eligible_cities": [
-        "Poway"
-      ],
-      "eligible_states": [
-        "CA"
-      ],
-      "terms": "Valid at Great Clips Poway Plaza at 13315 Poway Rd in Poway, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/05/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "3809"
-      ]
-    },
-    {
       "external_offer_id": "vQ1UTG8",
       "official_url": "https://offers.greatclips.com/vQ1UTG8",
       "source": "meta_ads",
@@ -10079,6 +9911,30 @@
       ]
     },
     {
+      "external_offer_id": "w0b3Fyc",
+      "official_url": "https://offers.greatclips.com/w0b3Fyc",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Second Mill Plaza at 2085 Wedgefield Rd in Sumter. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-11-22",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Second Mill Plaza, Sumter, SC",
+      "eligible_cities": [
+        "Sumter"
+      ],
+      "eligible_states": [
+        "SC"
+      ],
+      "terms": "Valid at Great Clips Second Mill Plaza at 2085 Wedgefield Rd in Sumter, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/22/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4359"
+      ]
+    },
+    {
       "external_offer_id": "w1868MI",
       "official_url": "https://offers.greatclips.com/w1868MI",
       "source": "meta_ads",
@@ -10148,30 +10004,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "9163"
-      ]
-    },
-    {
-      "external_offer_id": "wETLwmH",
-      "official_url": "https://offers.greatclips.com/wETLwmH",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 at Great Clips Carriage Center at 2023 S Neil St in Champaign. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "expiration_date": "2026-11-05",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Carriage Center, Champaign, IL",
-      "eligible_cities": [
-        "Champaign"
-      ],
-      "eligible_states": [
-        "IL"
-      ],
-      "terms": "Valid at Great Clips Carriage Center at 2023 S Neil St in Champaign, IL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/05/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "7099"
       ]
     },
     {
@@ -10527,6 +10359,54 @@
       ]
     },
     {
+      "external_offer_id": "Nxb9iZu",
+      "official_url": "https://offers.greatclips.com/Nxb9iZu",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$6-99",
+      "title": "$6.99 Haircut",
+      "description": "Get a great haircut for $6.99 at Great Clips RK Center - Fall River at 4171 North Main Street in Fall River. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 6.99,
+      "expiration_date": "2026-11-15",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips RK Center - Fall River, Fall River, MA",
+      "eligible_cities": [
+        "Fall River"
+      ],
+      "eligible_states": [
+        "MA"
+      ],
+      "terms": "Valid at Great Clips RK Center - Fall River at 4171 North Main Street in Fall River, MA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/15/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8454/50707-002-1200x600-6.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4234"
+      ]
+    },
+    {
+      "external_offer_id": "zmxpuyL",
+      "official_url": "https://offers.greatclips.com/zmxpuyL",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$6-99",
+      "title": "$6.99 Haircut",
+      "description": "Get a great haircut for $6.99 at Great Clips Riverside Landing at 81 Coggeshall St in New Bedford. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 6.99,
+      "expiration_date": "2026-11-15",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Riverside Landing, New Bedford, MA",
+      "eligible_cities": [
+        "New Bedford"
+      ],
+      "eligible_states": [
+        "MA"
+      ],
+      "terms": "Valid at Great Clips Riverside Landing at 81 Coggeshall St in New Bedford, MA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/15/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8454/50707-002-1200x600-6.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2400"
+      ]
+    },
+    {
       "external_offer_id": "fL9nHzT",
       "official_url": "https://offers.greatclips.com/fL9nHzT",
       "source": "meta_ads",
@@ -10598,51 +10478,27 @@
       ]
     },
     {
-      "external_offer_id": "aEE4a0D",
-      "official_url": "https://offers.greatclips.com/aEE4a0D",
+      "external_offer_id": "YymMP6N",
+      "official_url": "https://offers.greatclips.com/YymMP6N",
       "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$13-99",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips Gateway Plaza at 1330 Broad Street in Sumter. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-11-22",
+      "source_url": "https://coupons-2save.com/greatclips/$12-99",
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 at Great Clips Pleasanton Gateway at 6766 Bernal Ave in Pleasanton. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
+      "expiration_date": "2026-12-28",
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Gateway Plaza, Sumter, SC",
+      "geographic_description": "Great Clips Pleasanton Gateway, Pleasanton, CA",
       "eligible_cities": [
-        "Sumter"
+        "Pleasanton"
       ],
       "eligible_states": [
-        "SC"
+        "CA"
       ],
-      "terms": "Valid at Great Clips Gateway Plaza at 1330 Broad Street in Sumter, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/22/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "terms": "Valid at Great Clips Pleasanton Gateway at 6766 Bernal Ave in Pleasanton, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/28/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
       "discovery_confidence": "high",
       "eligible_salon_ids": [
-        "4367"
-      ]
-    },
-    {
-      "external_offer_id": "w0b3Fyc",
-      "official_url": "https://offers.greatclips.com/w0b3Fyc",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$13-99",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips Second Mill Plaza at 2085 Wedgefield Rd in Sumter. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-11-22",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Second Mill Plaza, Sumter, SC",
-      "eligible_cities": [
-        "Sumter"
-      ],
-      "eligible_states": [
-        "SC"
-      ],
-      "terms": "Valid at Great Clips Second Mill Plaza at 2085 Wedgefield Rd in Sumter, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/22/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4359"
+        "8837"
       ]
     },
     {
