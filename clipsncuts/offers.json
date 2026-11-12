@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-11T19:18:37.928Z",
+  "scraped_at": "2026-11-12T19:38:51.729Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -865,30 +865,6 @@
       ]
     },
     {
-      "external_offer_id": "jGrvJKC",
-      "official_url": "https://offers.greatclips.com/jGrvJKC",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips",
-      "title": "$4.99 Haircut",
-      "description": "Get a great haircut for $4.99 at Great Clips Sunterra Shopping Center at 28030 Stockdick School Rd in Katy. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 4.99,
-      "expiration_date": "2026-11-11",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Sunterra Shopping Center, Katy, TX",
-      "eligible_cities": [
-        "Katy"
-      ],
-      "eligible_states": [
-        "TX"
-      ],
-      "terms": "Valid at Great Clips Sunterra Shopping Center at 28030 Stockdick School Rd in Katy, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8450/50707-002-1200x600-4.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4266"
-      ]
-    },
-    {
       "external_offer_id": "mvoeYl6",
       "official_url": "https://offers.greatclips.com/mvoeYl6",
       "source": "meta_ads",
@@ -910,30 +886,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "3396"
-      ]
-    },
-    {
-      "external_offer_id": "nPr2E4E",
-      "official_url": "https://offers.greatclips.com/nPr2E4E",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips",
-      "title": "$18.99 Haircut",
-      "description": "Get a great haircut for $18.99 at Great Clips Duvall Town Center at 15420 Main Street in Duvall. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 18.99,
-      "expiration_date": "2026-11-11",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Duvall Town Center, Duvall, WA",
-      "eligible_cities": [
-        "Duvall"
-      ],
-      "eligible_states": [
-        "WA"
-      ],
-      "terms": "Valid at Great Clips Duvall Town Center at 15420 Main Street in Duvall, WA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8480/50707-002-1200x600-18.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "3957"
       ]
     },
     {
@@ -1445,6 +1397,29 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "0409"
+      ]
+    },
+    {
+      "external_offer_id": "2hBdpln",
+      "official_url": "https://offers.greatclips.com/2hBdpln",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$5.00 Off Haircut",
+      "description": "Get a great haircut for $5.00 off at Great Clips Coddingtown Shopping Center at 345 B Coddingtown Ctr in Santa Rosa. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "expiration_date": "2026-11-30",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Coddingtown Shopping Center, Santa Rosa, CA",
+      "eligible_cities": [
+        "Santa Rosa"
+      ],
+      "eligible_states": [
+        "CA"
+      ],
+      "terms": "Valid at Great Clips Coddingtown Shopping Center at 345 B Coddingtown Ctr in Santa Rosa, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/30/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8432/50707-002-1200x600-US-Sparkfly-5off.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "5271"
       ]
     },
     {
@@ -2109,30 +2084,6 @@
       ]
     },
     {
-      "external_offer_id": "7z3bK7a",
-      "official_url": "https://offers.greatclips.com/7z3bK7a",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips Coal Creek Village at 6971 Coal Creek Pkwy SE in Newcastle. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-11-11",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Coal Creek Village, Newcastle, WA",
-      "eligible_cities": [
-        "Newcastle"
-      ],
-      "eligible_states": [
-        "WA"
-      ],
-      "terms": "Valid at Great Clips Coal Creek Village at 6971 Coal Creek Pkwy SE in Newcastle, WA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/11/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2407"
-      ]
-    },
-    {
       "external_offer_id": "87AjNWK",
       "official_url": "https://offers.greatclips.com/87AjNWK",
       "source": "meta_ads",
@@ -2612,6 +2563,30 @@
       ]
     },
     {
+      "external_offer_id": "CugJuJz",
+      "official_url": "https://offers.greatclips.com/CugJuJz",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 at Great Clips Cross Point at 5737 S Harrison Blvd in South Ogden. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-12-03",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Cross Point, South Ogden, UT",
+      "eligible_cities": [
+        "South Ogden"
+      ],
+      "eligible_states": [
+        "UT"
+      ],
+      "terms": "Valid at Great Clips Cross Point at 5737 S Harrison Blvd in South Ogden, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/03/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1921"
+      ]
+    },
+    {
       "external_offer_id": "D0W2MgC",
       "official_url": "https://offers.greatclips.com/D0W2MgC",
       "source": "meta_ads",
@@ -2753,6 +2728,29 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "2342"
+      ]
+    },
+    {
+      "external_offer_id": "EoOTKWh",
+      "official_url": "https://offers.greatclips.com/EoOTKWh",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$5.00 Off Haircut",
+      "description": "Get a great haircut for $5.00 off at Great Clips Saint Francis at 140 Calistoga Rd in Santa Rosa. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "expiration_date": "2026-11-30",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Saint Francis, Santa Rosa, CA",
+      "eligible_cities": [
+        "Santa Rosa"
+      ],
+      "eligible_states": [
+        "CA"
+      ],
+      "terms": "Valid at Great Clips Saint Francis at 140 Calistoga Rd in Santa Rosa, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/30/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8432/50707-002-1200x600-US-Sparkfly-5off.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4068"
       ]
     },
     {
@@ -3226,6 +3224,30 @@
       ]
     },
     {
+      "external_offer_id": "J460pTs",
+      "official_url": "https://offers.greatclips.com/J460pTs",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 at Great Clips Foxglove at 1286 N Hwy 89 in Farmington. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-12-03",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Foxglove, Farmington, UT",
+      "eligible_cities": [
+        "Farmington"
+      ],
+      "eligible_states": [
+        "UT"
+      ],
+      "terms": "Valid at Great Clips Foxglove at 1286 N Hwy 89 in Farmington, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/03/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1919"
+      ]
+    },
+    {
       "external_offer_id": "JeJNAtm",
       "official_url": "https://offers.greatclips.com/JeJNAtm",
       "source": "meta_ads",
@@ -3584,6 +3606,30 @@
       ]
     },
     {
+      "external_offer_id": "N7WOh7o",
+      "official_url": "https://offers.greatclips.com/N7WOh7o",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$16.99 Haircut",
+      "description": "Get a great haircut for $16.99 at Great Clips Mount's Corner Shopping Center at 220 Mount's Corner Dr in Freehold. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 16.99,
+      "expiration_date": "2026-11-27",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Mount's Corner Shopping Center, Freehold, NJ",
+      "eligible_cities": [
+        "Freehold"
+      ],
+      "eligible_states": [
+        "NJ"
+      ],
+      "terms": "Valid at Great Clips Mount's Corner Shopping Center at 220 Mount's Corner Dr in Freehold, NJ. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/27/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8475/50707-002-1200x600-16.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1633"
+      ]
+    },
+    {
       "external_offer_id": "NKTAJgW",
       "official_url": "https://offers.greatclips.com/NKTAJgW",
       "source": "meta_ads",
@@ -3728,6 +3774,30 @@
       ]
     },
     {
+      "external_offer_id": "Od5h2tT",
+      "official_url": "https://offers.greatclips.com/Od5h2tT",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 at Great Clips Marketplace Drive at 310 N Marketplace Dr in Centerville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-12-03",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Marketplace Drive, Centerville, UT",
+      "eligible_cities": [
+        "Centerville"
+      ],
+      "eligible_states": [
+        "UT"
+      ],
+      "terms": "Valid at Great Clips Marketplace Drive at 310 N Marketplace Dr in Centerville, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/03/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1938"
+      ]
+    },
+    {
       "external_offer_id": "OoAbdp6",
       "official_url": "https://offers.greatclips.com/OoAbdp6",
       "source": "meta_ads",
@@ -3797,6 +3867,29 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "4157"
+      ]
+    },
+    {
+      "external_offer_id": "PqCKqc2",
+      "official_url": "https://offers.greatclips.com/PqCKqc2",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$5.00 Off Haircut",
+      "description": "Get a great haircut for $5.00 off at Great Clips Annadel Shopping Center at 2700 Yulupa Ave in Santa Rosa. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "expiration_date": "2026-11-30",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Annadel Shopping Center, Santa Rosa, CA",
+      "eligible_cities": [
+        "Santa Rosa"
+      ],
+      "eligible_states": [
+        "CA"
+      ],
+      "terms": "Valid at Great Clips Annadel Shopping Center at 2700 Yulupa Ave in Santa Rosa, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/30/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8432/50707-002-1200x600-US-Sparkfly-5off.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "8756"
       ]
     },
     {
@@ -4180,6 +4273,30 @@
       ]
     },
     {
+      "external_offer_id": "TI18EHe",
+      "official_url": "https://offers.greatclips.com/TI18EHe",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 at Great Clips Country Hills at 4281 Harrison Blvd in South Ogden. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-12-03",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Country Hills, South Ogden, UT",
+      "eligible_cities": [
+        "South Ogden"
+      ],
+      "eligible_states": [
+        "UT"
+      ],
+      "terms": "Valid at Great Clips Country Hills at 4281 Harrison Blvd in South Ogden, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/03/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "3693"
+      ]
+    },
+    {
       "external_offer_id": "TbKGYvF",
       "official_url": "https://offers.greatclips.com/TbKGYvF",
       "source": "meta_ads",
@@ -4540,6 +4657,30 @@
       ]
     },
     {
+      "external_offer_id": "XEsZpm3",
+      "official_url": "https://offers.greatclips.com/XEsZpm3",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$17.99 Haircut",
+      "description": "Get a great haircut for $17.99 at Great Clips Keystone Arms Plaza at 1075 Harrisburg Pike in Carlisle. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 17.99,
+      "expiration_date": "2026-12-02",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Keystone Arms Plaza, Carlisle, PA",
+      "eligible_cities": [
+        "Carlisle"
+      ],
+      "eligible_states": [
+        "PA"
+      ],
+      "terms": "Valid at Great Clips Keystone Arms Plaza at 1075 Harrisburg Pike in Carlisle, PA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/02/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4152"
+      ]
+    },
+    {
       "external_offer_id": "XkSnLSE",
       "official_url": "https://offers.greatclips.com/XkSnLSE",
       "source": "meta_ads",
@@ -4680,6 +4821,30 @@
       ]
     },
     {
+      "external_offer_id": "YymMP6N",
+      "official_url": "https://offers.greatclips.com/YymMP6N",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 at Great Clips Pleasanton Gateway at 6766 Bernal Ave in Pleasanton. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
+      "expiration_date": "2026-12-28",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Pleasanton Gateway, Pleasanton, CA",
+      "eligible_cities": [
+        "Pleasanton"
+      ],
+      "eligible_states": [
+        "CA"
+      ],
+      "terms": "Valid at Great Clips Pleasanton Gateway at 6766 Bernal Ave in Pleasanton, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/28/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "8837"
+      ]
+    },
+    {
       "external_offer_id": "ZILm19V",
       "official_url": "https://offers.greatclips.com/ZILm19V",
       "source": "meta_ads",
@@ -4725,6 +4890,30 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "5730"
+      ]
+    },
+    {
+      "external_offer_id": "ZvQBRh9",
+      "official_url": "https://offers.greatclips.com/ZvQBRh9",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$11.99 Haircut",
+      "description": "Get a great haircut for $11.99 at Great Clips Tassajara Crossing at 3478 Camino Tassajara Rd in Danville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 11.99,
+      "expiration_date": "2026-12-07",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Tassajara Crossing, Danville, CA",
+      "eligible_cities": [
+        "Danville"
+      ],
+      "eligible_states": [
+        "CA"
+      ],
+      "terms": "Valid at Great Clips Tassajara Crossing at 3478 Camino Tassajara Rd in Danville, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/07/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8464/50707-002-1200x600-11.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "2681"
       ]
     },
     {
@@ -4982,6 +5171,30 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "4501"
+      ]
+    },
+    {
+      "external_offer_id": "dANkxWY",
+      "official_url": "https://offers.greatclips.com/dANkxWY",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips McCordsville Marketplace at 6861 W Broadway in McCordsville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "expiration_date": "2026-11-27",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips McCordsville Marketplace, McCordsville, IN",
+      "eligible_cities": [
+        "McCordsville"
+      ],
+      "eligible_states": [
+        "IN"
+      ],
+      "terms": "Valid at Great Clips McCordsville Marketplace at 6861 W Broadway in McCordsville, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/27/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1400"
       ]
     },
     {
@@ -5353,6 +5566,29 @@
       ]
     },
     {
+      "external_offer_id": "gBg8RkQ",
+      "official_url": "https://offers.greatclips.com/gBg8RkQ",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$5.00 Off Haircut",
+      "description": "Get a great haircut for $5.00 off at Great Clips Vineyard Plaza at 1017 Vine St in Healdsburg. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "expiration_date": "2026-11-30",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Vineyard Plaza, Healdsburg, CA",
+      "eligible_cities": [
+        "Healdsburg"
+      ],
+      "eligible_states": [
+        "CA"
+      ],
+      "terms": "Valid at Great Clips Vineyard Plaza at 1017 Vine St in Healdsburg, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/30/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8432/50707-002-1200x600-US-Sparkfly-5off.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "5278"
+      ]
+    },
+    {
       "external_offer_id": "gJfJdqR",
       "official_url": "https://offers.greatclips.com/gJfJdqR",
       "source": "meta_ads",
@@ -5398,6 +5634,29 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "9554"
+      ]
+    },
+    {
+      "external_offer_id": "gYPKqCK",
+      "official_url": "https://offers.greatclips.com/gYPKqCK",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$5.00 Off Haircut",
+      "description": "Get a great haircut for $5.00 off at Great Clips Mendocino Marketplace at 2240 Mendocino Ave in Santa Rosa. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "expiration_date": "2026-11-30",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Mendocino Marketplace, Santa Rosa, CA",
+      "eligible_cities": [
+        "Santa Rosa"
+      ],
+      "eligible_states": [
+        "CA"
+      ],
+      "terms": "Valid at Great Clips Mendocino Marketplace at 2240 Mendocino Ave in Santa Rosa, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/30/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8432/50707-002-1200x600-US-Sparkfly-5off.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "5272"
       ]
     },
     {
@@ -5827,6 +6086,54 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "2681"
+      ]
+    },
+    {
+      "external_offer_id": "jhn8Wrt",
+      "official_url": "https://offers.greatclips.com/jhn8Wrt",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 at Great Clips Creekside Crossing at 424 E Six Forks Rd in Raleigh. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
+      "expiration_date": "2026-11-22",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Creekside Crossing, Raleigh, NC",
+      "eligible_cities": [
+        "Raleigh"
+      ],
+      "eligible_states": [
+        "NC"
+      ],
+      "terms": "Valid at Great Clips Creekside Crossing at 424 E Six Forks Rd in Raleigh, NC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/22/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4264"
+      ]
+    },
+    {
+      "external_offer_id": "jlCukDh",
+      "official_url": "https://offers.greatclips.com/jlCukDh",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 at Great Clips Gateway Crossing at 302 S 500 W in Bountiful. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-12-03",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Gateway Crossing, Bountiful, UT",
+      "eligible_cities": [
+        "Bountiful"
+      ],
+      "eligible_states": [
+        "UT"
+      ],
+      "terms": "Valid at Great Clips Gateway Crossing at 302 S 500 W in Bountiful, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/03/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "1901"
       ]
     },
     {
@@ -6394,6 +6701,30 @@
       ]
     },
     {
+      "external_offer_id": "pTdu3w5",
+      "official_url": "https://offers.greatclips.com/pTdu3w5",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 at Great Clips Wyndom Square at 1330 E Hwy 193 in Layton. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-12-03",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Wyndom Square, Layton, UT",
+      "eligible_cities": [
+        "Layton"
+      ],
+      "eligible_states": [
+        "UT"
+      ],
+      "terms": "Valid at Great Clips Wyndom Square at 1330 E Hwy 193 in Layton, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/03/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "9605"
+      ]
+    },
+    {
       "external_offer_id": "pWtBfQg",
       "official_url": "https://offers.greatclips.com/pWtBfQg",
       "source": "meta_ads",
@@ -6752,6 +7083,54 @@
       ]
     },
     {
+      "external_offer_id": "sbYaVlj",
+      "official_url": "https://offers.greatclips.com/sbYaVlj",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$14.99 Haircut",
+      "description": "Get a great haircut for $14.99 at Great Clips Woods Cross Shopping Center at 618 W 2600 S in Woods Cross. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 14.99,
+      "expiration_date": "2026-12-03",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Woods Cross Shopping Center, Woods Cross, UT",
+      "eligible_cities": [
+        "Woods Cross"
+      ],
+      "eligible_states": [
+        "UT"
+      ],
+      "terms": "Valid at Great Clips Woods Cross Shopping Center at 618 W 2600 S in Woods Cross, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/03/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "0596"
+      ]
+    },
+    {
+      "external_offer_id": "sc177pC",
+      "official_url": "https://offers.greatclips.com/sc177pC",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$15.99 Haircut",
+      "description": "Get a great haircut for $15.99 at Great Clips Montrose at 1414 Hawk Pkwy in Montrose. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 15.99,
+      "expiration_date": "2026-11-27",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Montrose, Montrose, CO",
+      "eligible_cities": [
+        "Montrose"
+      ],
+      "eligible_states": [
+        "CO"
+      ],
+      "terms": "Valid at Great Clips Montrose at 1414 Hawk Pkwy in Montrose, CO. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/27/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "6903"
+      ]
+    },
+    {
       "external_offer_id": "soTMxcd",
       "official_url": "https://offers.greatclips.com/soTMxcd",
       "source": "meta_ads",
@@ -7103,6 +7482,29 @@
       "terms": "Valid at Great Clips Homestead Square at 175 Fletcher's Creek Blvd in Brampton, ON. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/03/2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
       "discovery_confidence": "medium"
+    },
+    {
+      "external_offer_id": "ucZbmRD",
+      "official_url": "https://offers.greatclips.com/ucZbmRD",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$5.00 Off Haircut",
+      "description": "Get a great haircut for $5.00 off at Great Clips Maxwell Village at 19217 Sonoma Hwy in Sonoma. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "expiration_date": "2026-11-30",
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Maxwell Village, Sonoma, CA",
+      "eligible_cities": [
+        "Sonoma"
+      ],
+      "eligible_states": [
+        "CA"
+      ],
+      "terms": "Valid at Great Clips Maxwell Village at 19217 Sonoma Hwy in Sonoma, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/30/2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8432/50707-002-1200x600-US-Sparkfly-5off.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "8987"
+      ]
     },
     {
       "external_offer_id": "v4MK9de",
@@ -7596,410 +7998,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "2400"
-      ]
-    },
-    {
-      "external_offer_id": "EoOTKWh",
-      "official_url": "https://offers.greatclips.com/EoOTKWh",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$5off",
-      "title": "$5.00 Off Haircut",
-      "description": "Get a great haircut for $5.00 off at Great Clips Saint Francis at 140 Calistoga Rd in Santa Rosa. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "expiration_date": "2026-11-30",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Saint Francis, Santa Rosa, CA",
-      "eligible_cities": [
-        "Santa Rosa"
-      ],
-      "eligible_states": [
-        "CA"
-      ],
-      "terms": "Valid at Great Clips Saint Francis at 140 Calistoga Rd in Santa Rosa, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/30/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8432/50707-002-1200x600-US-Sparkfly-5off.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4068"
-      ]
-    },
-    {
-      "external_offer_id": "PqCKqc2",
-      "official_url": "https://offers.greatclips.com/PqCKqc2",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$5off",
-      "title": "$5.00 Off Haircut",
-      "description": "Get a great haircut for $5.00 off at Great Clips Annadel Shopping Center at 2700 Yulupa Ave in Santa Rosa. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "expiration_date": "2026-11-30",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Annadel Shopping Center, Santa Rosa, CA",
-      "eligible_cities": [
-        "Santa Rosa"
-      ],
-      "eligible_states": [
-        "CA"
-      ],
-      "terms": "Valid at Great Clips Annadel Shopping Center at 2700 Yulupa Ave in Santa Rosa, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/30/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8432/50707-002-1200x600-US-Sparkfly-5off.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "8756"
-      ]
-    },
-    {
-      "external_offer_id": "gYPKqCK",
-      "official_url": "https://offers.greatclips.com/gYPKqCK",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$5off",
-      "title": "$5.00 Off Haircut",
-      "description": "Get a great haircut for $5.00 off at Great Clips Mendocino Marketplace at 2240 Mendocino Ave in Santa Rosa. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "expiration_date": "2026-11-30",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Mendocino Marketplace, Santa Rosa, CA",
-      "eligible_cities": [
-        "Santa Rosa"
-      ],
-      "eligible_states": [
-        "CA"
-      ],
-      "terms": "Valid at Great Clips Mendocino Marketplace at 2240 Mendocino Ave in Santa Rosa, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/30/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8432/50707-002-1200x600-US-Sparkfly-5off.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "5272"
-      ]
-    },
-    {
-      "external_offer_id": "ucZbmRD",
-      "official_url": "https://offers.greatclips.com/ucZbmRD",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$5off",
-      "title": "$5.00 Off Haircut",
-      "description": "Get a great haircut for $5.00 off at Great Clips Maxwell Village at 19217 Sonoma Hwy in Sonoma. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "expiration_date": "2026-11-30",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Maxwell Village, Sonoma, CA",
-      "eligible_cities": [
-        "Sonoma"
-      ],
-      "eligible_states": [
-        "CA"
-      ],
-      "terms": "Valid at Great Clips Maxwell Village at 19217 Sonoma Hwy in Sonoma, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/30/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8432/50707-002-1200x600-US-Sparkfly-5off.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "8987"
-      ]
-    },
-    {
-      "external_offer_id": "ZvQBRh9",
-      "official_url": "https://offers.greatclips.com/ZvQBRh9",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$11-99",
-      "title": "$11.99 Haircut",
-      "description": "Get a great haircut for $11.99 at Great Clips Tassajara Crossing at 3478 Camino Tassajara Rd in Danville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 11.99,
-      "expiration_date": "2026-12-07",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Tassajara Crossing, Danville, CA",
-      "eligible_cities": [
-        "Danville"
-      ],
-      "eligible_states": [
-        "CA"
-      ],
-      "terms": "Valid at Great Clips Tassajara Crossing at 3478 Camino Tassajara Rd in Danville, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/07/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8464/50707-002-1200x600-11.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "2681"
-      ]
-    },
-    {
-      "external_offer_id": "YymMP6N",
-      "official_url": "https://offers.greatclips.com/YymMP6N",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$12-99",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 at Great Clips Pleasanton Gateway at 6766 Bernal Ave in Pleasanton. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "expiration_date": "2026-12-28",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Pleasanton Gateway, Pleasanton, CA",
-      "eligible_cities": [
-        "Pleasanton"
-      ],
-      "eligible_states": [
-        "CA"
-      ],
-      "terms": "Valid at Great Clips Pleasanton Gateway at 6766 Bernal Ave in Pleasanton, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/28/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "8837"
-      ]
-    },
-    {
-      "external_offer_id": "dANkxWY",
-      "official_url": "https://offers.greatclips.com/dANkxWY",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$13-99",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips McCordsville Marketplace at 6861 W Broadway in McCordsville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "expiration_date": "2026-11-27",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips McCordsville Marketplace, McCordsville, IN",
-      "eligible_cities": [
-        "McCordsville"
-      ],
-      "eligible_states": [
-        "IN"
-      ],
-      "terms": "Valid at Great Clips McCordsville Marketplace at 6861 W Broadway in McCordsville, IN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/27/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1400"
-      ]
-    },
-    {
-      "external_offer_id": "CugJuJz",
-      "official_url": "https://offers.greatclips.com/CugJuJz",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$14-99",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips Cross Point at 5737 S Harrison Blvd in South Ogden. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-12-03",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Cross Point, South Ogden, UT",
-      "eligible_cities": [
-        "South Ogden"
-      ],
-      "eligible_states": [
-        "UT"
-      ],
-      "terms": "Valid at Great Clips Cross Point at 5737 S Harrison Blvd in South Ogden, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/03/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1921"
-      ]
-    },
-    {
-      "external_offer_id": "J460pTs",
-      "official_url": "https://offers.greatclips.com/J460pTs",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$14-99",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips Foxglove at 1286 N Hwy 89 in Farmington. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-12-03",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Foxglove, Farmington, UT",
-      "eligible_cities": [
-        "Farmington"
-      ],
-      "eligible_states": [
-        "UT"
-      ],
-      "terms": "Valid at Great Clips Foxglove at 1286 N Hwy 89 in Farmington, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/03/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1919"
-      ]
-    },
-    {
-      "external_offer_id": "Od5h2tT",
-      "official_url": "https://offers.greatclips.com/Od5h2tT",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$14-99",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips Marketplace Drive at 310 N Marketplace Dr in Centerville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-12-03",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Marketplace Drive, Centerville, UT",
-      "eligible_cities": [
-        "Centerville"
-      ],
-      "eligible_states": [
-        "UT"
-      ],
-      "terms": "Valid at Great Clips Marketplace Drive at 310 N Marketplace Dr in Centerville, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/03/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1938"
-      ]
-    },
-    {
-      "external_offer_id": "TI18EHe",
-      "official_url": "https://offers.greatclips.com/TI18EHe",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$14-99",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips Country Hills at 4281 Harrison Blvd in South Ogden. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-12-03",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Country Hills, South Ogden, UT",
-      "eligible_cities": [
-        "South Ogden"
-      ],
-      "eligible_states": [
-        "UT"
-      ],
-      "terms": "Valid at Great Clips Country Hills at 4281 Harrison Blvd in South Ogden, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/03/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "3693"
-      ]
-    },
-    {
-      "external_offer_id": "jlCukDh",
-      "official_url": "https://offers.greatclips.com/jlCukDh",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$14-99",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips Gateway Crossing at 302 S 500 W in Bountiful. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-12-03",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Gateway Crossing, Bountiful, UT",
-      "eligible_cities": [
-        "Bountiful"
-      ],
-      "eligible_states": [
-        "UT"
-      ],
-      "terms": "Valid at Great Clips Gateway Crossing at 302 S 500 W in Bountiful, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/03/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1901"
-      ]
-    },
-    {
-      "external_offer_id": "pTdu3w5",
-      "official_url": "https://offers.greatclips.com/pTdu3w5",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$14-99",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips Wyndom Square at 1330 E Hwy 193 in Layton. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-12-03",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Wyndom Square, Layton, UT",
-      "eligible_cities": [
-        "Layton"
-      ],
-      "eligible_states": [
-        "UT"
-      ],
-      "terms": "Valid at Great Clips Wyndom Square at 1330 E Hwy 193 in Layton, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/03/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "9605"
-      ]
-    },
-    {
-      "external_offer_id": "sbYaVlj",
-      "official_url": "https://offers.greatclips.com/sbYaVlj",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$14-99",
-      "title": "$14.99 Haircut",
-      "description": "Get a great haircut for $14.99 at Great Clips Woods Cross Shopping Center at 618 W 2600 S in Woods Cross. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 14.99,
-      "expiration_date": "2026-12-03",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Woods Cross Shopping Center, Woods Cross, UT",
-      "eligible_cities": [
-        "Woods Cross"
-      ],
-      "eligible_states": [
-        "UT"
-      ],
-      "terms": "Valid at Great Clips Woods Cross Shopping Center at 618 W 2600 S in Woods Cross, UT. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/03/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8470/50707-002-1200x600-14.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "0596"
-      ]
-    },
-    {
-      "external_offer_id": "sc177pC",
-      "official_url": "https://offers.greatclips.com/sc177pC",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$15-99",
-      "title": "$15.99 Haircut",
-      "description": "Get a great haircut for $15.99 at Great Clips Montrose at 1414 Hawk Pkwy in Montrose. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 15.99,
-      "expiration_date": "2026-11-27",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Montrose, Montrose, CO",
-      "eligible_cities": [
-        "Montrose"
-      ],
-      "eligible_states": [
-        "CO"
-      ],
-      "terms": "Valid at Great Clips Montrose at 1414 Hawk Pkwy in Montrose, CO. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/27/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8472/50707-002-1200x600-15.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "6903"
-      ]
-    },
-    {
-      "external_offer_id": "N7WOh7o",
-      "official_url": "https://offers.greatclips.com/N7WOh7o",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$16-99",
-      "title": "$16.99 Haircut",
-      "description": "Get a great haircut for $16.99 at Great Clips Mount's Corner Shopping Center at 220 Mount's Corner Dr in Freehold. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 16.99,
-      "expiration_date": "2026-11-27",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Mount's Corner Shopping Center, Freehold, NJ",
-      "eligible_cities": [
-        "Freehold"
-      ],
-      "eligible_states": [
-        "NJ"
-      ],
-      "terms": "Valid at Great Clips Mount's Corner Shopping Center at 220 Mount's Corner Dr in Freehold, NJ. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/27/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8475/50707-002-1200x600-16.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "1633"
-      ]
-    },
-    {
-      "external_offer_id": "XEsZpm3",
-      "official_url": "https://offers.greatclips.com/XEsZpm3",
-      "source": "meta_ads",
-      "source_url": "https://coupons-2save.com/greatclips/$17-99",
-      "title": "$17.99 Haircut",
-      "description": "Get a great haircut for $17.99 at Great Clips Keystone Arms Plaza at 1075 Harrisburg Pike in Carlisle. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 17.99,
-      "expiration_date": "2026-12-02",
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Keystone Arms Plaza, Carlisle, PA",
-      "eligible_cities": [
-        "Carlisle"
-      ],
-      "eligible_states": [
-        "PA"
-      ],
-      "terms": "Valid at Great Clips Keystone Arms Plaza at 1075 Harrisburg Pike in Carlisle, PA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 12/02/2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8477/50707-002-1200x600-17.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4152"
       ]
     }
   ]
