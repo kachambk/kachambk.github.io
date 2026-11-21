@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-20T16:58:14.268Z",
+  "scraped_at": "2026-11-21T04:51:59.114Z",
   "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
   "offers": [
     {
@@ -19,52 +19,6 @@
       "terms": "Valid only at participating CSRA area Great Clips salons. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires Nov 25, 2026. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/18183/9.99%20Haircut%20Coupon.jpg",
       "discovery_confidence": "medium"
-    },
-    {
-      "external_offer_id": "1wbpUOD",
-      "official_url": "https://offers.greatclips.com/1wbpUOD",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$9.99 Haircut",
-      "description": "Get a great haircut for $9.99 at Great Clips Harrison Food City at 8618 Tennessee Hwy 58 in Harrison. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 9.99,
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Harrison Food City, Harrison, TN",
-      "eligible_cities": [
-        "Harrison"
-      ],
-      "eligible_states": [
-        "TN"
-      ],
-      "terms": "Valid at Great Clips Harrison Food City at 8618 Tennessee Hwy 58 in Harrison, TN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Nov 27, 2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4190"
-      ]
-    },
-    {
-      "external_offer_id": "5U6GMle",
-      "official_url": "https://offers.greatclips.com/5U6GMle",
-      "source": "meta_ads",
-      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 at Great Clips Shippensburg Shopping Center at 40 Shippensburg SC in Shippensburg. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Shippensburg Shopping Center, Shippensburg, PA",
-      "eligible_cities": [
-        "Shippensburg"
-      ],
-      "eligible_states": [
-        "PA"
-      ],
-      "terms": "Valid at Great Clips Shippensburg Shopping Center at 40 Shippensburg SC in Shippensburg, PA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Nov 27, 2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "5874"
-      ]
     },
     {
       "external_offer_id": "6VusHl4",
@@ -205,26 +159,49 @@
       ]
     },
     {
-      "external_offer_id": "SeG55Gu",
-      "official_url": "https://offers.greatclips.com/SeG55Gu",
+      "external_offer_id": "Rx2KiBj",
+      "official_url": "https://offers.greatclips.com/Rx2KiBj",
       "source": "meta_ads",
       "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
-      "title": "$4.99 Haircut",
-      "description": "Get a great haircut for $4.99 at Great Clips Park Place at 46 MacCorkle Ave SW in South Charleston. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 4.99,
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 at Great Clips Kinsley's Plaza at 107 Kinsley Dr in Brodheadsville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
       "geographic_type": "salon",
-      "geographic_description": "Great Clips Park Place, South Charleston, WV",
+      "geographic_description": "Great Clips Kinsley's Plaza, Brodheadsville, PA",
       "eligible_cities": [
-        "South Charleston"
+        "Brodheadsville"
       ],
       "eligible_states": [
-        "WV"
+        "PA"
       ],
-      "terms": "Valid at Great Clips Park Place at 46 MacCorkle Ave SW in South Charleston, WV. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Dec 4, 2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8450/50707-002-1200x600-4.99.jpg",
+      "terms": "Valid at Great Clips Kinsley's Plaza at 107 Kinsley Dr in Brodheadsville, PA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Nov 27, 2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
       "discovery_confidence": "high",
       "eligible_salon_ids": [
-        "4195"
+        "0348"
+      ]
+    },
+    {
+      "external_offer_id": "S4UF84l",
+      "official_url": "https://offers.greatclips.com/S4UF84l",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$10.99 Haircut",
+      "description": "Get a great haircut for $10.99 at Great Clips Clemson Bi Lo Center at 501 Old Greenville Hwy in Clemson. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 10.99,
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Clemson Bi Lo Center, Clemson, SC",
+      "eligible_cities": [
+        "Clemson"
+      ],
+      "eligible_states": [
+        "SC"
+      ],
+      "terms": "Valid at Great Clips Clemson Bi Lo Center at 501 Old Greenville Hwy in Clemson, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Dec 9, 2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "7009"
       ]
     },
     {
@@ -568,6 +545,29 @@
       ]
     },
     {
+      "external_offer_id": "xkE4CCQ",
+      "official_url": "https://offers.greatclips.com/xkE4CCQ",
+      "source": "meta_ads",
+      "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=offers.greatclips.com&search_type=keyword_unordered&media_type=all",
+      "title": "$10.99 Haircut",
+      "description": "Get a great haircut for $10.99 at Great Clips Verrado Marketplace at 1525 N Verrado Way in Buckeye. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 10.99,
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Verrado Marketplace, Buckeye, AZ",
+      "eligible_cities": [
+        "Buckeye"
+      ],
+      "eligible_states": [
+        "AZ"
+      ],
+      "terms": "Valid at Great Clips Verrado Marketplace at 1525 N Verrado Way in Buckeye, AZ. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Nov 28, 2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8463/50707-002-1200x600-10.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4236"
+      ]
+    },
+    {
       "external_offer_id": "yJoSr8A",
       "official_url": "https://offers.greatclips.com/yJoSr8A",
       "source": "meta_ads",
@@ -809,6 +809,29 @@
       "terms": "Valid at Great Clips Whitney Ranch at 920 University Ave in Rocklin, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Jan 23, 2027. All Great Clips® salons are independently owned and operated.",
       "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8478/50707-002-1200x600-17.99.jpg",
       "discovery_confidence": "medium"
+    },
+    {
+      "external_offer_id": "SeG55Gu",
+      "official_url": "https://offers.greatclips.com/SeG55Gu",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips",
+      "title": "$4.99 Haircut",
+      "description": "Get a great haircut for $4.99 at Great Clips Park Place at 46 MacCorkle Ave SW in South Charleston. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 4.99,
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Park Place, South Charleston, WV",
+      "eligible_cities": [
+        "South Charleston"
+      ],
+      "eligible_states": [
+        "WV"
+      ],
+      "terms": "Valid at Great Clips Park Place at 46 MacCorkle Ave SW in South Charleston, WV. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Dec 4, 2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8450/50707-002-1200x600-4.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4195"
+      ]
     },
     {
       "external_offer_id": "U1hTU3F",
@@ -1558,6 +1581,29 @@
       ]
     },
     {
+      "external_offer_id": "1wbpUOD",
+      "official_url": "https://offers.greatclips.com/1wbpUOD",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$9.99 Haircut",
+      "description": "Get a great haircut for $9.99 at Great Clips Harrison Food City at 8618 Tennessee Hwy 58 in Harrison. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 9.99,
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Harrison Food City, Harrison, TN",
+      "eligible_cities": [
+        "Harrison"
+      ],
+      "eligible_states": [
+        "TN"
+      ],
+      "terms": "Valid at Great Clips Harrison Food City at 8618 Tennessee Hwy 58 in Harrison, TN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Nov 27, 2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8460/50707-002-1200x600-9.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4190"
+      ]
+    },
+    {
       "external_offer_id": "1znRifW",
       "official_url": "https://offers.greatclips.com/1znRifW",
       "source": "meta_ads",
@@ -2011,6 +2057,29 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "3946"
+      ]
+    },
+    {
+      "external_offer_id": "5U6GMle",
+      "official_url": "https://offers.greatclips.com/5U6GMle",
+      "source": "meta_ads",
+      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
+      "title": "$12.99 Haircut",
+      "description": "Get a great haircut for $12.99 at Great Clips Shippensburg Shopping Center at 40 Shippensburg SC in Shippensburg. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 12.99,
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Shippensburg Shopping Center, Shippensburg, PA",
+      "eligible_cities": [
+        "Shippensburg"
+      ],
+      "eligible_states": [
+        "PA"
+      ],
+      "terms": "Valid at Great Clips Shippensburg Shopping Center at 40 Shippensburg SC in Shippensburg, PA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Nov 27, 2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "5874"
       ]
     },
     {
@@ -4424,29 +4493,6 @@
       ]
     },
     {
-      "external_offer_id": "Rx2KiBj",
-      "official_url": "https://offers.greatclips.com/Rx2KiBj",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$12.99 Haircut",
-      "description": "Get a great haircut for $12.99 at Great Clips Kinsley's Plaza at 107 Kinsley Dr in Brodheadsville. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 12.99,
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Kinsley's Plaza, Brodheadsville, PA",
-      "eligible_cities": [
-        "Brodheadsville"
-      ],
-      "eligible_states": [
-        "PA"
-      ],
-      "terms": "Valid at Great Clips Kinsley's Plaza at 107 Kinsley Dr in Brodheadsville, PA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Nov 27, 2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8466/50707-002-1200x600-12.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "0348"
-      ]
-    },
-    {
       "external_offer_id": "RyfmwVz",
       "official_url": "https://offers.greatclips.com/RyfmwVz",
       "source": "meta_ads",
@@ -4467,29 +4513,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "9076"
-      ]
-    },
-    {
-      "external_offer_id": "S4UF84l",
-      "official_url": "https://offers.greatclips.com/S4UF84l",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$10.99 Haircut",
-      "description": "Get a great haircut for $10.99 at Great Clips Clemson Bi Lo Center at 501 Old Greenville Hwy in Clemson. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 10.99,
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Clemson Bi Lo Center, Clemson, SC",
-      "eligible_cities": [
-        "Clemson"
-      ],
-      "eligible_states": [
-        "SC"
-      ],
-      "terms": "Valid at Great Clips Clemson Bi Lo Center at 501 Old Greenville Hwy in Clemson, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Dec 9, 2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8462/50707-002-1200x600-10.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "7009"
       ]
     },
     {
@@ -5520,29 +5543,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "1507"
-      ]
-    },
-    {
-      "external_offer_id": "aEE4a0D",
-      "official_url": "https://offers.greatclips.com/aEE4a0D",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips Gateway Plaza at 1330 Broad Street in Sumter. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Gateway Plaza, Sumter, SC",
-      "eligible_cities": [
-        "Sumter"
-      ],
-      "eligible_states": [
-        "SC"
-      ],
-      "terms": "Valid at Great Clips Gateway Plaza at 1330 Broad Street in Sumter, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Nov 22, 2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4367"
       ]
     },
     {
@@ -8638,29 +8638,6 @@
       ]
     },
     {
-      "external_offer_id": "w0b3Fyc",
-      "official_url": "https://offers.greatclips.com/w0b3Fyc",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$13.99 Haircut",
-      "description": "Get a great haircut for $13.99 at Great Clips Second Mill Plaza at 2085 Wedgefield Rd in Sumter. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 13.99,
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Second Mill Plaza, Sumter, SC",
-      "eligible_cities": [
-        "Sumter"
-      ],
-      "eligible_states": [
-        "SC"
-      ],
-      "terms": "Valid at Great Clips Second Mill Plaza at 2085 Wedgefield Rd in Sumter, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Nov 22, 2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4359"
-      ]
-    },
-    {
       "external_offer_id": "w0zNcbf",
       "official_url": "https://offers.greatclips.com/w0zNcbf",
       "source": "meta_ads",
@@ -8839,29 +8816,6 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "3165"
-      ]
-    },
-    {
-      "external_offer_id": "xkE4CCQ",
-      "official_url": "https://offers.greatclips.com/xkE4CCQ",
-      "source": "meta_ads",
-      "source_url": "https://dealsfinders.com/great-clips-coupons-updated-daily-local-nationwide-deals-dealsfinders/",
-      "title": "$10.99 Haircut",
-      "description": "Get a great haircut for $10.99 at Great Clips Verrado Marketplace at 1525 N Verrado Way in Buckeye. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
-      "price": 10.99,
-      "geographic_type": "salon",
-      "geographic_description": "Great Clips Verrado Marketplace, Buckeye, AZ",
-      "eligible_cities": [
-        "Buckeye"
-      ],
-      "eligible_states": [
-        "AZ"
-      ],
-      "terms": "Valid at Great Clips Verrado Marketplace at 1525 N Verrado Way in Buckeye, AZ. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Nov 28, 2026. All Great Clips® salons are independently owned and operated.",
-      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8463/50707-002-1200x600-10.99.jpg",
-      "discovery_confidence": "high",
-      "eligible_salon_ids": [
-        "4236"
       ]
     },
     {
@@ -9199,6 +9153,52 @@
       "discovery_confidence": "high",
       "eligible_salon_ids": [
         "3080"
+      ]
+    },
+    {
+      "external_offer_id": "aEE4a0D",
+      "official_url": "https://offers.greatclips.com/aEE4a0D",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$13-99",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Gateway Plaza at 1330 Broad Street in Sumter. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Gateway Plaza, Sumter, SC",
+      "eligible_cities": [
+        "Sumter"
+      ],
+      "eligible_states": [
+        "SC"
+      ],
+      "terms": "Valid at Great Clips Gateway Plaza at 1330 Broad Street in Sumter, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Nov 22, 2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4367"
+      ]
+    },
+    {
+      "external_offer_id": "w0b3Fyc",
+      "official_url": "https://offers.greatclips.com/w0b3Fyc",
+      "source": "meta_ads",
+      "source_url": "https://coupons-2save.com/greatclips/$13-99",
+      "title": "$13.99 Haircut",
+      "description": "Get a great haircut for $13.99 at Great Clips Second Mill Plaza at 2085 Wedgefield Rd in Sumter. To redeem the offer now, click “Redeem Now” and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click “Save for Later”.",
+      "price": 13.99,
+      "geographic_type": "salon",
+      "geographic_description": "Great Clips Second Mill Plaza, Sumter, SC",
+      "eligible_cities": [
+        "Sumter"
+      ],
+      "eligible_states": [
+        "SC"
+      ],
+      "terms": "Valid at Great Clips Second Mill Plaza at 2085 Wedgefield Rd in Sumter, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires Nov 22, 2026. All Great Clips® salons are independently owned and operated.",
+      "image_url": "https://5cfac31ce2fbf02462a3-5c2a4595f00d000c62f38115ac0c4e4e.ssl.cf1.rackcdn.com/uploads_production/promotion_images/file/8468/50707-002-1200x600-13.99.jpg",
+      "discovery_confidence": "high",
+      "eligible_salon_ids": [
+        "4359"
       ]
     },
     {
